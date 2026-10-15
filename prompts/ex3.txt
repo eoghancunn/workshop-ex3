@@ -1,0 +1,1 @@
+Read PLAN.md. Propose how to implement it one step at a time. List every decision PLAN.md does not settle as a question with options, ranked by how much it could change the substantive result. Do not pick defaults. Do not edit any files.

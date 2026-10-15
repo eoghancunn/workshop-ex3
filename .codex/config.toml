@@ -1,0 +1,4 @@
+# Workshop settings for Codex. Project settings load only after you trust this folder.
+# read-only + on-request: Codex asks before writing files or running commands outside the sandbox.
+approval_policy = "on-request"
+sandbox_mode = "read-only"

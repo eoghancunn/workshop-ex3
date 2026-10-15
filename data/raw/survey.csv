@@ -1,0 +1,2001 @@
+resp_id,age,gender,sector,tenure_years,children_under12,income_band,remote_days,workload,job_satisfaction,intend_quit,weight,open_asked,open_text
+R0001,39,1,1,1,0,3,-99,2,8,0,0.499,0,
+R0002,42,1,1,3,0,1,1,3,4,0,0.609,1,My supervisor Tadhg Ó Faoláin-Reddy takes credit for everything the team does.
+R0003,37,2,1,1,1,1,2,4,6,0,0.574,0,
+R0004,46,1,1,22,1,3,3,3,5,1,0.627,1,"Happy to talk more about this, you can reach me at orla.brennan@example.org"
+R0005,40,2,5,5,0,2,0,3,5,1,1.543,0,
+R0006,67,1,5,0,0,2,0,3,5,1,1.361,1,To be honest kids were sick a lot this winter and I used up all my leave. Software changes every few months and the old workarounds stop working. Can't afford to live near work anymore so I've had to move further out.
+R0007,38,2,3,5,0,4,1,3,4,0,1.054,0,
+R0008,46,3,2,17,0,4,0,4,3,0,0.697,1,where do i start. parking at work was removed and public transport doesn't reach us. we got a 2% increase while prices went up far more.
+R0009,21,2,3,3,0,1,0,5,0,1,1.133,1,
+R0010,46,1,1,4,1,5,2,3,6,0,0.541,0,
+R0011,32,1,1,8,1,2,2,3,7,0,0.475,0,
+R0012,46,2,3,10,1,2,1,4,2,1,1.041,0,
+R0013,36,2,5,7,1,2,1,3,2,1,1.459,0,
+R0014,44,-98,2,2,1,3,2,4,-98,0,0.755,1,covering for colleagues who left and were never replaced.
+R0015,25,1,1,1,0,2,3,3,6,0,0.579,0,
+R0016,37,2,6,7,1,2,2,3,4,0,1.161,0,
+R0017,58,2,4,9,0,4,2,3,7,0,1.138,0,
+R0018,49,2,1,23,0,2,2,3,6,0,0.6,0,
+R0019,59,1,4,2,0,5,3,3,5,1,1.293,1,Staff shortages mean we're always firefighting instead of doing the actual job.
+R0020,31,1,2,4,0,2,2,4,2,1,0.686,0,
+R0021,21,2,1,3,0,2,2,4,3,1,0.595,1,Mainly the volume of admin has doubled. Forms for everything. bad management Hard to switch off when your office is your kitchen table.
+R0022,44,1,6,4,0,5,0,5,4,0,1.177,0,
+R0023,49,1,5,10,1,4,0,3,3,1,1.484,0,
+R0024,34,1,5,2,0,2,0,3,4,0,1.576,0,
+R0025,61,1,5,3,0,3,0,3,3,1,1.658,0,
+R0026,40,1,6,6,0,3,0,3,3,0,1.386,0,
+R0027,56,1,5,3,0,-99,0,4,4,0,1.519,1,
+R0028,36,2,1,6,0,3,1,4,4,1,0.582,0,
+R0029,60,1,3,5,0,5,0,4,5,0,0.936,0,
+R0030,62,2,6,9,0,5,1,2,-99,1,1.058,1,Mainly too many projects at once and no clear priorities.
+R0031,57,2,4,16,0,6,3,3,4,0,1.095,0,
+R0032,37,1,4,0,0,-99,4,2,5,0,1.249,0,
+R0033,40,2,6,7,0,-99,0,4,-98,0,1.318,0,
+R0034,41,1,5,8,0,2,1,3,4,0,1.381,0,
+R0035,37,3,3,12,1,2,1,3,2,1,1.121,1,Rent went up again and my salary didn't. Hard to stay motivated. Emails at all hours. There's no real end to the working day anymore. Juggling school runs with fixed start times is a nightmare.
+R0036,58,2,4,13,0,4,3,2,7,0,1.402,0,
+R0037,36,2,3,4,1,2,4,4,6,0,1.074,0,
+R0038,-99,1,1,13,1,1,1,3,7,1,0.504,0,
+R0039,44,1,1,2,1,2,2,3,5,0,0.573,0,
+R0040,55,1,4,2,0,6,2,2,8,0,1.367,1,Where do I start. Automated scheduling keeps putting me on shifts I can't do. Juggling school runs with fixed start times is a nightmare.
+R0041,44,2,6,11,0,5,0,3,-99,0,1.172,1,"Probably an hour and a half each way, it's exhausting. bad management Creche closed early twice a week and work wouldn't change my hours."
+R0042,43,1,4,5,1,-99,4,2,8,0,1.294,0,
+R0043,41,1,1,1,1,4,2,2,7,0,0.56,0,
+R0044,39,1,2,7,1,4,0,3,6,0,0.832,0,
+R0045,41,1,6,8,1,2,0,2,6,0,1.316,0,
+R0046,33,2,1,4,0,3,2,2,7,0,0.552,1,Long shifts with no proper breaks. New starters on the team are struggling because nobody is in the office to help them.
+R0047,30,2,6,6,1,5,3,2,-99,0,1.271,0,
+R0048,51,2,2,6,0,5,2,3,7,0,0.697,1,The return-to-office mandate added two hours of commuting to my week for no reason.
+R0049,-99,2,5,14,0,-99,1,3,5,0,1.518,0,
+R0050,61,1,1,19,0,-99,-99,2,9,1,0.609,0,
+R0051,33,2,3,6,1,2,0,4,3,0,0.962,0,
+R0052,62,1,4,13,0,5,4,2,5,0,1.314,0,
+R0053,40,1,2,5,0,3,1,4,6,0,0.662,0,
+R0054,67,2,1,23,0,-99,3,3,5,1,0.534,0,
+R0055,60,2,1,9,0,5,1,3,5,1,0.47,0,
+R0056,53,2,3,21,0,3,1,4,3,0,0.923,1,Micromanagement. Every small thing has to be signed off. The volume of admin has doubled. Forms for everything.
+R0057,62,1,2,17,1,2,2,4,5,0,0.742,0,
+R0058,26,1,1,8,1,2,3,2,-98,0,0.475,0,
+R0059,40,1,5,9,1,1,0,4,2,1,1.318,0,
+R0060,51,2,3,10,0,4,0,4,5,1,1.125,0,
+R0061,49,3,1,29,1,2,4,3,-98,0,0.623,1,
+R0062,35,1,5,0,1,2,0,2,4,1,1.576,1,"Childcare costs more than half of what I earn after tax. No flexibility for parents, you either fit their hours or you leave. Too many projects at once and no clear priorities."
+R0063,42,3,3,6,1,2,1,4,3,0,0.873,0,
+R0064,34,1,1,6,1,-99,2,2,5,0,0.526,0,
+R0065,48,1,2,28,0,2,0,4,6,0,0.807,0,
+R0066,48,2,3,3,1,4,0,4,2,1,0.927,1,Where do I start. Long shifts with no proper breaks.
+R0067,37,1,6,2,0,4,1,3,5,0,1.203,0,
+R0068,37,1,1,1,1,4,4,2,5,0,0.506,1,.
+R0069,53,2,4,23,0,3,3,2,5,1,1.425,0,
+R0070,42,2,5,8,0,1,0,4,-99,1,1.635,1,
+R0071,51,2,6,8,0,3,0,2,4,0,1.172,0,
+R0072,41,2,2,8,1,5,2,3,4,0,0.655,0,
+R0073,55,3,5,1,0,3,0,5,1,1,1.424,0,
+R0074,40,1,4,4,0,5,2,3,6,0,1.29,0,
+R0075,25,1,3,0,0,1,2,3,-99,1,1.1,1,"Biggest thing: Exhausted most of the time, honestly."
+R0076,37,1,1,0,1,2,2,2,5,0,0.592,0,
+R0077,35,2,5,7,1,2,0,3,3,0,1.65,0,
+R0078,47,2,5,10,1,2,2,4,5,1,1.308,0,
+R0079,31,2,3,5,1,-99,0,4,4,0,1.048,1,Where do I start. Mental health has taken a hit. The pressure doesn't let up.
+R0080,43,-98,3,1,0,3,1,5,2,0,0.94,0,
+R0081,29,2,3,0,1,2,1,4,-99,0,0.953,0,
+R0082,37,1,3,2,0,4,1,3,4,0,1.013,0,
+R0083,37,2,2,7,0,3,0,5,5,0,0.824,0,
+R0084,41,2,1,7,0,2,2,3,7,0,0.509,1,"Honestly, too much work, not enough hours in the day"
+R0085,67,1,5,19,0,4,0,3,4,1,1.358,0,
+R0086,33,1,1,1,0,3,4,2,3,1,0.488,0,
+R0087,47,1,2,6,0,4,0,4,5,1,0.751,0,
+R0088,49,2,1,1,1,4,2,3,6,1,0.524,0,
+R0089,53,2,5,0,1,1,0,3,5,0,1.591,1,Where do I start. Long shifts with no proper breaks. Too many projects at once and no clear priorities.
+R0090,41,1,6,4,0,4,0,3,4,0,1.196,0,
+R0091,46,2,2,10,1,6,1,4,4,1,0.701,0,
+R0092,21,2,5,3,0,1,0,3,-99,0,1.393,0,
+R0093,34,2,3,8,1,-99,0,3,5,0,0.898,1,Where do I start. Fuel prices have made driving to work really expensive. Covering for colleagues who left and were never replaced.
+R0094,31,1,4,3,0,6,3,2,6,0,1.107,1,
+R0095,25,2,4,5,0,5,4,3,7,0,1.205,0,
+R0096,51,1,3,12,0,3,2,4,3,0,1.034,0,
+R0097,21,2,1,3,0,1,3,2,5,0,0.603,1,pay. cost of living.
+R0098,67,1,1,7,0,5,1,1,3,1,0.534,1,Probably commuting costs
+R0099,55,1,1,21,0,-99,2,3,2,1,0.557,1,"Honestly, rent went up again and my salary didn't. Hard to stay motivated."
+R0100,66,1,5,11,0,4,0,3,6,1,1.572,0,
+R0101,42,1,3,2,1,3,0,3,5,0,0.998,0,
+R0102,47,1,4,1,0,-99,4,2,6,1,1.191,0,
+R0103,36,2,3,1,0,6,0,4,4,0,1.046,1,Covering for colleagues who left and were never replaced. Management don't listen and decisions come down with no explanation. Long shifts with no proper breaks.
+R0104,50,1,1,1,0,2,1,3,7,1,0.51,0,
+R0105,58,1,1,6,0,5,3,3,4,0,0.579,0,
+R0106,42,2,1,15,1,3,3,3,5,0,0.537,0,
+R0107,30,1,4,2,0,4,4,3,5,0,1.205,1,Covering for colleagues who left and were never replaced.
+R0108,56,2,3,4,0,3,1,3,6,1,1.098,1,
+R0109,33,1,1,2,1,4,2,2,3,1,0.503,1,Where do I start. Poor communication from the top. We hear about changes from the news first.
+R0110,53,1,4,23,0,-99,5,1,9,0,1.18,0,
+R0111,44,2,3,2,0,3,0,5,5,1,0.948,0,
+R0112,35,2,5,16,1,-99,2,4,2,0,1.441,0,
+R0113,36,-98,1,13,0,2,0,3,8,0,0.597,1,
+R0114,39,2,5,2,0,3,0,3,3,1,1.435,0,
+R0115,59,1,4,15,0,4,3,3,6,0,1.324,1,Micromanagement. Every small thing has to be signed off.
+R0116,56,1,1,3,0,4,1,2,6,1,0.527,0,
+R0117,50,1,5,0,0,3,0,3,5,0,1.488,0,
+R0118,40,2,5,15,1,2,0,4,4,1,1.455,0,
+R0119,48,2,4,4,1,5,3,3,10,0,1.419,1,"Honestly, caring for my mother on top of a full-time job."
+R0120,45,2,1,3,0,2,2,2,5,1,0.522,1,N/A
+R0121,27,2,3,9,0,3,1,3,7,0,0.953,0,
+R0122,43,1,3,6,1,-99,0,3,2,0,0.943,0,
+R0123,38,2,4,4,0,4,3,3,5,0,1.224,0,
+R0124,43,2,1,17,1,4,3,2,7,0,0.524,1,Being told to come in more days when the work can be done from home.
+R0125,48,1,5,8,1,2,2,4,8,0,1.283,0,
+R0126,46,1,5,9,1,3,0,4,4,0,1.281,0,
+R0127,53,1,5,10,0,3,1,3,5,0,1.307,0,
+R0128,38,1,1,14,0,5,1,2,8,0,0.563,1,"Honestly, kids were sick a lot this winter and I used up all my leave. Train cancellations nearly every week. Senior leadership seem out of touch with what the job involves on the ground."
+R0129,25,1,2,7,0,2,3,2,4,1,0.66,0,
+R0130,41,2,2,10,1,3,0,3,6,0,0.849,0,
+R0131,54,1,3,13,0,4,1,3,2,1,0.95,1,To be honest the workload has gone up a lot and we haven't hired anyone to cover it. Too many apps and logins. Information is spread across five systems. Caring for my mother on top of a full-time job.
+R0132,67,2,4,3,0,5,2,4,5,0,1.282,0,
+R0133,35,1,3,15,1,4,0,4,5,0,1.124,0,
+R0134,21,2,3,3,1,3,0,4,4,1,0.923,0,
+R0135,38,1,5,9,0,2,0,3,3,0,1.285,0,
+R0136,45,2,5,7,0,3,0,4,2,0,1.451,0,
+R0137,39,2,3,2,1,5,1,4,5,0,1.034,0,
+R0138,26,1,4,0,0,3,5,2,6,1,1.186,0,
+R0139,63,1,1,6,0,4,0,3,1,1,0.625,0,
+R0140,51,2,5,3,0,2,2,3,-99,0,1.522,0,
+R0141,28,2,5,10,0,-99,0,3,-99,1,1.63,0,
+R0142,41,2,6,3,0,-99,0,2,5,0,1.079,1,"Exhausted most of the time, honestly. Being expected to answer messages in the evenings and at weekends. No recognition for extra effort, only criticism when something goes wrong."
+R0143,42,1,4,7,0,6,3,2,5,1,1.432,0,
+R0144,23,2,5,5,0,1,0,3,2,1,1.674,0,
+R0145,46,1,5,5,0,3,0,2,2,0,1.613,1,
+R0146,42,1,3,3,1,5,1,4,-98,0,0.955,1,commuting costs the new performance review system feels like box ticking.
+R0147,42,2,5,2,1,2,0,5,4,1,1.385,1,
+R0148,31,2,6,1,1,2,2,4,3,0,1.052,0,
+R0149,43,1,1,16,1,4,2,4,4,1,0.504,1,Hard to say but hard to switch off when your office is your kitchen table. commuting costs
+R0150,45,2,3,3,0,3,1,4,5,0,0.91,0,
+R0151,25,-98,4,7,0,3,4,3,7,1,1.113,0,
+R0152,42,2,6,13,0,3,1,3,-98,0,1.339,0,
+R0153,40,1,2,7,1,2,1,4,1,1,0.788,0,
+R0154,28,1,4,2,0,3,3,4,7,0,1.175,0,
+R0155,48,2,4,14,0,6,-99,3,8,0,1.274,0,
+R0156,43,2,4,1,1,4,5,2,3,1,1.316,0,
+R0157,44,2,2,21,0,6,2,3,5,0,0.844,1,to be honest dealing with aggressive customers has made me anxious about going in. the workload has gone up a lot and we haven't hired anyone to cover it.
+R0158,55,2,2,9,0,2,1,2,7,0,0.764,0,
+R0159,43,3,6,2,1,4,1,3,-98,0,1.088,0,
+R0160,55,2,5,0,0,-99,1,3,3,0,1.324,1,hard to say but staff shortages mean we're always firefighting instead of doing the actual job. being told to come in more days when the work can be done from home.
+R0161,37,1,5,4,0,2,1,4,4,1,1.313,1,Hard to say but burnout. I've been off sick twice this year with stress. The volume of admin has doubled. Forms for everything.
+R0162,49,2,2,0,0,6,1,3,6,1,0.743,1,Where do I start. commuting costs Software changes every few months and the old workarounds stop working.
+R0163,42,1,5,24,1,-99,1,2,3,1,1.359,0,
+R0164,44,2,1,4,1,4,3,3,8,0,0.541,1,Long shifts with no proper breaks.
+R0165,58,1,5,15,0,-99,2,2,5,0,1.509,0,
+R0166,50,1,1,6,0,4,2,2,5,0,0.554,1,Can't afford to live near work anymore so I've had to move further out. Poor communication from the top. We hear about changes from the news first.
+R0167,37,2,6,1,0,3,0,3,4,1,1.245,0,
+R0168,35,2,5,14,0,1,2,4,5,1,1.277,0,
+R0169,57,2,1,2,0,6,2,2,4,1,0.615,0,
+R0170,51,2,4,3,0,-99,2,3,7,0,1.225,0,
+R0171,35,2,2,4,1,4,2,3,6,1,0.803,0,
+R0172,40,1,3,17,0,1,-99,5,2,1,0.868,0,
+R0173,39,1,5,2,0,1,0,2,4,1,1.429,1,
+R0174,46,1,4,28,0,2,4,2,7,0,1.2,0,
+R0175,21,2,4,3,0,-99,3,2,5,1,1.419,0,
+R0176,58,1,1,9,0,4,1,4,6,0,0.469,0,
+R0177,35,2,4,1,0,5,4,2,10,0,1.346,1,"Nothing, it's been a good year actually."
+R0178,39,2,3,15,1,4,2,4,-99,1,0.853,0,
+R0179,67,1,2,7,0,3,0,4,5,1,0.712,0,
+R0180,36,-98,5,13,0,3,0,3,-98,0,1.389,1,"Honestly, rent went up again and my salary didn't. Hard to stay motivated."
+R0181,50,1,2,18,0,4,0,4,-99,1,0.815,0,
+R0182,44,2,1,2,0,4,1,3,4,1,0.545,0,
+R0183,36,1,5,9,1,2,0,3,4,0,1.606,0,
+R0184,38,1,3,5,1,3,1,3,-98,1,1.079,0,
+R0185,41,2,3,7,0,3,0,3,4,1,1.138,0,
+R0186,53,2,5,0,0,1,0,3,3,1,1.519,0,
+R0187,44,2,5,8,0,4,1,3,3,0,1.445,0,
+R0188,49,2,4,6,1,5,4,3,5,1,1.432,1,"Honestly, the commute. Traffic is worse than ever and the buses are unreliable. No flexibility for parents, you either fit their hours or you leave. Hybrid is fine but the office days are just video calls from a different desk."
+R0189,46,2,1,9,1,5,2,3,6,1,0.623,1,Management don't listen and decisions come down with no explanation. Can't afford to live near work anymore so I've had to move further out.
+R0190,57,3,1,9,0,4,4,1,8,1,0.485,0,
+R0191,49,2,2,5,0,3,-99,3,5,0,0.816,0,
+R0192,40,1,2,4,0,5,3,3,-98,1,0.763,0,
+R0193,45,1,6,3,0,5,0,3,5,0,1.06,1,hard to say but pay. cost of living. my line manager changed three times this year so nothing is consistent.
+R0194,36,1,3,15,1,5,0,5,2,1,0.887,1,Being expected to answer messages in the evenings and at weekends. Fuel prices have made driving to work really expensive.
+R0195,24,1,1,2,0,2,3,2,3,1,0.582,0,
+R0196,21,2,4,3,0,4,1,3,5,0,1.121,0,
+R0197,48,1,2,6,0,5,1,3,5,1,0.78,1,bad management
+R0198,57,2,2,7,0,5,1,4,4,1,0.702,0,
+R0199,40,2,3,1,0,3,1,2,6,0,0.905,0,
+R0200,59,1,6,2,0,4,1,3,-99,1,1.415,0,
+R0201,54,1,5,3,0,4,0,3,4,0,1.431,1,The workload has gone up a lot and we haven't hired anyone to cover it. Long shifts with no proper breaks.
+R0202,33,1,4,10,1,3,5,2,8,1,1.169,1,Probably juggling school runs with fixed start times is a nightmare.
+R0203,58,1,6,5,1,-99,2,1,7,0,1.099,1,Biggest thing: The new performance review system feels like box ticking. We were told to use AI tools but nobody explained what we're allowed to put into them. Can't afford to live near work anymore so I've had to move further out.
+R0204,36,-98,4,1,0,6,2,4,5,1,1.332,0,
+R0205,29,1,3,1,0,3,2,2,6,0,0.974,0,
+R0206,52,1,4,0,0,5,4,3,7,0,1.35,1,
+R0207,49,2,3,22,0,3,1,4,2,1,0.91,0,
+R0208,34,1,1,6,1,1,1,3,1,1,0.573,0,
+R0209,59,1,3,4,0,3,0,3,5,1,1.139,0,
+R0210,53,2,1,5,1,-99,3,2,3,1,0.482,1,"Biggest thing: No recognition for extra effort, only criticism when something goes wrong."
+R0211,44,2,5,4,1,2,2,2,6,0,1.254,1,Mainly too many apps and logins. Information is spread across five systems. No pay rise in three years.
+R0212,56,1,2,11,0,-99,2,3,3,0,0.796,1,Pay hasn't kept up with the cost of living at all.
+R0213,22,1,4,4,1,4,2,3,5,1,1.179,1,"mainly working from home is lonely, i miss the chats with colleagues."
+R0214,52,2,1,2,0,4,3,2,5,0,0.627,0,
+R0215,52,1,2,1,0,1,0,3,6,1,0.824,1,Hard to say but childcare costs more than half of what I earn after tax.
+R0216,39,1,2,9,1,-99,1,4,-99,1,0.735,0,
+R0217,30,3,3,10,0,1,0,5,3,1,1.014,1,To be honest dealing with aggressive customers has made me anxious about going in.
+R0218,31,2,6,6,1,3,1,3,4,1,1.222,0,
+R0219,21,2,6,1,0,4,1,4,6,1,1.194,0,
+R0220,62,2,6,1,1,-99,0,3,7,0,1.09,0,
+R0221,32,1,3,3,0,1,1,4,3,0,0.931,0,
+R0222,48,2,1,3,1,4,1,3,5,1,0.508,0,
+R0223,36,1,1,1,0,1,1,2,5,1,0.501,0,
+R0224,45,1,4,1,1,4,4,1,5,1,1.316,0,
+R0225,44,2,2,5,1,2,1,2,7,0,0.828,1,Probably rent went up again and my salary didn't. Hard to stay motivated.
+R0226,38,1,3,1,1,2,0,4,5,0,1.05,0,
+R0227,25,1,6,7,0,4,0,5,5,1,1.348,1,
+R0228,34,1,4,14,1,-99,4,2,7,0,1.258,0,
+R0229,54,2,4,4,0,5,5,2,7,0,1.361,1,Biggest thing: Too many projects at once and no clear priorities.
+R0230,21,2,4,1,0,1,5,2,7,1,1.258,0,
+R0231,54,1,2,5,1,-99,1,4,4,1,0.762,0,
+R0232,49,1,5,2,0,2,0,4,4,0,1.527,0,
+R0233,26,2,1,1,0,1,3,3,7,0,0.467,0,
+R0234,52,1,4,7,0,5,4,2,6,0,1.089,0,
+R0235,32,1,3,2,0,-99,2,4,3,1,0.953,0,
+R0236,30,1,5,6,1,1,1,3,4,0,1.378,0,
+R0237,42,1,4,6,0,-99,4,2,7,0,1.392,0,
+R0238,34,2,3,16,0,5,2,4,5,1,1.038,0,
+R0239,40,1,2,0,0,3,1,4,5,0,0.816,1,"Biggest thing: Creche closed early twice a week and work wouldn't change my hours. No recognition for extra effort, only criticism when something goes wrong."
+R0240,37,2,3,3,1,-99,1,3,6,1,0.995,0,
+R0241,51,2,5,3,0,-99,0,4,5,1,1.683,1,Where do I start. Emails at all hours. There's no real end to the working day anymore.
+R0242,22,1,6,1,0,-99,0,3,8,0,1.108,0,
+R0243,47,2,1,1,0,-99,2,3,2,0,0.505,0,
+R0244,38,1,1,5,0,3,3,3,5,1,0.473,0,
+R0245,46,2,1,2,1,4,3,2,4,1,0.607,0,
+R0246,51,-98,5,7,0,-99,0,4,3,1,1.348,0,
+R0247,39,2,2,2,0,-99,1,4,6,0,0.807,0,
+R0248,49,1,3,0,0,3,0,5,4,1,0.881,1,"Nothing, it's been a good year actually."
+R0249,45,2,3,6,1,4,0,3,6,0,0.924,1,Biggest thing: Dealing with aggressive customers has made me anxious about going in.
+R0250,54,2,3,6,0,3,1,3,5,0,1.051,0,
+R0251,52,1,4,14,0,-99,5,2,7,0,1.139,0,
+R0252,33,1,4,4,0,6,4,2,7,0,1.411,0,
+R0253,39,2,3,6,0,5,0,3,6,0,0.855,0,
+R0254,39,1,3,1,1,3,2,4,-98,0,1.144,1,Hard to say but my back is wrecked from standing all day.
+R0255,32,2,3,8,0,3,1,4,6,0,1.073,0,
+R0256,49,1,2,2,1,3,0,3,2,1,0.659,0,
+R0257,43,1,1,6,0,-99,2,2,5,0,0.508,0,
+R0258,34,2,4,16,0,-99,3,3,8,0,1.099,0,
+R0259,32,1,5,5,0,3,1,3,4,1,1.285,0,
+R0260,27,1,6,2,0,3,0,2,7,0,1.062,0,
+R0261,49,1,2,20,0,1,0,3,7,0,0.706,0,
+R0262,30,1,3,8,0,4,1,4,3,0,1.014,0,
+R0263,59,2,1,0,0,5,1,2,5,1,0.624,0,
+R0264,59,1,5,4,0,2,0,4,4,1,1.649,1,To be honest hard to switch off when your office is your kitchen table. Senior leadership seem out of touch with what the job involves on the ground.
+R0265,46,2,3,1,1,3,1,4,2,1,1.072,0,
+R0266,27,1,5,9,0,-99,0,5,-99,1,1.611,0,
+R0267,37,1,2,1,0,4,2,3,9,0,0.752,0,
+R0268,40,1,3,0,0,4,0,4,7,1,0.923,0,
+R0269,41,1,4,0,1,-99,4,3,6,0,1.194,0,
+R0270,37,2,4,0,0,-99,4,1,6,0,1.414,1,"Exhausted most of the time, honestly. Micromanagement. Every small thing has to be signed off."
+R0271,48,2,3,18,0,5,0,5,1,1,0.93,1,"honestly, staff shortages mean we're always firefighting instead of doing the actual job. burnout. i've been off sick twice this year with stress. home broadband keeps dropping during calls."
+R0272,59,1,4,3,0,-99,4,2,5,1,1.346,0,
+R0273,50,2,3,11,0,4,1,3,3,1,0.966,0,
+R0274,43,1,2,12,0,4,0,4,5,0,0.736,0,
+R0275,40,2,6,6,1,3,1,3,5,1,1.055,0,
+R0276,33,2,5,1,0,1,1,3,7,0,1.278,0,
+R0277,57,2,1,2,1,4,1,2,3,1,0.623,1,commuting costs we got a 2% increase while prices went up far more.
+R0278,47,1,2,1,0,4,1,2,-99,0,0.684,0,
+R0279,48,1,4,2,1,-99,4,2,6,1,1.151,0,
+R0280,44,1,4,14,0,4,3,3,5,1,1.091,0,
+R0281,61,2,3,1,0,1,0,4,3,1,1.121,1,probably pay hasn't kept up with the cost of living at all. constant deadlines. i'm doing the job of two people since the restructure.
+R0282,48,1,2,3,1,1,3,4,-99,1,0.862,0,
+R0283,42,2,3,13,1,5,0,5,4,1,1.104,1,Mainly being expected to answer messages in the evenings and at weekends. Long shifts with no proper breaks.
+R0284,43,2,3,1,0,5,0,5,3,0,1.061,1,"honestly, burnout. i've been off sick twice this year with stress. constant deadlines. i'm doing the job of two people since the restructure."
+R0285,22,1,6,1,1,2,1,3,4,0,1.099,1,Mainly creche closed early twice a week and work wouldn't change my hours.
+R0286,51,2,4,9,0,-99,3,3,7,0,1.284,1,-99
+R0287,57,2,1,4,0,4,2,3,4,1,0.583,0,
+R0288,41,1,1,7,0,6,3,2,7,1,0.492,1,"honestly, staff shortages mean we're always firefighting instead of doing the actual job. burnout. i've been off sick twice this year with stress."
+R0289,32,2,1,4,1,3,2,2,7,0,0.515,0,
+R0290,41,1,2,1,1,3,3,3,7,0,0.707,0,
+R0291,51,2,1,8,0,6,1,4,2,1,0.547,0,
+R0292,34,1,4,9,1,4,4,3,6,0,1.164,0,
+R0293,38,2,3,12,1,2,1,3,2,1,0.976,0,
+R0294,57,2,2,10,0,5,-99,4,8,0,0.726,0,
+R0295,40,2,6,4,0,3,1,2,8,0,1.159,0,
+R0296,33,2,6,10,0,3,0,3,3,1,1.301,1,Where do I start. Being expected to answer messages in the evenings and at weekends. Poor communication from the top. We hear about changes from the news first. Hybrid is fine but the office days are just video calls from a different desk.
+R0297,54,2,4,17,0,6,2,3,-99,1,1.132,0,
+R0298,33,1,6,1,0,3,1,3,6,0,1.28,1,Hard to say but staff shortages mean we're always firefighting instead of doing the actual job.
+R0299,50,1,5,5,0,4,0,4,3,1,1.257,0,
+R0300,67,2,5,12,0,6,0,3,5,0,1.423,0,
+R0301,37,2,3,2,0,-99,1,5,2,1,0.973,0,
+R0302,38,1,1,20,1,3,2,2,7,0,0.596,0,
+R0303,41,1,2,1,0,4,2,3,4,1,0.762,0,
+R0304,41,2,6,12,0,1,1,3,-99,0,1.084,1,Hard to say but burnout. I've been off sick twice this year with stress. Kids were sick a lot this winter and I used up all my leave.
+R0305,40,1,3,8,0,6,0,5,-98,0,0.932,1,"No recognition for extra effort, only criticism when something goes wrong."
+R0306,28,2,1,10,0,2,1,4,5,0,0.513,0,
+R0307,66,2,2,0,0,2,0,3,-99,0,0.774,0,
+R0308,57,1,1,8,0,4,2,4,3,1,0.53,0,
+R0309,43,1,5,2,1,3,0,3,6,0,1.394,0,
+R0310,30,1,2,12,0,2,1,3,4,1,0.853,0,
+R0311,57,1,1,10,0,3,3,3,3,1,0.576,1,Hard to say but too many online meetings. Back to back calls from 9 to 5. Pay hasn't kept up with the cost of living at all.
+R0312,34,2,5,7,1,2,0,3,6,0,1.253,1,Since Desmond Quill-Abernathy took over the unit it has been one reorganisation after another.
+R0313,-99,1,5,0,0,4,0,4,4,1,1.503,1,Biggest thing: Too many projects at once and no clear priorities.
+R0314,59,1,4,10,0,5,4,3,7,0,1.18,1,New starters on the team are struggling because nobody is in the office to help them. Restructuring every six months and nobody explains why.
+R0315,45,1,4,1,1,-99,3,1,4,0,1.382,1,Mainly the workload has gone up a lot and we haven't hired anyone to cover it.
+R0316,37,2,2,1,1,4,1,3,5,0,0.845,0,
+R0317,51,2,1,1,0,4,3,2,7,0,0.523,0,
+R0318,21,1,4,3,0,4,3,4,4,0,1.128,0,
+R0319,32,1,1,14,0,1,2,4,2,1,0.52,1,The new performance review system feels like box ticking.
+R0320,28,1,1,5,0,1,4,2,6,0,0.604,1,Probably pay hasn't kept up with the cost of living at all. Hot desking means I never know where I'm sitting and can't find my team.
+R0321,48,1,3,5,0,3,1,4,4,1,0.881,0,
+R0322,50,2,5,8,0,-99,-99,4,2,1,1.33,1,Biggest thing: Covering for colleagues who left and were never replaced.
+R0323,36,1,3,18,0,3,0,3,3,1,1.124,0,
+R0324,34,1,5,4,0,2,0,4,3,0,1.53,0,
+R0325,32,1,6,4,0,4,0,3,5,0,1.259,0,
+R0326,29,1,6,3,0,1,1,2,6,0,1.124,1,"Exhausted most of the time, honestly. Energy bills and rent mean I've taken on a second job. Home broadband keeps dropping during calls."
+R0327,58,1,5,2,0,4,0,4,2,1,1.508,0,
+R0328,40,1,2,17,0,4,0,4,4,0,0.817,0,
+R0329,51,2,1,3,0,3,2,2,4,1,0.626,0,
+R0330,25,-98,2,7,0,3,0,3,6,0,0.78,0,
+R0331,38,1,3,20,1,-99,1,5,2,1,0.875,0,
+R0332,31,1,5,4,0,1,0,4,4,1,1.587,0,
+R0333,39,2,6,2,0,3,0,5,2,1,1.283,0,
+R0334,55,1,1,3,0,3,3,1,4,1,0.493,1,Mainly poor communication from the top. We hear about changes from the news first.
+R0335,40,2,1,7,1,3,3,3,5,0,0.557,1,To be honest rent went up again and my salary didn't. Hard to stay motivated.
+R0336,38,2,4,1,0,-99,4,3,6,1,1.277,0,
+R0337,44,1,1,2,0,4,2,2,7,1,0.596,1,Probably pay hasn't kept up with the cost of living at all. Staff shortages mean we're always firefighting instead of doing the actual job. New starters on the team are struggling because nobody is in the office to help them.
+R0338,36,2,2,5,1,-99,-99,3,4,0,0.683,0,
+R0339,39,1,4,5,0,6,3,4,10,0,1.255,1,Hard to say but my line manager changed three times this year so nothing is consistent.
+R0340,38,2,2,3,1,-99,0,4,9,1,0.706,1,"Where do I start. Burnout. I've been off sick twice this year with stress. The laptop they gave me is too slow for what I need to do. workload, simply put"
+R0341,15,2,5,1,0,1,1,4,7,0,1.491,0,
+R0342,67,3,6,7,0,4,1,2,5,0,1.275,0,
+R0343,31,1,3,8,0,3,0,4,1,1,1.04,0,
+R0344,48,2,4,7,1,4,-99,2,9,0,1.338,0,
+R0345,32,1,4,0,1,5,5,3,9,1,1.438,0,
+R0346,37,1,5,19,0,3,0,4,2,0,1.565,0,
+R0347,27,2,4,6,1,5,4,2,8,0,1.265,0,
+R0348,46,1,3,15,0,3,1,4,5,0,1.065,0,
+R0349,43,2,3,3,0,4,1,3,4,0,0.935,0,
+R0350,50,2,3,30,0,4,0,3,6,0,1.122,0,
+R0351,29,1,3,6,0,2,0,3,3,0,0.908,1,Mainly staff shortages mean we're always firefighting instead of doing the actual job.
+R0352,40,2,3,3,1,5,1,3,1,1,0.856,0,
+R0353,60,1,5,1,0,-99,0,4,3,1,1.679,0,
+R0354,36,2,5,18,1,2,1,3,-99,0,1.361,0,
+R0355,36,2,5,1,1,3,1,2,4,1,1.565,0,
+R0356,30,2,1,3,0,3,3,3,1,1,0.584,0,
+R0357,39,1,2,0,0,4,1,4,7,1,0.684,0,
+R0358,47,1,6,20,0,5,0,2,4,0,1.061,0,
+R0359,49,2,2,3,0,4,0,4,6,0,0.717,1,rent went up again and my salary didn't. hard to stay motivated. the laptop they gave me is too slow for what i need to do.
+R0360,53,2,3,1,0,3,0,3,-98,0,0.91,0,
+R0361,45,1,5,7,1,4,2,4,5,0,1.477,1,"Biggest thing: Juggling school runs with fixed start times is a nightmare. workload, simply put"
+R0362,35,2,1,6,0,3,2,2,8,0,0.599,1,bad management
+R0363,28,2,1,10,0,4,0,3,7,0,0.617,0,
+R0364,52,1,3,7,0,2,1,3,4,1,1.055,0,
+R0365,45,1,3,6,0,4,0,5,-99,1,0.872,0,
+R0366,67,1,2,5,0,6,1,4,3,1,0.683,0,
+R0367,30,2,3,6,1,1,-99,3,3,1,0.879,0,
+R0368,35,2,5,2,1,1,0,4,-99,1,1.302,0,
+R0369,54,1,2,10,0,6,1,4,5,0,0.685,0,
+R0370,49,2,5,28,1,3,0,4,4,1,1.408,0,
+R0371,66,1,3,22,0,4,1,3,3,1,1.059,0,
+R0372,47,2,5,21,1,2,2,3,7,0,1.485,0,
+R0373,21,3,6,3,0,1,0,2,5,1,1.209,0,
+R0374,45,1,5,4,0,2,1,4,2,1,1.428,0,
+R0375,50,1,6,22,0,4,1,3,4,1,1.391,0,
+R0376,45,3,4,0,0,6,4,2,8,1,1.275,1,To be honest the laptop they gave me is too slow for what I need to do. Too many online meetings. Back to back calls from 9 to 5.
+R0377,63,2,2,4,0,4,0,4,4,1,0.73,0,
+R0378,49,1,1,1,1,2,2,3,6,1,0.489,0,
+R0379,49,2,1,7,0,6,2,3,7,0,0.494,0,
+R0380,35,1,1,4,1,1,3,3,5,0,0.52,0,
+R0381,38,2,4,2,1,-99,5,2,7,0,1.117,0,
+R0382,46,2,3,4,1,4,2,4,4,1,0.98,0,
+R0383,39,2,4,2,0,4,3,3,6,1,1.243,0,
+R0384,46,2,1,1,0,6,3,3,10,1,0.49,0,
+R0385,28,2,5,4,0,3,0,3,8,0,1.595,0,
+R0386,59,2,2,5,0,-99,0,3,5,1,0.809,0,
+R0387,22,1,6,0,0,2,1,2,5,0,1.248,1,
+R0388,28,2,6,10,0,3,2,1,6,0,1.091,0,
+R0389,49,1,5,6,0,4,0,3,4,1,1.402,0,
+R0390,45,2,1,3,1,5,1,3,7,0,0.568,0,
+R0391,46,2,5,1,0,2,2,3,4,1,1.548,0,
+R0392,44,2,4,2,0,5,3,1,8,0,1.296,0,
+R0393,29,1,1,11,1,1,3,3,-98,1,0.563,0,
+R0394,33,2,3,1,1,5,0,3,1,1,1.097,0,
+R0395,60,1,1,6,0,5,2,3,7,0,0.517,0,
+R0396,37,3,2,19,1,3,0,4,5,0,0.784,1,"Hard to say but no recognition for extra effort, only criticism when something goes wrong. Exhausted most of the time, honestly."
+R0397,34,1,3,8,0,3,0,4,-99,0,1.126,0,
+R0398,44,1,5,11,1,2,2,2,2,1,1.627,0,
+R0399,42,1,2,1,1,3,3,3,7,0,0.745,0,
+R0400,40,2,1,3,1,4,3,2,7,1,0.556,1,"Honestly, can't afford to live near work anymore so I've had to move further out. The commute. Traffic is worse than ever and the buses are unreliable. No recognition for extra effort, only criticism when something goes wrong."
+R0401,29,1,3,11,0,5,1,3,5,0,0.955,0,
+R0402,41,1,1,6,0,3,3,3,5,1,0.618,1,Hard to say but emails at all hours. There's no real end to the working day anymore. Poor communication from the top. We hear about changes from the news first. Train cancellations nearly every week.
+R0403,40,2,1,19,1,2,4,3,4,0,0.551,0,
+R0404,54,2,2,5,0,4,1,5,3,0,0.772,1,Parking at work was removed and public transport doesn't reach us.
+R0405,31,1,3,8,1,-99,0,3,3,1,1.143,1,The new performance review system feels like box ticking.
+R0406,-99,2,2,9,0,2,1,3,4,0,0.672,1,"Honestly, poor communication from the top. We hear about changes from the news first."
+R0407,40,1,2,1,0,4,1,3,9,0,0.861,0,
+R0408,40,2,6,2,1,3,1,2,6,0,1.228,0,
+R0409,32,2,5,14,0,1,0,3,3,0,1.507,0,
+R0410,55,2,2,3,0,4,-99,2,-99,0,0.766,0,
+R0411,40,1,3,1,1,3,2,3,2,1,0.854,0,
+R0412,34,2,1,16,0,-99,2,3,-99,0,0.62,0,
+R0413,39,1,5,3,0,3,0,3,6,0,1.496,0,
+R0414,37,2,4,7,1,5,5,1,-99,1,1.206,0,
+R0415,61,2,1,21,0,-99,0,5,3,1,0.601,1,Probably childcare costs more than half of what I earn after tax.
+R0416,21,2,2,3,0,5,2,3,5,1,0.808,0,
+R0417,21,1,3,3,0,1,0,3,-98,1,1.077,0,
+R0418,35,2,1,3,1,-99,4,3,5,0,0.477,0,
+R0419,42,1,1,3,1,3,2,3,4,1,0.491,0,
+R0420,43,1,6,11,0,6,0,2,8,0,1.407,0,
+R0421,38,1,5,6,0,1,1,3,4,0,1.612,0,
+R0422,43,1,5,4,1,3,1,4,4,1,1.253,1,.
+R0423,39,2,5,17,0,1,0,3,3,0,1.685,0,
+R0424,38,1,2,11,0,2,1,5,8,0,0.674,0,
+R0425,51,2,5,8,0,3,2,3,4,1,1.255,0,
+R0426,48,1,1,9,1,2,2,2,4,0,0.608,0,
+R0427,35,2,6,7,0,5,0,5,3,1,1.293,0,
+R0428,25,2,1,7,0,1,1,3,5,1,0.538,0,
+R0429,42,2,5,4,0,4,2,4,2,1,1.414,0,
+R0430,44,2,1,5,1,5,2,3,4,1,0.537,0,
+R0431,63,2,3,1,0,4,0,3,6,0,1.089,1,
+R0432,40,2,4,9,0,4,1,1,5,0,1.146,1,
+R0433,39,1,4,5,0,-99,1,3,8,0,1.317,0,
+R0434,30,2,4,2,1,5,4,3,7,0,1.411,0,
+R0435,52,1,4,7,1,5,4,2,6,0,1.31,0,
+R0436,41,2,5,23,0,5,1,2,5,0,1.421,0,
+R0437,30,2,3,1,0,2,0,3,-99,1,1.118,0,
+R0438,28,2,3,10,0,4,0,5,-99,1,0.92,1,
+R0439,39,2,2,0,0,2,0,3,5,0,0.828,1,To be honest energy bills and rent mean I've taken on a second job.
+R0440,54,1,5,0,0,1,0,2,-98,0,1.613,1,
+R0441,60,-98,2,5,1,-99,2,4,7,1,0.688,0,
+R0442,30,1,5,2,1,2,1,4,2,1,1.563,1,
+R0443,36,2,2,1,1,2,1,3,7,0,0.788,0,
+R0444,34,1,3,2,1,3,0,4,2,1,0.939,1,Mainly we got a 2% increase while prices went up far more. The commute. Traffic is worse than ever and the buses are unreliable.
+R0445,49,1,5,3,1,1,1,3,5,0,1.442,0,
+R0446,38,2,3,9,0,4,2,3,2,1,1.144,0,
+R0447,48,2,5,3,1,2,1,2,5,0,1.675,0,
+R0448,43,1,1,6,0,6,1,3,5,0,0.528,0,
+R0449,25,1,4,7,0,5,3,3,6,0,1.412,0,
+R0450,40,2,4,9,0,4,3,4,4,1,1.153,0,
+R0451,57,1,1,0,0,4,2,3,4,1,0.593,0,
+R0452,21,1,5,3,0,1,0,4,3,0,1.357,0,
+R0453,34,2,4,5,1,-99,5,1,6,0,1.276,0,
+R0454,46,2,1,13,1,5,2,2,5,0,0.543,0,
+R0455,23,2,6,5,1,2,1,3,7,0,1.147,1,Mainly fuel prices have made driving to work really expensive. The volume of admin has doubled. Forms for everything. Being told to come in more days when the work can be done from home.
+R0456,-99,2,3,7,0,3,1,3,5,0,0.897,0,
+R0457,27,1,2,9,0,1,0,3,5,1,0.708,1,prefer not to say
+R0458,29,1,3,11,0,3,1,4,3,1,1.029,0,
+R0459,41,1,6,1,0,6,1,2,8,0,1.273,0,
+R0460,34,1,1,5,0,3,2,4,5,1,0.599,1,Constant deadlines. I'm doing the job of two people since the restructure.
+R0461,42,-98,3,5,1,3,2,3,2,0,1.081,0,
+R0462,41,1,6,5,0,2,1,3,7,0,1.067,0,
+R0463,31,1,4,3,0,5,1,2,6,0,1.155,0,
+R0464,33,1,4,5,1,4,3,2,7,0,1.33,1,Mainly too many apps and logins. Information is spread across five systems.
+R0465,24,2,2,6,0,1,1,4,4,0,0.748,0,
+R0466,35,2,2,2,0,2,1,3,-99,1,0.662,1,We got a 2% increase while prices went up far more. Poor communication from the top. We hear about changes from the news first. Dealing with aggressive customers has made me anxious about going in.
+R0467,47,1,3,10,1,2,0,3,2,1,0.881,0,
+R0468,24,1,1,6,0,3,4,3,5,1,0.601,0,
+R0469,41,2,1,5,1,5,4,2,4,1,0.602,0,
+R0470,53,2,1,0,0,5,2,3,3,1,0.48,1,Mainly we were told to use AI tools but nobody explained what we're allowed to put into them. Creche closed early twice a week and work wouldn't change my hours.
+R0471,44,1,6,2,1,4,1,3,5,1,1.079,0,
+R0472,56,2,2,3,0,-99,0,3,3,1,0.729,0,
+R0473,42,2,3,1,0,3,0,4,4,1,1.132,0,
+R0474,59,1,2,4,0,3,2,5,3,0,0.7,0,
+R0475,53,2,4,34,0,3,4,2,9,1,1.245,0,
+R0476,38,2,1,1,0,3,2,4,5,0,0.526,0,
+R0477,48,1,6,19,0,3,3,3,3,1,1.377,0,
+R0478,40,1,2,2,1,3,1,4,5,0,0.842,0,
+R0479,52,1,1,6,0,5,2,2,6,1,0.501,1,dont know
+R0480,36,2,3,1,0,4,2,3,2,1,0.976,0,
+R0481,26,1,3,8,0,3,0,5,-98,1,0.965,0,
+R0482,42,2,1,1,0,-99,2,2,7,0,0.468,1,no comment
+R0483,45,1,6,3,1,3,1,4,4,0,1.352,0,
+R0484,27,2,2,9,0,1,0,5,4,1,0.711,0,
+R0485,40,2,3,0,1,4,0,2,7,0,1.009,0,
+R0486,67,1,3,11,0,-99,0,4,1,1,0.995,0,
+R0487,29,1,3,11,0,3,0,4,1,1,0.856,0,
+R0488,24,2,5,4,0,2,0,4,4,0,1.371,0,
+R0489,24,2,1,6,0,4,3,2,5,0,0.538,0,
+R0490,50,2,4,7,0,4,4,1,8,0,1.366,0,
+R0491,34,2,3,1,0,2,1,3,6,0,1.096,1,
+R0492,45,1,4,1,1,4,3,1,10,0,1.24,0,
+R0493,34,1,4,5,1,-99,4,2,6,1,1.134,0,
+R0494,27,1,2,9,0,1,0,4,5,0,0.83,0,
+R0495,25,2,4,7,0,4,3,3,7,0,1.093,0,
+R0496,64,1,5,4,0,2,0,1,2,1,1.546,0,
+R0497,40,1,3,6,0,1,0,4,1,0,1.007,0,
+R0498,31,1,5,8,0,1,0,2,5,1,1.609,0,
+R0499,23,1,1,3,1,-99,2,3,7,0,0.572,0,
+R0500,38,1,1,1,0,4,3,3,7,0,0.555,0,
+R0501,32,2,1,2,1,2,2,3,6,0,0.615,0,
+R0502,21,1,5,2,0,-99,0,3,1,1,1.333,0,
+R0503,40,1,5,8,0,1,0,3,2,0,1.478,0,
+R0504,39,1,1,2,0,3,1,3,5,1,0.579,0,
+R0505,36,1,4,6,0,5,4,1,7,0,1.417,0,
+R0506,44,2,1,7,0,2,1,3,5,0,0.47,0,
+R0507,49,2,4,1,0,3,4,2,5,0,1.237,1,To be honest the laptop they gave me is too slow for what I need to do. Being told to come in more days when the work can be done from home.
+R0508,28,1,4,1,0,3,3,2,-99,0,1.349,0,
+R0509,42,-98,5,11,0,1,1,2,5,1,1.345,0,
+R0510,53,2,1,3,0,3,3,2,7,0,0.595,0,
+R0511,53,1,2,9,0,4,2,4,7,0,0.736,0,
+R0512,35,1,6,6,0,1,2,3,3,1,1.165,0,
+R0513,42,1,1,3,1,-99,4,3,7,1,0.61,0,
+R0514,41,1,5,10,0,-99,1,3,5,0,1.341,0,
+R0515,23,2,4,1,0,-99,4,2,10,0,1.438,0,
+R0516,21,1,1,2,0,3,1,3,6,0,0.62,0,
+R0517,32,1,1,0,1,2,2,3,4,1,0.478,0,
+R0518,25,2,3,3,0,1,0,4,3,1,1.133,0,
+R0519,33,1,3,7,1,2,1,3,1,1,1.14,1,
+R0520,35,2,1,8,0,3,2,2,6,1,0.585,0,
+R0521,40,2,5,9,1,2,0,4,1,1,1.363,0,
+R0522,43,3,2,25,1,5,0,5,6,0,0.733,1,Hard to say but the commute. Traffic is worse than ever and the buses are unreliable.
+R0523,58,1,4,3,0,6,4,3,6,0,1.154,1,hard to say but we got a 2% increase while prices went up far more.
+R0524,30,2,1,2,1,1,3,2,4,1,0.501,0,
+R0525,29,1,1,3,0,4,4,1,7,0,0.6,0,
+R0526,31,1,6,9,1,2,1,2,5,0,1.211,0,
+R0527,27,1,2,9,0,3,1,3,6,0,0.749,0,
+R0528,46,2,1,2,0,2,3,1,-98,0,0.526,0,
+R0529,30,1,3,3,1,3,2,5,3,0,0.854,0,
+R0530,41,1,4,8,0,5,3,1,7,0,1.226,0,
+R0531,38,1,1,15,1,4,4,2,3,0,0.528,1,Probably too many online meetings. Back to back calls from 9 to 5.
+R0532,55,1,5,5,1,1,1,3,5,0,1.53,1,"Hard to say but my back is wrecked from standing all day. An hour and a half each way, it's exhausting."
+R0533,45,3,1,2,1,4,3,2,10,0,0.55,0,
+R0534,48,2,2,4,1,3,1,3,1,1,0.707,0,
+R0535,40,2,1,1,0,4,3,4,5,0,0.565,0,
+R0536,41,2,3,3,1,2,1,4,4,1,0.86,0,
+R0537,23,2,3,2,0,4,0,5,4,1,1.032,0,
+R0538,37,2,1,1,0,2,0,3,6,0,0.535,0,
+R0539,64,1,6,1,0,-99,0,2,7,0,1.12,0,
+R0540,25,1,1,6,0,3,3,1,-99,0,0.536,0,
+R0541,48,2,2,12,0,5,1,4,5,0,0.746,0,
+R0542,52,1,3,7,0,4,0,5,2,1,1.107,0,
+R0543,43,2,2,10,0,3,0,4,4,0,0.647,0,
+R0544,35,1,5,6,0,3,0,3,4,0,1.25,0,
+R0545,38,2,2,1,1,3,1,4,7,0,0.838,0,
+R0546,36,2,1,11,0,4,1,3,5,1,0.493,0,
+R0547,38,2,1,5,0,3,3,2,8,0,0.603,0,
+R0548,42,2,1,4,0,4,1,3,1,0,0.617,0,
+R0549,36,1,1,9,1,4,2,3,6,0,0.551,0,
+R0550,-99,2,5,6,1,1,0,4,4,0,1.389,1,Probably creche closed early twice a week and work wouldn't change my hours. Dealing with aggressive customers has made me anxious about going in.
+R0551,62,2,4,2,0,5,3,1,6,0,1.434,1,Probably we were told to use AI tools but nobody explained what we're allowed to put into them.
+R0552,34,1,6,3,0,-99,-99,3,8,0,1.363,0,
+R0553,50,1,5,4,0,2,0,3,6,1,1.547,1,Biggest thing: Pay hasn't kept up with the cost of living at all. My back is wrecked from standing all day.
+R0554,49,3,6,4,0,3,1,3,4,1,1.277,0,
+R0555,33,3,2,15,1,1,2,4,5,0,0.791,1,
+R0556,37,1,1,1,0,6,2,2,-98,1,0.473,1,Being told to come in more days when the work can be done from home.
+R0557,21,1,6,2,0,3,0,3,6,0,1.066,1,Childcare costs more than half of what I earn after tax. Mental health has taken a hit. The pressure doesn't let up.
+R0558,62,2,2,4,1,5,0,2,4,0,0.815,1,Juggling school runs with fixed start times is a nightmare. Parking at work was removed and public transport doesn't reach us. Restructuring every six months and nobody explains why.
+R0559,46,1,6,4,1,3,1,3,3,0,1.293,0,
+R0560,46,2,4,1,0,6,4,3,9,0,1.208,1,Where do I start. Rent went up again and my salary didn't. Hard to stay motivated.
+R0561,56,2,6,15,1,3,1,3,-98,1,1.28,0,
+R0562,36,1,1,9,1,4,4,2,4,0,0.566,1,"honestly, the return-to-office mandate added two hours of commuting to my week for no reason. caring for my mother on top of a full-time job."
+R0563,53,1,5,3,0,4,0,3,8,0,1.526,1,We were told to use AI tools but nobody explained what we're allowed to put into them.
+R0564,21,2,5,3,0,2,0,4,5,1,1.517,0,
+R0565,33,2,2,0,0,2,1,3,3,1,0.734,0,
+R0566,36,1,3,12,1,3,2,4,4,0,0.932,1,"No flexibility for parents, you either fit their hours or you leave."
+R0567,53,1,3,4,0,3,2,3,3,1,1.072,0,
+R0568,33,2,6,5,0,3,0,1,3,1,1.068,0,
+R0569,36,1,6,1,0,2,0,3,2,1,1.355,1,
+R0570,43,1,1,8,1,4,2,3,-99,0,0.47,0,
+R0571,30,2,1,7,0,2,3,3,2,1,0.558,1,"Nothing, it's been a good year actually."
+R0572,35,1,3,1,1,3,0,3,3,1,1.068,0,
+R0573,52,2,2,3,0,2,1,3,7,0,0.838,0,
+R0574,35,1,2,7,0,4,2,4,8,0,0.679,0,
+R0575,57,2,4,4,0,6,2,3,6,0,1.407,0,
+R0576,38,2,1,20,0,2,2,4,2,1,0.572,0,
+R0577,35,2,2,17,0,3,2,3,6,0,0.824,0,
+R0578,67,2,6,2,0,3,0,4,3,0,1.225,1,Mainly management don't listen and decisions come down with no explanation.
+R0579,25,1,1,3,0,3,-99,2,6,0,0.55,1,The commute. Traffic is worse than ever and the buses are unreliable.
+R0580,38,2,5,8,0,3,0,4,-99,1,1.588,0,
+R0581,42,1,1,0,0,4,3,2,6,0,0.545,1,Mainly home broadband keeps dropping during calls.
+R0582,51,3,5,10,0,4,0,2,3,0,1.512,0,
+R0583,37,2,1,18,0,2,1,3,4,1,0.545,0,
+R0584,42,2,2,2,1,4,2,4,6,0,0.786,0,
+R0585,36,2,1,2,0,4,3,2,6,0,0.495,1,Being told to come in more days when the work can be done from home.
+R0586,56,1,3,6,0,5,0,5,4,0,0.993,0,
+R0587,41,1,3,3,1,3,1,4,3,1,1.065,0,
+R0588,47,1,1,11,0,3,3,2,5,0,0.575,0,
+R0589,45,1,1,17,0,3,3,2,8,0,0.529,1,Where do I start. Covering for colleagues who left and were never replaced. Can't afford to live near work anymore so I've had to move further out. Caring for my mother on top of a full-time job.
+R0590,35,1,1,5,1,4,1,4,5,1,0.513,0,
+R0591,21,2,3,1,0,3,1,3,3,1,0.89,1,Biggest thing: My back is wrecked from standing all day.
+R0592,-99,1,2,3,0,2,0,3,-99,1,0.654,0,
+R0593,46,2,4,2,0,5,3,2,8,0,1.191,0,
+R0594,38,2,2,2,1,4,2,3,6,0,0.854,1,To be honest the volume of admin has doubled. Forms for everything.
+R0595,54,1,4,1,0,5,4,2,8,0,1.358,0,
+R0596,38,2,4,3,1,6,5,3,7,0,1.165,0,
+R0597,36,2,6,1,0,1,1,3,4,0,1.101,1,"Where do I start. An hour and a half each way, it's exhausting. Energy bills and rent mean I've taken on a second job."
+R0598,40,1,3,3,1,1,0,4,4,0,0.871,0,
+R0599,44,1,1,2,0,4,2,2,5,0,0.619,0,
+R0600,39,3,1,17,0,3,3,2,5,0,0.526,0,
+R0601,40,-98,3,2,1,5,1,3,4,1,0.99,0,
+R0602,34,1,3,3,0,6,0,4,5,0,0.89,0,
+R0603,46,2,1,2,1,1,3,2,3,0,0.507,0,
+R0604,54,2,3,18,0,-99,1,3,1,1,1.129,1,Mainly no pay rise in three years.
+R0605,27,2,1,0,0,3,3,3,-99,0,0.578,0,
+R0606,42,2,5,1,1,1,1,3,2,0,1.382,0,
+R0607,25,1,2,1,0,1,0,3,6,0,0.828,1,
+R0608,42,1,6,8,0,3,1,2,7,0,1.372,0,
+R0609,47,1,3,0,0,4,-99,4,4,0,0.93,1,parking at work was removed and public transport doesn't reach us. we got a 2% increase while prices went up far more.
+R0610,45,1,5,5,0,1,0,3,5,0,1.53,0,
+R0611,37,1,5,8,0,5,1,3,6,0,1.292,1,We were told to use AI tools but nobody explained what we're allowed to put into them. Train cancellations nearly every week. No pay rise in three years.
+R0612,42,2,6,22,1,4,0,3,5,1,1.175,0,
+R0613,54,2,3,28,1,2,1,3,4,1,1.13,0,
+R0614,39,1,4,0,0,3,2,2,7,0,1.342,0,
+R0615,49,2,4,1,1,5,4,3,6,1,1.136,0,
+R0616,35,2,1,16,1,2,1,2,4,1,0.545,1,Mainly pay. cost of living.
+R0617,37,2,5,1,1,3,1,4,5,0,1.39,0,
+R0618,49,1,5,1,1,1,1,4,6,1,1.256,0,
+R0619,42,1,1,7,0,-99,2,4,2,1,0.62,0,
+R0620,42,2,4,5,0,-99,3,3,6,0,1.272,0,
+R0621,46,2,3,19,1,5,2,4,3,0,1.116,0,
+R0622,50,2,6,5,0,5,2,4,4,0,1.2,0,
+R0623,39,1,6,10,0,1,1,3,4,1,1.379,1,To be honest parking at work was removed and public transport doesn't reach us.
+R0624,47,2,2,5,0,5,2,3,6,0,0.825,0,
+R0625,27,1,2,5,0,1,1,3,5,0,0.79,0,
+R0626,46,1,3,5,1,3,1,3,9,0,0.979,0,
+R0627,44,2,2,12,0,3,0,3,5,0,0.694,0,
+R0628,67,1,1,8,0,3,1,3,4,1,0.531,1,To be honest parking at work was removed and public transport doesn't reach us. bad management
+R0629,21,2,5,3,0,3,0,4,2,1,1.638,0,
+R0630,27,2,4,9,1,3,3,2,8,1,1.279,0,
+R0631,43,1,3,1,1,3,0,4,6,1,1.129,0,
+R0632,39,1,1,2,0,1,4,1,7,0,0.614,0,
+R0633,47,2,1,1,0,1,1,4,4,1,0.528,0,
+R0634,-99,1,1,2,0,5,2,2,6,0,0.616,0,
+R0635,21,2,4,3,0,5,2,2,5,0,1.376,0,
+R0636,39,2,3,21,0,-99,0,4,3,0,0.878,0,
+R0637,46,1,2,3,0,5,3,4,-99,1,0.796,0,
+R0638,42,1,4,3,0,-99,4,3,8,0,1.284,1,"Mainly working from home is lonely, I miss the chats with colleagues. Pay hasn't kept up with the cost of living at all."
+R0639,35,2,1,6,0,3,2,2,3,1,0.576,0,
+R0640,52,2,3,7,0,3,2,3,6,0,1.147,0,
+R0641,50,1,4,2,1,3,3,4,4,1,1.265,1,Hard to say but automated scheduling keeps putting me on shifts I can't do.
+R0642,44,2,4,3,0,6,3,2,-98,0,1.31,1,Being told to come in more days when the work can be done from home. bad management
+R0643,41,1,1,20,0,3,2,3,5,0,0.501,0,
+R0644,43,1,1,2,1,4,4,3,4,0,0.602,0,
+R0645,46,1,3,1,1,-99,0,4,4,1,0.892,1,hard to say but too many online meetings. back to back calls from 9 to 5.
+R0646,29,2,6,3,1,3,1,3,3,1,1.22,1,Constant deadlines. I'm doing the job of two people since the restructure. Pay hasn't kept up with the cost of living at all. Kids were sick a lot this winter and I used up all my leave.
+R0647,57,1,3,2,0,2,0,3,7,0,1.005,0,
+R0648,60,1,4,6,0,6,4,1,8,0,1.268,1,Hard to say but senior leadership seem out of touch with what the job involves on the ground. The volume of admin has doubled. Forms for everything. Too many online meetings. Back to back calls from 9 to 5.
+R0649,52,1,1,13,0,3,1,2,-99,0,0.48,1,My line manager changed three times this year so nothing is consistent. Emails at all hours. There's no real end to the working day anymore. Fuel prices have made driving to work really expensive.
+R0650,38,1,5,10,0,2,0,4,3,0,1.604,0,
+R0651,57,1,2,7,0,6,0,4,6,0,0.664,1,To be honest staff shortages mean we're always firefighting instead of doing the actual job.
+R0652,21,2,1,3,0,4,3,2,7,0,0.485,0,
+R0653,48,1,4,15,0,-99,3,1,7,1,1.34,0,
+R0654,67,2,5,2,0,-99,2,3,6,1,1.592,0,
+R0655,57,2,2,8,0,3,1,2,7,1,0.796,1,I reported bullying by my manager Siobhán Mac Giolla Fhinnéin-Okafor and nothing happened.
+R0656,40,1,4,3,1,5,5,2,-98,0,1.382,0,
+R0657,45,-98,2,17,1,2,1,3,-98,1,0.678,1,Creche closed early twice a week and work wouldn't change my hours.
+R0658,57,1,1,17,1,-99,2,3,4,1,0.616,0,
+R0659,50,2,1,5,0,3,3,3,5,1,0.51,1,"No flexibility for parents, you either fit their hours or you leave."
+R0660,28,1,4,3,0,-99,2,2,8,0,1.078,0,
+R0661,31,1,2,13,1,3,2,4,4,0,0.68,0,
+R0662,42,1,2,22,0,4,3,4,5,0,0.737,1,the commute. traffic is worse than ever and the buses are unreliable.
+R0663,30,2,1,12,1,-99,4,1,5,0,0.591,0,
+R0664,36,2,1,12,1,5,2,3,7,0,0.482,0,
+R0665,42,-98,6,13,0,4,1,3,-99,1,1.08,0,
+R0666,44,1,6,1,0,5,1,2,5,0,1.094,0,
+R0667,51,2,2,7,0,4,1,4,4,0,0.765,0,
+R0668,29,1,6,6,0,4,0,3,9,1,1.064,0,
+R0669,48,2,5,14,0,2,1,3,5,0,1.469,0,
+R0670,35,1,1,4,0,3,-99,2,6,0,0.576,0,
+R0671,39,1,5,13,1,2,0,2,6,0,1.279,0,
+R0672,41,2,2,6,1,6,3,3,6,1,0.834,0,
+R0673,40,1,1,2,1,4,4,1,7,0,0.609,0,
+R0674,31,2,1,0,0,1,2,3,5,1,0.485,0,
+R0675,47,2,2,4,0,3,0,3,6,0,0.832,0,
+R0676,63,-98,1,13,0,-99,0,2,5,0,0.611,0,
+R0677,42,2,1,1,1,4,2,3,6,0,0.607,0,
+R0678,36,1,5,0,0,2,0,4,-98,1,1.319,1,Rent went up again and my salary didn't. Hard to stay motivated.
+R0679,47,1,3,15,0,5,1,3,2,1,1.109,0,
+R0680,55,2,4,8,0,2,3,2,7,0,1.122,0,
+R0681,55,2,5,5,0,3,0,3,1,1,1.607,0,
+R0682,50,1,3,2,0,3,2,4,2,1,1.042,0,
+R0683,45,1,4,11,0,4,-99,3,6,0,1.341,0,
+R0684,28,1,6,7,0,2,0,3,-99,1,1.238,0,
+R0685,39,2,4,4,0,3,5,3,6,0,1.076,0,
+R0686,38,2,4,9,1,3,5,2,7,0,1.224,1,where do i start. automated scheduling keeps putting me on shifts i can't do. home broadband keeps dropping during calls. juggling school runs with fixed start times is a nightmare.
+R0687,28,1,2,0,0,2,0,4,6,0,0.664,0,
+R0688,53,2,5,11,0,3,0,4,4,0,1.567,0,
+R0689,45,1,1,0,1,-99,3,3,7,0,0.465,0,
+R0690,45,1,3,4,0,4,0,4,5,0,0.996,0,
+R0691,55,2,4,3,0,6,3,3,7,0,1.072,1,"honestly, pay. cost of living."
+R0692,51,1,6,2,0,3,0,3,2,1,1.147,0,
+R0693,31,2,5,13,0,3,1,3,4,1,1.627,0,
+R0694,45,1,4,8,0,5,4,2,4,0,1.165,0,
+R0695,36,2,4,2,0,4,1,3,4,1,1.35,0,
+R0696,57,2,1,2,0,-99,2,2,2,0,0.528,0,
+R0697,61,2,6,12,0,4,1,2,-98,1,1.241,0,
+R0698,40,1,2,1,0,2,0,2,8,0,0.802,0,
+R0699,63,1,5,15,0,3,2,4,5,0,1.655,1,?
+R0700,31,1,5,13,0,2,0,4,1,1,1.397,0,
+R0701,45,1,6,26,1,4,0,4,6,0,1.365,0,
+R0702,51,1,2,18,0,4,2,4,7,1,0.728,1,Biggest thing: Restructuring every six months and nobody explains why.
+R0703,55,2,4,0,0,6,4,2,9,0,1.152,0,
+R0704,58,1,1,1,0,4,1,2,6,1,0.563,1,Where do I start. Constant deadlines. I'm doing the job of two people since the restructure. Automated scheduling keeps putting me on shifts I can't do.
+R0705,45,1,2,6,0,-99,1,4,4,0,0.704,1,Restructuring every six months and nobody explains why. Train cancellations nearly every week. The new IT system crashes constantly and nobody was trained on it.
+R0706,44,2,1,26,0,4,3,3,4,1,0.621,0,
+R0707,60,2,4,1,0,2,4,2,8,0,1.139,0,
+R0708,31,2,6,4,0,3,1,2,2,1,1.111,0,
+R0709,34,1,6,6,0,1,0,2,4,0,1.066,0,
+R0710,35,-98,2,8,0,2,2,3,7,1,0.653,1,Constant deadlines. I'm doing the job of two people since the restructure.
+R0711,41,2,5,6,0,2,0,4,2,1,1.664,0,
+R0712,37,1,3,12,1,4,0,4,4,0,1.103,0,
+R0713,29,1,6,10,0,3,2,3,7,0,1.17,0,
+R0714,44,2,3,2,1,3,0,4,2,1,1.042,0,
+R0715,45,2,4,12,1,-99,5,2,7,0,1.368,0,
+R0716,33,1,3,7,1,3,3,3,4,0,1.008,0,
+R0717,42,2,5,1,0,3,0,2,4,1,1.518,1,Hot desking means I never know where I'm sitting and can't find my team.
+R0718,34,1,3,13,0,3,0,3,3,1,1.023,0,
+R0719,67,-98,1,0,1,-99,3,3,4,1,0.507,0,
+R0720,50,2,6,10,0,4,1,4,8,0,1.084,0,
+R0721,53,1,1,7,0,6,2,2,4,0,0.499,0,
+R0722,30,-98,1,0,0,2,1,1,6,1,0.487,0,
+R0723,27,1,4,9,0,4,3,1,9,0,1.07,0,
+R0724,31,1,1,10,1,2,4,3,7,0,0.579,0,
+R0725,35,2,6,5,0,4,0,3,5,0,1.164,1,Probably no pay rise in three years.
+R0726,56,2,1,24,0,3,2,3,6,1,0.554,0,
+R0727,45,1,6,5,0,-99,0,3,2,1,1.216,0,
+R0728,32,2,1,2,0,3,1,3,9,0,0.491,0,
+R0729,32,2,5,14,1,1,1,4,3,0,1.449,0,
+R0730,23,2,1,2,0,-99,3,3,3,1,0.54,0,
+R0731,57,1,1,5,1,5,5,3,7,0,0.597,0,
+R0732,48,-98,5,2,1,2,2,3,4,0,1.34,0,
+R0733,37,1,1,8,1,2,3,1,5,0,0.545,0,
+R0734,47,2,3,4,1,3,0,4,5,1,0.903,1,Staff shortages mean we're always firefighting instead of doing the actual job.
+R0735,30,1,4,0,0,5,3,3,3,1,1.308,0,
+R0736,21,2,5,3,1,1,0,5,-98,0,1.421,0,
+R0737,33,1,6,3,0,4,0,4,4,1,1.357,1,The workload has gone up a lot and we haven't hired anyone to cover it.
+R0738,47,1,4,20,0,3,4,2,8,0,1.25,0,
+R0739,37,1,5,3,0,3,1,4,3,1,1.432,0,
+R0740,43,1,1,1,0,3,3,2,7,0,0.515,0,
+R0741,21,1,4,1,0,-99,4,2,6,0,1.346,1,"Honestly, fuel prices have made driving to work really expensive."
+R0742,56,2,1,10,0,4,3,2,5,0,0.471,0,
+R0743,28,1,1,8,0,6,3,3,6,0,0.479,0,
+R0744,67,1,4,0,0,6,5,2,5,0,1.143,1,Biggest thing: Pay hasn't kept up with the cost of living at all. Being expected to answer messages in the evenings and at weekends.
+R0745,40,1,4,22,1,-99,3,3,-98,0,1.15,1,"Kids were sick a lot this winter and I used up all my leave. We were told to use AI tools but nobody explained what we're allowed to put into them. Exhausted most of the time, honestly."
+R0746,50,2,3,14,0,3,0,4,6,0,1.002,1,dont know
+R0747,39,2,3,1,0,2,1,4,3,0,0.939,0,
+R0748,37,1,1,5,0,4,3,1,7,0,0.512,0,
+R0749,46,1,5,2,1,-99,0,4,5,1,1.621,0,
+R0750,55,2,3,2,1,3,0,4,-99,0,1.116,1,Probably automated scheduling keeps putting me on shifts I can't do. Too many projects at once and no clear priorities. Caring for my mother on top of a full-time job.
+R0751,52,1,2,2,0,5,2,3,5,1,0.765,1,-99
+R0752,46,1,1,7,0,3,1,3,8,0,0.577,0,
+R0753,43,2,1,1,0,4,2,1,5,0,0.558,0,
+R0754,54,1,2,3,1,-99,1,3,-99,1,0.856,0,
+R0755,44,2,5,7,0,1,1,4,3,0,1.287,0,
+R0756,51,2,3,2,0,2,0,2,-99,0,1.039,0,
+R0757,65,2,4,6,0,6,3,2,5,0,1.212,1,Rent went up again and my salary didn't. Hard to stay motivated.
+R0758,25,2,4,7,0,6,3,1,7,0,1.169,0,
+R0759,61,1,6,1,0,5,0,3,5,0,1.24,1,Mainly staff shortages mean we're always firefighting instead of doing the actual job.
+R0760,40,3,4,1,0,-99,4,2,8,0,1.339,0,
+R0761,49,2,5,8,1,1,2,2,5,0,1.403,1,Where do I start. No pay rise in three years. We were told to use AI tools but nobody explained what we're allowed to put into them.
+R0762,48,2,5,5,1,1,0,5,0,1,1.35,1,Probably my back is wrecked from standing all day. Can't afford to live near work anymore so I've had to move further out. Software changes every few months and the old workarounds stop working.
+R0763,22,2,2,4,1,2,2,4,3,1,0.81,0,
+R0764,24,1,1,3,0,2,2,2,6,0,0.517,0,
+R0765,49,2,1,3,1,3,3,3,4,1,0.584,0,
+R0766,32,2,2,1,1,3,1,3,5,0,0.678,1,dont know
+R0767,56,2,4,3,0,-99,3,2,4,1,1.109,0,
+R0768,29,3,3,6,0,3,1,4,3,1,0.863,1,"Mainly too much work, not enough hours in the day"
+R0769,34,2,5,2,0,2,0,3,7,0,1.323,0,
+R0770,40,2,2,2,1,2,0,4,6,0,0.752,0,
+R0771,28,1,2,1,0,2,1,3,2,0,0.843,0,
+R0772,37,2,3,3,1,4,1,4,3,1,0.991,0,
+R0773,50,2,6,3,0,5,0,3,3,1,1.234,1,"Where do I start. We got a 2% increase while prices went up far more. An hour and a half each way, it's exhausting."
+R0774,36,2,2,3,0,1,1,5,5,1,0.823,0,
+R0775,30,1,3,7,0,4,0,5,3,1,0.953,1,"Exhausted most of the time, honestly."
+R0776,60,2,5,1,0,4,1,3,7,1,1.647,0,
+R0777,32,1,1,1,0,3,3,3,2,0,0.577,0,
+R0778,38,2,5,15,0,2,0,4,6,0,1.633,0,
+R0779,29,1,2,0,0,-99,2,3,9,0,0.824,0,
+R0780,25,2,6,0,0,2,1,2,4,1,1.395,0,
+R0781,33,1,3,3,0,2,1,4,5,0,1.026,0,
+R0782,67,1,4,15,0,-99,5,2,6,1,1.077,0,
+R0783,37,2,5,7,0,1,0,4,5,0,1.384,1,To be honest software changes every few months and the old workarounds stop working. bad management
+R0784,44,2,1,26,1,5,3,4,3,1,0.491,0,
+R0785,33,2,2,4,1,2,0,4,6,0,0.748,1,
+R0786,48,1,1,3,1,2,2,3,9,1,0.596,1,"To be honest working from home is lonely, I miss the chats with colleagues."
+R0787,35,2,5,7,1,-99,0,3,2,0,1.639,0,
+R0788,33,1,5,1,1,1,1,3,4,1,1.344,1,Probably the commute. Traffic is worse than ever and the buses are unreliable. Too many online meetings. Back to back calls from 9 to 5.
+R0789,44,2,3,1,0,3,0,3,4,0,1.103,0,
+R0790,37,1,1,16,0,4,0,3,7,0,0.49,0,
+R0791,28,1,2,2,0,4,2,3,5,1,0.748,0,
+R0792,35,-98,1,2,1,2,1,2,5,1,0.596,0,
+R0793,62,2,3,18,0,5,0,4,2,1,0.881,1,Where do I start. Rent went up again and my salary didn't. Hard to stay motivated.
+R0794,44,2,2,10,0,1,0,2,5,1,0.68,0,
+R0795,38,1,5,15,0,1,0,3,7,0,1.639,0,
+R0796,41,1,6,4,0,3,0,3,6,1,1.389,0,
+R0797,29,1,4,11,1,4,-99,2,5,1,1.315,0,
+R0798,41,1,6,8,0,4,1,3,8,0,1.321,0,
+R0799,28,2,1,10,0,2,2,3,-99,1,0.6,0,
+R0800,43,2,4,8,0,6,3,4,5,0,1.074,0,
+R0801,46,2,2,20,1,2,0,5,5,0,0.682,0,
+R0802,40,1,4,3,0,-99,3,3,3,1,1.241,0,
+R0803,52,2,2,12,1,2,2,1,10,0,0.794,0,
+R0804,45,2,1,19,0,4,2,4,5,0,0.6,0,
+R0805,21,1,2,3,0,3,1,3,7,0,0.734,0,
+R0806,39,2,4,3,0,4,3,2,5,1,1.099,0,
+R0807,27,2,2,9,0,3,2,3,6,0,0.671,0,
+R0808,58,1,1,0,0,3,1,3,6,1,0.619,1,The volume of admin has doubled. Forms for everything.
+R0809,41,2,2,2,1,2,1,4,3,1,0.826,1,n/a
+R0810,51,2,6,12,0,4,1,4,4,1,1.261,0,
+R0811,-99,1,3,6,0,-99,2,3,2,1,1.096,0,
+R0812,39,2,5,14,1,1,0,3,-98,0,1.394,0,
+R0813,42,2,3,6,1,3,1,4,2,1,1.129,0,
+R0814,48,1,2,9,1,4,2,4,6,0,0.804,1,
+R0815,44,1,4,22,1,-99,5,2,8,0,1.097,0,
+R0816,30,1,6,0,0,2,0,2,6,0,1.383,0,
+R0817,36,2,5,1,0,4,1,4,2,1,1.549,0,
+R0818,30,-98,4,3,0,3,3,3,10,0,1.428,0,
+R0819,33,1,4,12,0,3,3,2,7,0,1.1,0,
+R0820,56,1,1,2,0,3,2,2,7,0,0.52,0,
+R0821,56,2,3,2,0,5,0,4,-99,1,1.134,1,"mainly exhausted most of the time, honestly. the volume of admin has doubled. forms for everything."
+R0822,26,2,6,4,0,2,0,1,5,0,1.358,1,
+R0823,40,2,2,0,1,5,1,3,-98,1,0.786,0,
+R0824,55,1,2,4,0,3,1,4,6,1,0.705,0,
+R0825,39,1,5,3,1,1,1,3,4,1,1.456,1,Hybrid is fine but the office days are just video calls from a different desk. We got a 2% increase while prices went up far more.
+R0826,25,1,3,7,1,3,2,4,4,0,0.915,1,Mainly caring for my mother on top of a full-time job.
+R0827,41,1,2,5,0,-99,2,4,-98,0,0.662,1,Nothing really
+R0828,29,2,3,11,0,2,1,3,4,1,1.008,0,
+R0829,61,1,1,0,0,4,3,4,-99,0,0.594,1,
+R0830,24,1,3,6,0,4,0,4,1,1,0.973,0,
+R0831,48,1,1,19,0,4,2,4,5,1,0.604,1,Biggest thing: Burnout. I've been off sick twice this year with stress.
+R0832,47,1,4,29,0,-99,3,2,6,1,1.342,1,Burnout. I've been off sick twice this year with stress.
+R0833,36,2,5,13,0,1,0,4,4,0,1.477,0,
+R0834,57,1,4,2,0,6,3,2,6,1,1.146,0,
+R0835,26,2,3,2,0,1,1,5,4,0,1.054,1,dont know
+R0836,40,1,1,1,0,2,1,2,6,0,0.559,0,
+R0837,40,1,3,2,1,5,2,3,2,1,0.958,1,Caring for my mother on top of a full-time job.
+R0838,35,1,4,4,1,6,3,3,7,0,1.119,0,
+R0839,48,2,2,1,0,2,1,3,7,0,0.733,0,
+R0840,56,2,1,2,1,5,3,2,6,1,0.52,0,
+R0841,51,2,3,10,0,3,0,5,4,0,1.093,0,
+R0842,28,2,5,4,0,3,2,2,4,1,1.26,1,"No flexibility for parents, you either fit their hours or you leave."
+R0843,40,2,5,13,0,-99,2,3,5,0,1.359,0,
+R0844,30,1,5,4,1,2,1,5,4,1,1.567,0,
+R0845,31,1,5,0,1,2,0,4,4,1,1.397,0,
+R0846,44,1,3,4,0,5,0,5,5,0,1.1,0,
+R0847,21,1,6,3,0,4,0,3,5,1,1.108,0,
+R0848,49,1,5,2,0,1,1,3,4,0,1.547,0,
+R0849,38,1,3,1,0,4,1,4,2,1,1.083,0,
+R0850,26,1,3,7,0,3,0,5,3,0,0.912,0,
+R0851,31,2,5,13,1,1,0,3,3,1,1.309,1,"To be honest workload, simply put commuting costs Too many apps and logins. Information is spread across five systems."
+R0852,39,1,3,9,0,5,1,4,6,1,0.95,0,
+R0853,52,1,5,5,0,1,0,4,5,0,1.294,1,no comment
+R0854,48,2,1,8,0,3,3,4,5,0,0.51,0,
+R0855,44,1,4,4,0,4,2,2,8,0,1.177,0,
+R0856,31,1,3,4,0,5,1,4,6,0,0.94,1,Probably being expected to answer messages in the evenings and at weekends.
+R0857,55,2,6,3,0,4,1,3,4,0,1.133,0,
+R0858,44,2,1,3,0,4,1,3,8,0,0.559,1,Too many projects at once and no clear priorities.
+R0859,56,2,3,0,0,3,0,3,6,1,1.117,0,
+R0860,23,3,6,5,0,3,7,3,6,1,1.108,0,
+R0861,35,3,3,6,0,3,1,4,4,1,1.03,0,
+R0862,45,1,4,1,1,3,4,2,4,1,1.436,0,
+R0863,48,2,4,9,1,-99,4,3,7,0,1.435,0,
+R0864,29,2,5,3,1,1,0,3,3,1,1.307,0,
+R0865,47,1,4,4,0,5,4,3,-98,0,1.275,0,
+R0866,35,1,6,2,0,2,1,3,4,0,1.34,0,
+R0867,43,2,2,17,0,4,1,4,3,0,0.755,0,
+R0868,38,1,5,4,0,1,1,4,-98,1,1.257,1,Probably the volume of admin has doubled. Forms for everything.
+R0869,39,2,6,13,0,3,1,3,5,0,1.115,0,
+R0870,47,1,1,10,0,3,3,3,7,0,0.493,1,"where do i start. working from home is lonely, i miss the chats with colleagues."
+R0871,35,2,5,17,0,3,0,3,1,1,1.348,1,Hard to say but mental health has taken a hit. The pressure doesn't let up.
+R0872,52,2,1,5,0,5,2,2,5,0,0.521,0,
+R0873,33,1,3,5,1,3,1,3,4,1,1.07,0,
+R0874,41,3,1,9,0,3,2,2,8,0,0.59,1,Hard to say but my line manager changed three times this year so nothing is consistent.
+R0875,30,2,3,12,1,1,1,4,3,0,0.921,0,
+R0876,32,1,5,14,1,1,2,3,5,1,1.486,0,
+R0877,51,2,2,9,0,4,0,4,5,0,0.677,0,
+R0878,53,2,5,11,0,1,0,3,4,0,1.262,0,
+R0879,39,2,5,8,1,2,0,3,3,0,1.249,0,
+R0880,50,1,2,2,0,-99,1,4,4,0,0.646,0,
+R0881,44,1,2,9,0,3,-99,4,8,0,0.733,0,
+R0882,38,2,6,6,0,1,0,3,4,1,1.305,1,probably we got a 2% increase while prices went up far more.
+R0883,38,2,2,20,0,5,1,4,5,0,0.843,0,
+R0884,40,-98,4,12,0,-99,4,2,5,1,1.336,0,
+R0885,58,1,2,17,0,5,0,4,6,1,0.839,1,
+R0886,44,2,3,9,0,3,0,4,5,0,1.051,0,
+R0887,38,2,2,8,0,4,1,4,-99,0,0.691,1,
+R0888,27,2,4,8,0,-99,3,3,4,1,1.265,0,
+R0889,38,1,3,1,0,4,0,5,0,1,1.066,0,
+R0890,40,1,1,1,1,3,2,3,6,0,0.521,0,
+R0891,54,2,3,0,1,3,0,4,3,1,1.055,1,"to be honest restructuring every six months and nobody explains why. workload, simply put"
+R0892,55,2,5,1,0,3,0,3,3,1,1.502,0,
+R0893,24,2,3,6,0,2,0,4,0,1,1.044,0,
+R0894,47,1,5,4,0,4,0,3,3,0,1.438,0,
+R0895,44,2,4,13,1,4,4,2,8,0,1.409,1,hard to say but caring for my mother on top of a full-time job.
+R0896,49,1,1,17,0,3,4,3,7,0,0.576,1,To be honest restructuring every six months and nobody explains why.
+R0897,55,2,5,7,0,2,0,3,5,0,1.398,0,
+R0898,32,2,5,14,0,3,0,4,3,0,1.591,1,
+R0899,35,1,1,14,1,2,1,3,2,0,0.615,0,
+R0900,61,2,2,6,0,3,1,3,6,1,0.726,0,
+R0901,27,1,1,9,0,3,2,2,5,0,0.61,1,To be honest the new IT system crashes constantly and nobody was trained on it.
+R0902,27,2,3,2,0,4,1,3,5,0,0.921,0,
+R0903,41,1,6,0,1,3,2,4,5,1,1.407,1,Workload is unreal. Email me if you want details: d.quill-abernathy@example.com
+R0904,54,1,4,15,0,4,4,2,7,0,1.346,0,
+R0905,50,1,5,14,0,3,0,2,3,0,1.446,1,Nothing really
+R0906,46,1,1,5,1,-99,1,1,6,0,0.579,1,"honestly, train cancellations nearly every week. micromanagement. every small thing has to be signed off. we got a 2% increase while prices went up far more."
+R0907,50,1,2,0,0,3,1,3,4,1,0.753,0,
+R0908,33,2,4,10,0,3,3,3,8,0,1.15,1,Childcare costs more than half of what I earn after tax. Kids were sick a lot this winter and I used up all my leave. The workload has gone up a lot and we haven't hired anyone to cover it.
+R0909,45,1,6,7,0,3,3,2,5,1,1.18,0,
+R0910,57,1,2,6,0,3,2,3,9,0,0.699,0,
+R0911,33,2,1,12,1,-99,1,2,4,0,0.561,0,
+R0912,53,1,2,3,0,4,1,3,8,0,0.761,1,Hard to say but the volume of admin has doubled. Forms for everything. Fuel prices have made driving to work really expensive.
+R0913,28,2,5,3,0,1,1,3,5,0,1.42,0,
+R0914,61,2,5,12,0,3,2,3,5,1,1.34,1,probably being told to come in more days when the work can be done from home.
+R0915,50,2,2,0,0,4,1,3,5,1,0.649,0,
+R0916,-99,1,3,3,0,5,2,4,4,0,1.142,0,
+R0917,63,2,3,7,0,-99,0,4,4,1,1.08,0,
+R0918,42,1,3,6,0,2,1,3,4,0,0.951,0,
+R0919,45,1,1,8,0,4,2,2,6,0,0.509,0,
+R0920,46,2,4,5,0,4,3,3,7,0,1.389,0,
+R0921,43,2,4,12,0,-99,4,3,7,0,1.105,0,
+R0922,67,2,2,20,0,-99,2,4,5,0,0.77,0,
+R0923,57,2,1,3,0,-99,3,1,7,0,0.473,1,Mainly the workload has gone up a lot and we haven't hired anyone to cover it.
+R0924,48,1,2,8,0,-99,2,4,5,1,0.85,1,"Honestly, the new performance review system feels like box ticking."
+R0925,57,2,1,3,0,4,-99,3,8,0,0.577,0,
+R0926,45,1,5,9,0,3,2,4,5,0,1.288,1,"mainly the new it system crashes constantly and nobody was trained on it. exhausted most of the time, honestly. rent went up again and my salary didn't. hard to stay motivated."
+R0927,43,1,4,2,1,5,4,3,6,1,1.137,0,
+R0928,45,2,4,6,1,5,5,2,6,1,1.082,0,
+R0929,38,2,6,12,1,2,0,4,0,0,1.363,0,
+R0930,50,2,1,2,0,5,3,2,4,0,0.56,0,
+R0931,49,1,3,7,1,3,0,4,5,1,0.903,1,"workload, simply put childcare costs more than half of what i earn after tax. automated scheduling keeps putting me on shifts i can't do."
+R0932,40,1,3,5,1,4,2,5,4,0,0.933,0,
+R0933,48,1,2,4,1,2,0,3,7,0,0.754,0,
+R0934,42,2,4,1,1,5,4,3,6,1,1.389,0,
+R0935,50,2,2,1,0,2,0,4,3,0,0.7,0,
+R0936,39,1,5,6,0,3,1,4,3,1,1.271,1,Where do I start. Parking at work was removed and public transport doesn't reach us.
+R0937,48,1,3,8,0,3,0,3,5,1,0.936,0,
+R0938,38,1,1,2,0,4,1,4,8,0,0.615,0,
+R0939,36,1,5,5,0,2,0,3,4,0,1.574,0,
+R0940,43,2,3,6,0,2,0,5,3,1,1.08,0,
+R0941,32,1,3,7,0,2,2,5,4,0,0.905,0,
+R0942,48,2,1,0,1,6,3,3,7,0,0.586,0,
+R0943,56,2,1,7,0,3,2,2,5,0,0.603,0,
+R0944,28,1,2,4,0,4,2,3,5,0,0.837,1,"Biggest thing: Covering for colleagues who left and were never replaced. Exhausted most of the time, honestly."
+R0945,55,1,6,11,0,4,3,2,5,0,1.289,1,"Honestly, emails at all hours. There's no real end to the working day anymore."
+R0946,48,2,6,6,0,2,0,3,4,1,1.147,0,
+R0947,49,2,2,3,0,6,0,3,5,0,0.706,0,
+R0948,31,2,1,0,0,3,3,4,4,0,0.501,0,
+R0949,38,1,5,10,1,1,0,4,1,1,1.366,0,
+R0950,37,-98,2,5,0,2,1,4,3,1,0.777,0,
+R0951,50,1,4,7,0,-99,3,4,6,0,1.187,0,
+R0952,30,2,2,6,1,4,1,4,5,1,0.845,0,
+R0953,29,2,1,9,1,3,2,2,7,0,0.494,0,
+R0954,54,1,4,24,0,5,4,2,7,1,1.188,0,
+R0955,34,2,3,0,0,2,2,3,5,0,0.875,1,
+R0956,47,1,2,12,0,3,1,4,-99,1,0.794,1,
+R0957,45,1,2,3,0,-99,1,4,5,0,0.731,0,
+R0958,42,2,4,0,0,4,3,2,4,1,1.065,1,"Honestly, the volume of admin has doubled. Forms for everything."
+R0959,65,1,3,4,0,4,1,4,7,1,0.924,0,
+R0960,45,1,4,2,1,4,4,2,6,0,1.253,0,
+R0961,44,1,3,16,0,1,0,5,2,1,0.892,0,
+R0962,41,2,1,1,1,3,3,2,5,0,0.519,0,
+R0963,53,2,1,3,0,2,2,2,5,0,0.554,0,
+R0964,64,1,4,7,0,4,4,3,8,1,1.141,0,
+R0965,36,1,5,1,1,1,1,2,3,1,1.451,0,
+R0966,62,2,4,0,1,4,2,3,7,0,1.182,0,
+R0967,25,2,2,7,0,-99,0,4,6,1,0.751,0,
+R0968,50,2,2,1,1,-99,2,2,6,0,0.732,0,
+R0969,34,2,2,16,0,2,1,5,5,1,0.829,1,
+R0970,41,2,4,4,1,4,2,4,7,0,1.09,0,
+R0971,55,2,3,2,0,5,1,3,7,0,1.144,0,
+R0972,65,2,1,1,0,-99,3,2,7,1,0.541,0,
+R0973,37,1,2,3,1,3,3,2,7,0,0.668,0,
+R0974,57,-98,3,16,0,3,0,4,5,1,0.963,0,
+R0975,36,-98,5,0,1,3,1,3,-99,1,1.285,1,The commute. Traffic is worse than ever and the buses are unreliable.
+R0976,38,2,2,7,0,4,1,4,3,1,0.854,0,
+R0977,37,1,6,3,1,6,1,3,4,1,1.307,1,
+R0978,40,1,6,22,1,2,2,2,3,1,1.193,0,
+R0979,28,2,5,3,0,1,0,4,3,1,1.428,0,
+R0980,38,1,4,1,0,4,5,1,7,1,1.167,0,
+R0981,49,2,1,11,0,3,3,2,7,0,0.525,1,dont know
+R0982,25,2,3,0,0,2,0,4,6,1,1.114,0,
+R0983,33,1,4,1,1,2,4,3,7,0,1.323,0,
+R0984,24,1,2,2,0,1,1,4,9,0,0.737,1,"Childcare costs more than half of what I earn after tax. An hour and a half each way, it's exhausting."
+R0985,44,2,1,1,1,3,1,4,6,0,0.515,0,
+R0986,36,2,3,10,1,2,0,3,6,0,0.955,1,Biggest thing: Parking at work was removed and public transport doesn't reach us.
+R0987,50,1,5,9,0,-99,1,4,6,0,1.491,0,
+R0988,39,1,1,1,1,3,4,2,6,0,0.472,0,
+R0989,55,1,4,6,0,-99,4,2,6,0,1.306,0,
+R0990,40,2,4,1,0,5,3,3,7,0,1.359,0,
+R0991,55,1,3,4,0,4,1,3,-99,0,0.864,0,
+R0992,21,1,1,1,1,1,4,1,5,0,0.481,0,
+R0993,40,2,1,13,1,4,3,3,7,0,0.518,0,
+R0994,44,2,4,4,0,4,4,3,-98,0,1.43,0,
+R0995,38,2,6,20,0,4,1,3,7,0,1.323,1,"too much work, not enough hours in the day Micromanagement. Every small thing has to be signed off. The commute. Traffic is worse than ever and the buses are unreliable."
+R0996,31,2,1,9,0,5,1,3,4,0,0.624,1,We got a 2% increase while prices went up far more. Staff shortages mean we're always firefighting instead of doing the actual job. Micromanagement. Every small thing has to be signed off.
+R0997,54,2,6,3,0,3,0,3,5,0,1.343,0,
+R0998,38,1,3,7,0,3,0,4,1,1,1.01,0,
+R0999,49,1,5,5,0,4,2,2,4,0,1.384,0,
+R1000,32,2,6,1,0,5,1,3,6,0,1.076,1,Hard to switch off when your office is your kitchen table.
+R1001,48,1,3,23,1,6,2,3,6,0,0.933,0,
+R1002,53,1,6,3,0,3,1,4,3,1,1.282,0,
+R1003,35,1,6,1,0,2,0,3,5,0,1.159,0,
+R1004,57,2,3,11,0,5,0,5,6,0,1.04,0,
+R1005,61,2,5,1,1,1,0,4,4,1,1.669,0,
+R1006,47,1,4,1,0,3,3,2,5,1,1.186,0,
+R1007,42,2,3,23,0,2,1,2,7,0,1.054,1,
+R1008,33,1,4,5,1,5,3,2,7,1,1.279,0,
+R1009,32,1,5,1,1,1,2,3,5,1,1.358,0,
+R1010,46,2,4,3,1,4,3,3,9,0,1.202,0,
+R1011,44,1,2,9,1,5,0,2,3,0,0.808,0,
+R1012,39,2,3,8,1,4,0,5,6,0,0.994,0,
+R1013,40,2,4,3,1,1,2,2,9,0,1.238,0,
+R1014,40,2,4,1,0,4,2,2,10,0,1.332,0,
+R1015,45,2,2,4,0,-99,1,4,3,1,0.653,0,
+R1016,44,1,1,0,1,5,3,1,6,0,0.541,0,
+R1017,32,2,2,4,0,2,0,4,3,0,0.67,0,
+R1018,52,1,4,11,0,4,3,2,-98,0,1.332,0,
+R1019,43,1,1,12,0,4,3,3,7,1,0.507,0,
+R1020,54,1,6,24,0,3,0,3,6,1,1.249,0,
+R1021,38,1,1,8,1,5,2,3,7,0,0.567,0,
+R1022,57,-98,2,7,0,-99,0,5,7,0,0.764,1,"Probably poor communication from the top. We hear about changes from the news first. workload, simply put Childcare costs more than half of what I earn after tax."
+R1023,43,2,1,25,0,3,2,4,-99,0,0.535,0,
+R1024,66,2,4,11,0,5,2,2,7,1,1.284,0,
+R1025,54,2,2,8,0,4,2,4,7,0,0.786,0,
+R1026,31,2,5,9,1,1,1,3,3,0,1.337,0,
+R1027,39,1,2,14,0,1,3,3,4,1,0.707,0,
+R1028,46,1,4,2,0,3,4,2,7,0,1.078,0,
+R1029,67,1,2,0,0,3,1,4,6,0,0.856,0,
+R1030,21,2,3,3,1,1,1,4,3,1,0.989,0,
+R1031,30,1,4,12,0,3,4,4,3,1,1.311,0,
+R1032,52,2,1,3,0,4,2,4,7,0,0.494,0,
+R1033,55,2,4,33,0,5,3,2,6,0,1.418,0,
+R1034,51,2,6,2,0,4,1,3,3,1,1.294,0,
+R1035,28,1,4,3,0,-99,1,3,5,0,1.085,1,
+R1036,42,2,3,9,1,5,1,4,4,0,1.016,0,
+R1037,55,2,5,9,0,2,0,2,7,0,1.614,0,
+R1038,59,1,6,2,0,4,1,4,6,1,1.098,0,
+R1039,51,1,2,8,0,3,0,4,4,0,0.64,0,
+R1040,31,1,1,1,0,2,3,2,5,0,0.62,0,
+R1041,38,2,6,6,1,4,1,3,7,0,1.167,0,
+R1042,21,1,5,1,0,-99,0,4,4,1,1.254,0,
+R1043,42,1,2,2,1,3,-99,4,6,1,0.673,0,
+R1044,45,2,2,24,0,2,2,4,4,0,0.81,0,
+R1045,35,1,5,2,1,1,2,3,4,0,1.626,1,Hard to say but the workload has gone up a lot and we haven't hired anyone to cover it.
+R1046,55,1,2,1,0,2,2,4,4,0,0.739,0,
+R1047,-99,1,3,7,0,5,1,4,4,0,1.033,0,
+R1048,47,1,3,0,1,-99,1,3,6,1,0.94,1,hard to say but the laptop they gave me is too slow for what i need to do. the new performance review system feels like box ticking. train cancellations nearly every week.
+R1049,48,2,4,3,0,4,4,2,5,1,1.131,0,
+R1050,48,1,1,5,0,5,2,2,6,0,0.548,0,
+R1051,58,1,3,11,0,5,0,5,3,0,0.876,1,Probably long shifts with no proper breaks. Being expected to answer messages in the evenings and at weekends. Rent went up again and my salary didn't. Hard to stay motivated.
+R1052,41,2,1,18,1,3,4,3,7,0,0.519,0,
+R1053,37,1,4,3,1,3,4,1,8,0,1.08,0,
+R1054,45,1,3,4,0,4,2,5,5,0,0.906,0,
+R1055,37,1,4,4,1,-99,4,3,8,0,1.245,0,
+R1056,51,1,1,33,0,3,2,3,3,0,0.51,1,
+R1057,51,1,4,7,0,3,4,3,6,1,1.239,1,
+R1058,21,1,5,3,1,2,2,3,4,0,1.622,0,
+R1059,42,2,2,15,1,3,3,3,5,1,0.741,1,probably dealing with aggressive customers has made me anxious about going in.
+R1060,32,1,2,13,1,2,2,4,8,0,0.812,0,
+R1061,50,1,1,9,0,5,1,4,3,0,0.55,0,
+R1062,50,2,1,7,0,3,2,4,5,0,0.466,0,
+R1063,31,1,5,1,0,1,0,4,3,1,1.5,0,
+R1064,49,1,5,11,1,1,0,2,5,1,1.467,1,"Mainly workload, simply put"
+R1065,39,1,1,8,1,5,2,2,5,1,0.566,1,
+R1066,40,2,5,0,0,3,0,4,5,1,1.262,1,
+R1067,28,1,4,10,0,2,2,3,4,1,1.087,0,
+R1068,34,2,1,2,0,3,3,2,6,0,0.555,1,Management don't listen and decisions come down with no explanation.
+R1069,61,2,1,2,0,3,1,3,9,0,0.511,1,
+R1070,53,1,6,2,0,5,1,3,4,1,1.182,0,
+R1071,47,1,5,5,1,2,2,2,5,0,1.631,1,biggest thing: we were told to use ai tools but nobody explained what we're allowed to put into them.
+R1072,38,1,1,2,0,1,2,3,6,0,0.549,0,
+R1073,39,1,3,2,1,5,-99,3,8,0,0.938,0,
+R1074,37,2,4,0,0,-99,2,2,7,1,1.152,0,
+R1075,39,2,1,0,0,3,3,3,5,1,0.581,1,To be honest home broadband keeps dropping during calls. Covering for colleagues who left and were never replaced.
+R1076,64,1,3,20,0,-99,1,4,7,0,1.131,0,
+R1077,41,2,2,5,1,2,2,3,6,0,0.77,0,
+R1078,31,1,1,12,1,2,2,3,4,1,0.594,0,
+R1079,34,1,5,3,1,-99,0,4,5,0,1.648,0,
+R1080,38,1,1,6,0,4,2,2,5,0,0.559,0,
+R1081,47,1,3,0,1,3,-99,4,4,0,0.938,0,
+R1082,34,1,5,7,1,-99,1,3,4,1,1.313,1,"Hard to say but the volume of admin has doubled. Forms for everything. No flexibility for parents, you either fit their hours or you leave."
+R1083,43,1,4,8,1,-99,3,3,5,1,1.076,0,
+R1084,55,2,2,17,0,5,1,3,8,0,0.736,0,
+R1085,37,1,2,19,1,4,1,4,5,0,0.732,0,
+R1086,51,2,2,1,0,3,1,3,5,0,0.652,1,Biggest thing: Fuel prices have made driving to work really expensive.
+R1087,41,2,5,10,1,3,0,3,7,0,1.417,0,
+R1088,44,1,1,1,1,4,3,2,4,0,0.618,0,
+R1089,41,2,2,5,0,2,2,2,8,0,0.666,0,
+R1090,29,2,2,0,1,1,2,2,6,0,0.639,0,
+R1091,55,1,1,3,0,2,3,3,5,0,0.545,1,Biggest thing: Being told to come in more days when the work can be done from home. Too many projects at once and no clear priorities. Management don't listen and decisions come down with no explanation.
+R1092,61,2,3,1,0,6,0,3,4,1,1.008,0,
+R1093,24,2,1,0,0,1,3,3,6,1,0.467,0,
+R1094,30,2,1,10,1,-99,3,2,5,1,0.621,0,
+R1095,38,2,4,1,1,-99,2,1,7,1,1.079,0,
+R1096,41,3,2,9,0,3,2,2,8,0,0.767,1,"Hard to say but no recognition for extra effort, only criticism when something goes wrong. Long shifts with no proper breaks. Kids were sick a lot this winter and I used up all my leave."
+R1097,58,2,1,6,0,-99,2,3,5,0,0.601,0,
+R1098,47,1,5,0,1,2,0,4,3,1,1.465,0,
+R1099,64,2,2,4,1,6,1,4,-99,1,0.816,0,
+R1100,23,1,1,5,0,4,2,3,4,1,0.5,1,"Covering for colleagues who left and were never replaced. Working from home is lonely, I miss the chats with colleagues."
+R1101,47,1,1,5,1,3,2,3,8,0,0.625,1,Biggest thing: Restructuring every six months and nobody explains why.
+R1102,99,2,6,2,0,3,1,2,5,1,1.311,0,
+R1103,44,2,5,0,1,1,3,4,3,0,1.36,0,
+R1104,48,2,1,15,0,5,2,3,4,0,0.58,0,
+R1105,38,2,3,14,1,4,0,4,2,1,0.984,0,
+R1106,36,2,1,3,1,2,1,2,-99,1,0.591,1,To be honest software changes every few months and the old workarounds stop working. Micromanagement. Every small thing has to be signed off. Creche closed early twice a week and work wouldn't change my hours.
+R1107,21,2,4,0,0,-99,4,2,5,0,1.287,1,Where do I start. Staff shortages mean we're always firefighting instead of doing the actual job.
+R1108,64,1,3,7,0,4,2,3,3,1,0.931,1,"To be honest workload, simply put Home broadband keeps dropping during calls."
+R1109,56,2,5,3,0,-99,0,2,3,1,1.431,0,
+R1110,31,2,6,3,1,2,0,2,5,1,1.23,0,
+R1111,28,2,4,10,1,3,-99,2,5,0,1.36,1,commuting costs My line manager changed three times this year so nothing is consistent.
+R1112,47,1,1,6,1,3,4,3,4,0,0.474,0,
+R1113,39,3,4,2,1,-99,3,2,5,0,1.207,0,
+R1114,51,2,2,17,0,5,1,3,6,0,0.744,1,
+R1115,55,1,1,0,0,4,2,3,5,0,0.507,0,
+R1116,35,1,2,15,1,3,-99,4,5,0,0.711,0,
+R1117,43,1,2,6,0,2,1,3,4,0,0.753,0,
+R1118,47,1,4,8,0,4,5,2,7,0,1.207,0,
+R1119,34,2,2,16,0,2,1,3,6,0,0.645,0,
+R1120,57,2,6,0,0,3,1,2,5,0,1.327,1,Biggest thing: The new IT system crashes constantly and nobody was trained on it. Management don't listen and decisions come down with no explanation.
+R1121,46,2,5,4,0,1,-99,2,2,1,1.573,0,
+R1122,55,1,5,1,0,4,0,2,6,0,1.684,0,
+R1123,46,1,4,0,1,3,4,2,7,0,1.296,1,To be honest poor communication from the top. We hear about changes from the news first.
+R1124,28,2,1,4,0,-99,3,3,3,1,0.567,0,
+R1125,55,-98,1,9,0,6,3,3,4,1,0.493,1,Where do I start. Hybrid is fine but the office days are just video calls from a different desk.
+R1126,50,2,5,7,0,2,1,1,6,0,1.349,0,
+R1127,40,1,3,2,0,4,1,4,4,0,1.074,0,
+R1128,21,1,5,3,1,-99,0,3,-99,0,1.621,0,
+R1129,47,1,2,1,1,4,1,5,8,1,0.862,0,
+R1130,29,1,3,11,1,3,0,4,2,1,0.873,0,
+R1131,43,2,6,10,0,2,0,1,7,0,1.215,0,
+R1132,39,1,6,8,1,2,0,4,6,0,1.333,0,
+R1133,50,2,5,3,0,3,0,4,-99,0,1.287,0,
+R1134,66,1,2,3,0,3,0,3,2,0,0.8,0,
+R1135,56,2,5,4,0,3,0,4,5,1,1.338,0,
+R1136,25,2,5,3,1,2,1,4,3,0,1.327,0,
+R1137,39,1,2,10,1,4,0,4,5,0,0.638,1,Juggling school runs with fixed start times is a nightmare. Staff shortages mean we're always firefighting instead of doing the actual job. Parking at work was removed and public transport doesn't reach us.
+R1138,45,2,1,0,0,5,3,1,5,1,0.578,1,Too many online meetings. Back to back calls from 9 to 5.
+R1139,53,2,1,5,0,-99,1,4,2,1,0.511,1,"honestly, being expected to answer messages in the evenings and at weekends. the commute. traffic is worse than ever and the buses are unreliable."
+R1140,51,2,2,8,0,1,1,4,5,1,0.766,0,
+R1141,49,2,2,22,0,5,1,3,4,1,0.649,1,"An hour and a half each way, it's exhausting. No pay rise in three years. Covering for colleagues who left and were never replaced."
+R1142,52,-98,3,22,1,4,-99,3,3,0,1.033,0,
+R1143,28,2,3,0,0,2,0,4,3,1,1.091,0,
+R1144,67,2,1,22,0,-99,2,3,7,0,0.572,1,
+R1145,-99,1,5,0,0,2,0,3,3,0,1.64,0,
+R1146,30,1,6,12,0,-99,0,4,5,0,1.192,1,Where do I start. The workload has gone up a lot and we haven't hired anyone to cover it.
+R1147,37,1,5,4,1,-99,1,3,5,0,1.539,0,
+R1148,32,2,4,5,0,3,4,3,5,1,1.281,0,
+R1149,54,2,3,1,1,5,1,4,3,0,1.049,0,
+R1150,54,1,2,3,0,3,0,2,6,0,0.752,0,
+R1151,39,1,6,0,1,1,1,2,4,1,1.068,0,
+R1152,29,1,1,0,0,5,3,2,8,0,0.576,0,
+R1153,44,1,3,0,0,-99,1,4,4,0,1.138,0,
+R1154,35,1,6,6,1,2,0,2,4,0,1.414,1,
+R1155,35,2,4,17,1,5,5,2,6,1,1.148,0,
+R1156,44,1,5,16,1,2,0,4,4,0,1.57,0,
+R1157,21,1,2,3,0,3,1,4,2,1,0.658,0,
+R1158,48,1,5,6,0,2,1,3,4,0,1.263,0,
+R1159,40,1,1,2,0,2,2,3,4,1,0.525,0,
+R1160,40,2,2,3,1,3,2,4,-99,0,0.785,1,Parking at work was removed and public transport doesn't reach us. Energy bills and rent mean I've taken on a second job. Caring for my mother on top of a full-time job.
+R1161,37,2,5,9,0,2,0,3,5,1,1.31,0,
+R1162,39,2,6,18,1,4,1,4,4,1,1.156,0,
+R1163,-99,2,1,0,0,1,2,2,3,0,0.599,0,
+R1164,41,1,3,4,0,2,2,3,3,1,0.883,0,
+R1165,31,1,3,1,0,4,0,5,3,0,1.141,0,
+R1166,48,2,2,2,0,2,1,4,5,1,0.838,0,
+R1167,49,2,1,9,0,4,2,3,8,0,0.521,0,
+R1168,47,2,1,1,0,3,1,3,7,0,0.491,0,
+R1169,43,2,3,0,1,3,2,4,4,1,1.083,0,
+R1170,42,2,1,0,1,3,4,2,7,1,0.522,0,
+R1171,30,1,1,0,1,1,2,3,3,1,0.487,0,
+R1172,47,2,6,4,0,3,1,4,5,1,1.352,0,
+R1173,56,1,3,1,0,3,0,4,4,1,0.877,1,Biggest thing: The volume of admin has doubled. Forms for everything. Restructuring every six months and nobody explains why.
+R1174,31,2,1,1,1,4,3,3,6,0,0.609,1,creche closed early twice a week and work wouldn't change my hours. the volume of admin has doubled. forms for everything.
+R1175,40,1,5,1,0,1,0,2,6,0,1.635,0,
+R1176,35,1,3,13,0,4,0,3,3,1,1.112,1,Where do I start. Too many projects at once and no clear priorities.
+R1177,60,1,2,8,0,-99,1,4,5,1,0.673,0,
+R1178,67,2,5,1,1,-99,0,4,4,1,1.309,0,
+R1179,52,1,3,7,0,2,2,4,2,1,0.974,0,
+R1180,35,2,2,5,1,2,3,3,6,0,0.695,0,
+R1181,40,2,4,1,0,-99,2,3,7,0,1.374,1,"too much work, not enough hours in the day"
+R1182,67,1,1,3,0,6,3,2,5,1,0.561,1,Biggest thing: Train cancellations nearly every week.
+R1183,35,1,2,6,0,-99,0,4,2,1,0.737,1,biggest thing: senior leadership seem out of touch with what the job involves on the ground. pay hasn't kept up with the cost of living at all.
+R1184,67,3,3,3,1,4,2,3,6,1,1.115,0,
+R1185,44,2,4,4,0,4,3,3,6,0,1.234,0,
+R1186,32,1,3,3,0,3,1,4,-99,1,0.88,0,
+R1187,36,2,5,8,0,3,1,2,6,0,1.555,1,My colleague Priya Venkataraman-Ní Bhriain left because of stress and was never replaced.
+R1188,38,2,3,17,0,5,2,4,-99,1,1.12,0,
+R1189,38,2,1,11,1,3,3,1,6,0,0.603,1,Energy bills and rent mean I've taken on a second job.
+R1190,39,1,5,17,0,1,0,3,3,0,1.517,0,
+R1191,40,-98,6,1,1,3,0,3,6,0,1.066,0,
+R1192,51,1,2,1,0,3,1,4,4,1,0.741,0,
+R1193,42,2,1,20,1,5,5,2,3,0,0.492,0,
+R1194,54,1,3,18,0,4,2,2,5,1,0.987,1,probably no pay rise in three years. being expected to answer messages in the evenings and at weekends. hard to switch off when your office is your kitchen table.
+R1195,54,3,3,0,0,3,1,3,4,1,0.939,0,
+R1196,44,1,3,2,0,5,0,3,7,0,1.025,1,Mainly the workload has gone up a lot and we haven't hired anyone to cover it. Train cancellations nearly every week.
+R1197,-99,2,1,1,0,6,2,3,7,0,0.558,0,
+R1198,36,2,3,18,1,-99,0,3,2,0,0.87,1,To be honest the new performance review system feels like box ticking.
+R1199,41,2,1,8,1,4,2,3,5,1,0.604,0,
+R1200,33,1,2,6,1,4,0,4,6,1,0.678,1,where do i start. juggling school runs with fixed start times is a nightmare. being expected to answer messages in the evenings and at weekends.
+R1201,25,2,1,0,0,2,2,4,-99,0,0.606,0,
+R1202,21,2,2,3,0,-99,0,4,4,1,0.816,0,
+R1203,31,3,4,1,1,3,5,2,10,0,1.346,0,
+R1204,47,2,6,4,1,3,1,4,2,1,1.258,0,
+R1205,21,1,3,3,1,1,1,4,4,1,0.955,0,
+R1206,31,2,1,13,0,2,3,2,7,0,0.521,1,
+R1207,64,1,1,16,0,5,3,3,4,1,0.549,1,staff shortages mean we're always firefighting instead of doing the actual job. the laptop they gave me is too slow for what i need to do. childcare costs more than half of what i earn after tax.
+R1208,63,2,3,3,0,4,1,3,-98,1,1.103,0,
+R1209,27,1,3,9,0,4,0,5,7,0,1.097,0,
+R1210,39,1,2,0,0,3,2,2,6,0,0.766,1,Being told to come in more days when the work can be done from home.
+R1211,48,2,6,0,0,4,-99,2,4,1,1.172,0,
+R1212,50,2,2,10,0,2,1,4,5,1,0.733,0,
+R1213,38,1,4,5,0,5,3,3,7,0,1.37,1,-99
+R1214,29,2,2,11,0,3,2,4,2,1,0.794,0,
+R1215,52,1,4,4,0,6,3,1,4,0,1.378,0,
+R1216,39,2,6,12,1,3,1,3,5,1,1.144,0,
+R1217,21,2,2,3,1,3,0,3,4,0,0.763,0,
+R1218,-99,1,1,12,1,4,4,2,5,0,0.48,0,
+R1219,44,1,4,15,0,5,3,3,7,0,1.404,0,
+R1220,33,2,5,4,0,1,1,3,5,1,1.672,0,
+R1221,42,1,4,6,0,3,5,2,7,0,1.081,0,
+R1222,50,1,4,2,0,4,5,2,7,0,1.066,0,
+R1223,57,1,6,11,0,5,0,3,-98,1,1.116,0,
+R1224,34,1,5,11,1,1,0,5,3,1,1.388,0,
+R1225,28,2,5,3,0,4,0,4,5,0,1.606,0,
+R1226,28,2,2,10,0,4,2,2,7,1,0.823,0,
+R1227,37,1,4,4,0,5,-99,2,7,0,1.16,0,
+R1228,25,1,3,7,0,-99,1,5,5,0,0.876,0,
+R1229,44,1,5,6,0,2,0,3,5,0,1.479,0,
+R1230,26,2,6,8,1,3,2,2,7,1,1.156,0,
+R1231,38,2,3,6,0,4,1,3,4,0,0.948,0,
+R1232,42,2,1,5,0,3,2,1,10,0,0.473,0,
+R1233,36,2,6,0,1,3,2,2,3,1,1.313,0,
+R1234,48,2,4,4,1,3,4,2,5,0,1.072,0,
+R1235,32,2,6,14,0,3,1,3,6,0,1.409,0,
+R1236,32,1,1,4,1,3,3,2,6,0,0.502,0,
+R1237,42,1,4,15,1,6,4,2,6,0,1.318,0,
+R1238,40,2,3,0,0,4,0,4,1,1,0.852,0,
+R1239,32,1,2,3,0,4,1,3,6,0,0.756,1,To be honest can't afford to live near work anymore so I've had to move further out.
+R1240,52,1,3,2,0,5,0,4,3,1,1.121,0,
+R1241,23,1,1,2,1,3,2,3,4,1,0.607,0,
+R1242,67,2,1,10,0,4,1,3,4,1,0.537,0,
+R1243,50,1,6,1,0,4,1,3,7,0,1.4,0,
+R1244,59,2,2,6,0,6,2,2,8,0,0.727,0,
+R1245,53,3,3,3,0,4,0,3,-99,1,1.038,0,
+R1246,45,2,4,9,0,5,4,3,9,0,1.302,1,
+R1247,46,2,1,16,0,4,3,2,6,0,0.476,0,
+R1248,37,1,2,3,1,5,1,3,6,1,0.763,0,
+R1249,35,2,1,4,0,3,2,2,7,0,0.498,1,
+R1250,44,1,3,9,1,2,0,3,3,1,1.087,1,the commute. traffic is worse than ever and the buses are unreliable.
+R1251,35,2,2,9,0,-99,2,4,6,1,0.766,0,
+R1252,34,2,4,3,0,3,3,2,6,0,1.195,0,
+R1253,47,1,2,14,1,4,2,4,5,1,0.721,0,
+R1254,27,3,3,0,0,3,0,4,0,1,0.943,0,
+R1255,50,2,6,3,0,3,3,1,4,0,1.401,0,
+R1256,38,2,5,1,0,2,0,3,3,1,1.616,0,
+R1257,32,1,5,3,0,2,0,2,5,1,1.367,1,
+R1258,65,1,6,5,0,-99,0,4,5,0,1.381,0,
+R1259,57,2,3,1,0,4,1,4,5,0,1.063,0,
+R1260,45,2,5,7,1,3,1,3,-98,0,1.459,0,
+R1261,36,2,3,1,1,2,0,2,4,1,1.131,1,Biggest thing: No pay rise in three years.
+R1262,28,1,6,4,0,2,1,4,5,0,1.274,1,Where do I start. The new performance review system feels like box ticking.
+R1263,36,2,1,6,0,1,2,2,4,0,0.57,0,
+R1264,45,1,3,4,0,1,0,4,1,0,1.108,0,
+R1265,37,1,6,6,0,2,0,3,0,0,1.071,1,"Where do I start. No recognition for extra effort, only criticism when something goes wrong."
+R1266,28,2,4,8,0,-99,4,2,5,0,1.088,0,
+R1267,35,1,2,0,0,4,2,4,3,1,0.669,0,
+R1268,37,1,4,4,0,6,2,4,6,1,1.237,0,
+R1269,49,3,4,19,0,4,5,2,7,0,1.147,0,
+R1270,30,1,2,10,1,3,2,4,4,1,0.705,1,Rent went up again and my salary didn't. Hard to stay motivated.
+R1271,50,1,5,8,0,2,0,4,2,0,1.579,0,
+R1272,25,1,3,4,0,3,0,4,1,1,0.98,0,
+R1273,23,1,2,5,0,-99,1,4,4,1,0.639,0,
+R1274,-99,-98,2,13,0,4,3,2,7,0,0.701,0,
+R1275,50,2,2,7,0,3,0,4,4,1,0.654,1,Management don't listen and decisions come down with no explanation. Too many apps and logins. Information is spread across five systems. Energy bills and rent mean I've taken on a second job.
+R1276,48,3,3,3,1,-99,1,5,6,1,1.031,0,
+R1277,44,1,2,2,0,3,1,5,-98,0,0.849,0,
+R1278,24,2,1,1,0,5,2,4,2,1,0.506,0,
+R1279,43,2,2,3,0,3,0,3,5,0,0.743,0,
+R1280,50,2,5,7,0,3,0,4,4,0,1.538,0,
+R1281,39,1,3,2,0,1,1,3,4,0,0.93,0,
+R1282,51,2,1,3,0,-99,3,2,4,0,0.562,0,
+R1283,43,2,4,2,0,-99,3,4,5,0,1.093,0,
+R1284,35,1,4,2,1,4,3,3,5,0,1.135,0,
+R1285,-99,1,6,4,1,4,1,3,3,1,1.063,0,
+R1286,55,2,1,1,0,4,2,1,8,1,0.596,1,Where do I start. bad management
+R1287,46,1,4,3,1,5,4,2,5,1,1.413,1,?
+R1288,53,2,1,1,0,5,2,1,-99,0,0.586,0,
+R1289,55,2,3,9,0,4,1,4,3,1,1.005,1,Dealing with aggressive customers has made me anxious about going in.
+R1290,46,2,1,4,1,1,3,2,5,0,0.528,1,Where do I start. Long shifts with no proper breaks.
+R1291,63,1,3,3,1,3,0,5,5,0,0.931,0,
+R1292,56,1,5,7,0,-99,0,3,4,0,1.418,0,
+R1293,47,1,1,3,1,6,2,2,5,0,0.484,0,
+R1294,33,2,3,14,1,3,0,3,5,1,1.134,0,
+R1295,41,2,2,3,0,3,1,3,3,1,0.679,0,
+R1296,34,1,4,1,0,4,3,2,5,0,1.126,0,
+R1297,46,2,2,8,0,4,2,4,7,0,0.673,0,
+R1298,52,1,4,5,0,2,2,4,3,1,1.12,1,
+R1299,57,1,1,18,0,5,2,2,2,1,0.521,1,"Honestly, constant deadlines. I'm doing the job of two people since the restructure. Management don't listen and decisions come down with no explanation."
+R1300,41,1,4,16,1,3,5,2,9,1,1.18,1,Where do I start. Juggling school runs with fixed start times is a nightmare.
+R1301,41,1,3,2,0,3,0,4,2,0,1.022,0,
+R1302,43,1,3,5,0,4,0,4,5,1,1.143,0,
+R1303,57,1,6,3,0,2,0,3,4,0,1.311,0,
+R1304,41,2,1,3,1,-99,3,3,6,0,0.564,0,
+R1305,42,1,2,2,1,4,2,3,4,1,0.798,0,
+R1306,45,2,5,3,1,3,0,3,1,1,1.26,1,The new performance review system feels like box ticking. The laptop they gave me is too slow for what I need to do.
+R1307,26,2,6,8,0,3,1,2,5,0,1.411,0,
+R1308,42,1,3,0,1,4,0,3,4,1,1.096,0,
+R1309,29,2,3,0,0,-99,1,5,4,1,0.921,0,
+R1310,21,2,3,3,0,1,1,4,1,0,1.013,0,
+R1311,51,2,2,1,0,-99,2,5,3,0,0.757,0,
+R1312,37,1,2,7,1,3,2,4,4,1,0.809,1,"No flexibility for parents, you either fit their hours or you leave."
+R1313,36,-98,3,8,1,4,1,4,3,0,1.014,1,Hard to say but the commute. Traffic is worse than ever and the buses are unreliable.
+R1314,53,2,5,1,0,4,0,2,5,0,1.579,0,
+R1315,58,2,3,26,0,4,0,3,5,1,0.927,1,
+R1316,46,2,5,6,1,5,0,4,3,1,1.658,0,
+R1317,29,1,5,1,1,1,1,4,5,1,1.636,0,
+R1318,53,1,4,9,0,5,3,2,7,0,1.387,0,
+R1319,39,1,4,9,0,6,3,1,6,1,1.42,1,The return-to-office mandate added two hours of commuting to my week for no reason.
+R1320,57,2,2,11,0,4,1,2,5,1,0.796,0,
+R1321,54,1,5,8,0,2,0,3,1,1,1.661,1,Too many apps and logins. Information is spread across five systems. No pay rise in three years.
+R1322,23,2,5,5,0,1,1,3,4,0,1.356,0,
+R1323,44,1,2,8,1,4,2,3,-98,0,0.761,0,
+R1324,44,1,6,18,0,4,1,3,4,1,1.327,0,
+R1325,37,2,5,11,1,1,2,1,3,0,1.25,0,
+R1326,57,2,6,3,0,4,0,3,6,1,1.294,1,"Honestly, long shifts with no proper breaks. Train cancellations nearly every week. The new IT system crashes constantly and nobody was trained on it."
+R1327,46,1,3,27,1,4,0,4,5,1,0.93,0,
+R1328,40,2,3,4,1,3,1,3,3,1,1.043,0,
+R1329,40,1,4,13,0,-99,4,1,5,1,1.287,0,
+R1330,36,2,4,10,0,3,5,2,5,0,1.312,1,
+R1331,50,1,4,2,1,5,5,3,8,0,1.208,0,
+R1332,-99,1,2,4,0,-99,0,4,4,1,0.855,0,
+R1333,35,2,2,9,1,3,1,4,4,1,0.761,1,Mainly the volume of admin has doubled. Forms for everything.
+R1334,28,1,4,0,0,5,4,2,-98,0,1.281,1,Mainly hard to switch off when your office is your kitchen table.
+R1335,30,2,2,2,0,1,0,5,4,0,0.836,0,
+R1336,46,2,6,1,0,1,2,2,6,1,1.104,0,
+R1337,43,1,4,6,0,-99,3,2,8,0,1.065,0,
+R1338,29,1,1,4,0,4,2,3,7,0,0.618,0,
+R1339,30,2,6,7,1,2,1,3,-99,1,1.223,0,
+R1340,52,1,2,6,0,4,3,2,6,0,0.656,0,
+R1341,31,2,2,2,1,1,3,2,4,1,0.8,1,
+R1342,47,2,6,8,0,2,0,2,6,0,1.104,0,
+R1343,50,2,4,11,1,5,4,3,6,0,1.067,1,Mainly commuting costs Staff shortages mean we're always firefighting instead of doing the actual job.
+R1344,51,2,3,4,0,2,0,4,3,1,0.877,1,To be honest fuel prices have made driving to work really expensive.
+R1345,57,1,4,12,0,5,2,4,6,1,1.218,0,
+R1346,31,1,2,11,1,3,1,4,3,1,0.721,1,To be honest commuting costs
+R1347,28,1,1,10,1,1,2,3,5,1,0.588,0,
+R1348,38,2,4,2,0,-99,-99,3,8,0,1.073,0,
+R1349,26,1,1,2,0,6,2,2,6,0,0.565,0,
+R1350,42,1,2,8,1,4,2,5,5,1,0.766,0,
+R1351,39,1,2,0,1,4,2,2,6,0,0.778,1,No pay rise in three years.
+R1352,44,2,4,26,0,-99,4,1,7,0,1.433,0,
+R1353,50,1,4,4,0,-99,3,2,7,1,1.277,0,
+R1354,58,1,5,3,0,3,0,4,0,1,1.428,1,"too much work, not enough hours in the day Restructuring every six months and nobody explains why."
+R1355,35,2,2,5,0,4,1,4,-99,0,0.809,0,
+R1356,41,1,2,9,0,5,-99,3,5,0,0.723,0,
+R1357,52,2,2,2,0,4,1,4,5,0,0.711,0,
+R1358,37,1,4,12,0,-99,4,1,7,0,1.332,0,
+R1359,32,1,1,7,1,2,2,3,3,0,0.512,0,
+R1360,36,2,1,3,0,4,4,1,6,0,0.574,0,
+R1361,34,1,2,1,0,4,0,4,-98,1,0.706,0,
+R1362,45,1,1,23,0,3,0,4,5,0,0.554,1,Restructuring every six months and nobody explains why.
+R1363,45,2,2,2,0,3,2,4,6,0,0.812,0,
+R1364,46,2,5,2,0,2,0,3,4,0,1.686,0,
+R1365,61,2,4,14,0,-99,-99,2,7,1,1.117,0,
+R1366,61,2,3,3,0,4,0,5,4,1,1.017,1,The workload has gone up a lot and we haven't hired anyone to cover it.
+R1367,58,2,1,1,0,5,2,3,-99,1,0.549,0,
+R1368,65,1,6,23,1,-99,3,2,8,1,1.182,0,
+R1369,26,2,1,4,0,1,1,2,5,1,0.621,0,
+R1370,45,2,3,7,1,1,1,4,4,0,1.041,0,
+R1371,21,2,5,3,0,2,0,3,3,1,1.614,1,Nothing really
+R1372,55,1,6,3,0,4,1,3,6,0,1.061,0,
+R1373,54,1,5,33,0,4,0,3,2,1,1.685,1,"Hard to say but exhausted most of the time, honestly."
+R1374,28,-98,3,5,0,-99,1,2,5,0,0.891,0,
+R1375,31,2,1,4,1,1,3,2,6,0,0.608,1,"Mainly we got a 2% increase while prices went up far more. No recognition for extra effort, only criticism when something goes wrong."
+R1376,37,3,1,0,0,4,3,4,7,0,0.532,0,
+R1377,34,-98,3,9,1,2,2,3,2,1,0.928,0,
+R1378,27,2,6,7,0,3,0,2,3,0,1.406,0,
+R1379,34,1,4,10,1,-99,4,2,7,1,1.144,0,
+R1380,54,2,3,0,0,4,0,4,3,1,0.941,0,
+R1381,56,2,5,7,0,-99,0,4,4,1,1.544,1,the commute. traffic is worse than ever and the buses are unreliable.
+R1382,26,2,1,8,0,4,4,2,5,1,0.505,0,
+R1383,27,2,2,6,0,4,2,5,7,0,0.678,1,"Probably too much work, not enough hours in the day Hybrid is fine but the office days are just video calls from a different desk. Creche closed early twice a week and work wouldn't change my hours."
+R1384,33,1,5,3,1,3,0,4,4,0,1.312,0,
+R1385,61,1,3,10,0,5,0,4,4,0,0.984,0,
+R1386,24,2,2,6,0,1,2,3,-99,0,0.659,1,
+R1387,54,1,6,9,1,3,0,3,5,0,1.398,0,
+R1388,32,1,2,14,1,-99,1,3,6,0,0.857,1,Caring for my mother on top of a full-time job. bad management Staff shortages mean we're always firefighting instead of doing the actual job.
+R1389,-99,1,4,9,0,6,4,2,7,0,1.106,1,"No flexibility for parents, you either fit their hours or you leave. Fuel prices have made driving to work really expensive."
+R1390,41,1,4,3,0,4,4,3,8,1,1.064,0,
+R1391,45,2,5,5,0,-99,0,4,6,1,1.66,0,
+R1392,36,2,6,5,1,1,1,2,7,0,1.36,0,
+R1393,67,1,6,8,1,3,1,3,7,0,1.173,0,
+R1394,42,3,6,1,0,4,1,1,6,0,1.236,0,
+R1395,32,2,6,6,1,5,1,3,3,1,1.159,0,
+R1396,44,1,3,6,1,5,1,3,3,0,1.066,0,
+R1397,52,1,2,1,0,5,3,3,7,1,0.812,0,
+R1398,27,1,5,3,1,3,2,3,6,0,1.267,1,
+R1399,65,-98,1,20,0,5,1,3,3,1,0.607,1,Probably parking at work was removed and public transport doesn't reach us. Emails at all hours. There's no real end to the working day anymore. Micromanagement. Every small thing has to be signed off.
+R1400,40,2,1,3,0,1,2,2,6,0,0.564,1,"Probably pay hasn't kept up with the cost of living at all. Too many online meetings. Back to back calls from 9 to 5. workload, simply put"
+R1401,55,1,2,3,0,4,1,4,6,1,0.654,0,
+R1402,55,1,1,0,0,3,2,3,4,0,0.566,1,?
+R1403,36,1,5,2,0,1,0,3,5,0,1.641,0,
+R1404,46,2,1,4,0,4,3,4,6,0,0.525,1,
+R1405,34,2,6,7,1,4,1,2,5,0,1.123,0,
+R1406,56,1,5,0,0,4,1,2,4,1,1.273,1,Parking at work was removed and public transport doesn't reach us. Staff shortages mean we're always firefighting instead of doing the actual job.
+R1407,50,1,3,6,0,3,0,4,-99,1,0.992,1,Mainly too many apps and logins. Information is spread across five systems.
+R1408,44,1,2,2,0,4,1,4,7,0,0.754,1,"Hard to say but too much work, not enough hours in the day"
+R1409,31,2,5,8,1,1,0,3,2,1,1.49,0,
+R1410,38,1,5,12,0,3,1,3,4,1,1.687,0,
+R1411,36,1,4,5,0,-99,3,2,8,1,1.082,1,Hard to say but rent went up again and my salary didn't. Hard to stay motivated. Too many apps and logins. Information is spread across five systems. Juggling school runs with fixed start times is a nightmare.
+R1412,42,1,2,5,1,1,1,4,5,0,0.644,0,
+R1413,21,1,1,3,0,3,3,2,7,0,0.554,0,
+R1414,51,2,3,6,1,4,1,4,4,0,1.092,0,
+R1415,49,1,6,4,1,4,-99,4,6,0,1.275,0,
+R1416,37,2,6,6,1,3,0,4,7,0,1.326,0,
+R1417,43,2,3,4,1,3,1,3,3,0,1.089,0,
+R1418,47,2,1,3,0,2,3,3,6,0,0.504,0,
+R1419,38,2,4,1,0,-99,3,4,5,1,1.066,0,
+R1420,31,2,1,2,0,1,3,2,4,1,0.598,1,Call me on +1 202 555 0142 if you want to hear the full story about our HR department.
+R1421,25,1,1,7,0,2,2,3,4,1,0.503,0,
+R1422,31,1,2,13,0,6,0,4,2,1,0.706,1,
+R1423,26,1,4,1,0,-99,5,2,8,0,1.432,1,To be honest emails at all hours. There's no real end to the working day anymore. pay. cost of living. The new performance review system feels like box ticking.
+R1424,21,1,6,3,0,-99,2,2,-99,1,1.133,1,"too much work, not enough hours in the day"
+R1425,39,1,2,19,0,4,1,3,5,1,0.729,1,
+R1426,40,2,5,22,0,1,0,4,4,0,1.272,0,
+R1427,61,2,4,8,0,5,4,3,7,0,1.187,0,
+R1428,28,1,2,3,0,2,1,3,5,0,0.812,0,
+R1429,46,2,1,5,0,4,1,2,7,0,0.556,0,
+R1430,42,1,2,1,0,1,1,2,3,1,0.729,0,
+R1431,46,2,4,1,0,5,4,4,5,1,1.115,0,
+R1432,38,2,3,6,1,2,2,3,3,1,1.112,0,
+R1433,48,1,3,0,0,4,0,4,2,1,0.91,0,
+R1434,40,3,3,5,0,4,2,4,5,1,0.965,0,
+R1435,21,2,5,3,0,1,0,3,3,1,1.398,1,Biggest thing: commuting costs
+R1436,53,1,4,25,0,5,3,2,8,1,1.324,1,Hard to say but energy bills and rent mean I've taken on a second job.
+R1437,36,1,3,2,0,4,0,4,2,1,0.989,0,
+R1438,53,3,3,3,0,4,1,4,4,1,1.014,0,
+R1439,60,1,1,11,0,2,2,2,5,0,0.543,0,
+R1440,62,2,6,8,0,-99,0,2,6,0,1.192,0,
+R1441,42,2,1,0,1,4,4,2,6,1,0.485,0,
+R1442,47,2,3,8,1,4,-99,3,4,0,1.102,0,
+R1443,21,2,5,1,0,1,2,3,-99,0,1.584,0,
+R1444,35,1,3,1,0,3,0,3,4,1,1.112,1,
+R1445,58,1,2,1,0,2,2,4,5,1,0.818,0,
+R1446,53,2,4,7,0,-99,-99,3,7,0,1.083,0,
+R1447,57,3,5,5,0,-99,-99,5,3,0,1.249,1,"Hard to say but the new IT system crashes constantly and nobody was trained on it. workload, simply put"
+R1448,25,1,2,1,0,3,1,5,7,1,0.719,0,
+R1449,42,2,5,8,0,3,2,4,2,1,1.265,0,
+R1450,50,1,6,1,0,4,1,4,7,0,1.346,0,
+R1451,60,2,2,22,0,4,1,3,3,1,0.655,1,where do i start. train cancellations nearly every week.
+R1452,43,1,5,18,1,2,1,3,5,1,1.602,1,No pay rise in three years.
+R1453,36,1,5,3,1,2,0,5,5,0,1.334,1,"Biggest thing: The laptop they gave me is too slow for what I need to do. No flexibility for parents, you either fit their hours or you leave."
+R1454,21,2,2,3,0,1,1,4,5,1,0.681,0,
+R1455,44,2,5,26,1,1,0,4,3,1,1.472,0,
+R1456,48,1,1,5,1,6,3,3,8,1,0.606,0,
+R1457,44,1,2,3,0,3,1,4,4,1,0.693,0,
+R1458,-99,1,3,17,0,2,1,3,4,1,1.093,0,
+R1459,43,1,4,1,1,4,4,2,6,1,1.171,0,
+R1460,64,2,4,12,0,6,3,3,5,0,1.385,0,
+R1461,46,1,1,0,1,4,3,4,3,1,0.533,0,
+R1462,41,1,4,5,1,5,4,2,5,1,1.412,0,
+R1463,38,-98,1,14,1,-99,2,3,3,1,0.622,0,
+R1464,34,1,3,2,1,4,0,4,5,0,0.891,0,
+R1465,28,1,4,3,0,3,5,3,6,1,1.339,1,To be honest the return-to-office mandate added two hours of commuting to my week for no reason.
+R1466,56,1,3,9,0,-99,1,3,7,1,1.129,0,
+R1467,37,1,2,10,0,5,3,3,7,0,0.783,1,Biggest thing: Burnout. I've been off sick twice this year with stress.
+R1468,48,2,6,3,0,3,2,3,4,1,1.193,0,
+R1469,48,2,3,2,0,4,0,4,7,0,0.854,1,probably constant deadlines. i'm doing the job of two people since the restructure. fuel prices have made driving to work really expensive.
+R1470,52,2,5,8,1,4,0,3,3,1,1.638,0,
+R1471,54,3,3,0,0,4,0,5,5,1,0.981,0,
+R1472,41,2,2,2,0,5,2,2,8,0,0.745,0,
+R1473,55,1,1,3,0,4,2,2,5,0,0.477,0,
+R1474,53,1,5,2,1,3,1,2,4,1,1.424,0,
+R1475,37,2,1,5,0,4,1,2,6,1,0.502,0,
+R1476,43,1,1,12,1,3,2,3,5,0,0.597,0,
+R1477,36,2,3,8,0,3,0,4,5,0,1.013,0,
+R1478,30,1,3,0,1,2,-99,4,3,0,1.037,0,
+R1479,45,2,2,2,1,1,0,4,1,1,0.827,0,
+R1480,36,1,6,1,0,3,1,3,5,0,1.2,0,
+R1481,25,2,3,7,0,3,2,3,5,1,0.917,0,
+R1482,36,2,5,7,0,1,1,3,2,1,1.497,0,
+R1483,35,1,5,14,0,2,0,3,4,0,1.358,0,
+R1484,32,2,5,8,1,1,0,3,5,0,1.359,0,
+R1485,57,1,3,1,0,3,0,4,6,0,0.87,0,
+R1486,39,2,3,17,1,2,0,3,-99,1,0.994,1,rent went up again and my salary didn't. hard to stay motivated. creche closed early twice a week and work wouldn't change my hours. management don't listen and decisions come down with no explanation.
+R1487,54,1,4,1,0,5,2,2,5,0,1.131,0,
+R1488,49,2,5,3,1,5,0,3,2,1,1.287,0,
+R1489,33,1,2,11,1,5,0,4,6,0,0.852,0,
+R1490,46,2,2,24,0,2,1,3,5,1,0.833,1,Biggest thing: The commute. Traffic is worse than ever and the buses are unreliable.
+R1491,67,1,2,5,0,-99,3,4,8,0,0.856,0,
+R1492,57,1,1,2,0,2,-99,2,5,1,0.487,1,Hard to say but home broadband keeps dropping during calls. Creche closed early twice a week and work wouldn't change my hours.
+R1493,31,2,1,11,0,5,3,2,7,0,0.589,0,
+R1494,35,2,1,17,0,5,2,2,5,0,0.602,0,
+R1495,48,2,4,3,0,5,4,2,8,0,1.108,1,"Biggest thing: Exhausted most of the time, honestly."
+R1496,45,2,6,7,0,4,0,2,3,1,1.16,0,
+R1497,64,1,2,12,0,4,1,3,-99,0,0.858,0,
+R1498,42,2,6,15,0,3,2,2,8,0,1.22,1,Too many apps and logins. Information is spread across five systems. Covering for colleagues who left and were never replaced. Train cancellations nearly every week.
+R1499,48,1,2,8,1,2,3,2,6,0,0.71,0,
+R1500,40,2,1,3,0,3,1,3,5,1,0.554,0,
+R1501,40,2,2,10,1,1,1,3,7,0,0.652,1,Restructuring every six months and nobody explains why. Rent went up again and my salary didn't. Hard to stay motivated. The volume of admin has doubled. Forms for everything.
+R1502,48,3,6,3,1,3,2,1,5,0,1.167,0,
+R1503,34,2,5,16,0,1,0,2,4,0,1.614,0,
+R1504,49,1,6,15,0,1,-99,3,5,0,1.167,0,
+R1505,43,3,6,25,0,3,1,4,5,0,1.18,1,
+R1506,45,1,2,3,1,5,1,4,4,0,0.777,0,
+R1507,42,1,1,4,1,5,3,2,6,0,0.56,1,Kids were sick a lot this winter and I used up all my leave.
+R1508,37,1,4,6,0,-99,4,2,8,1,1.381,0,
+R1509,35,2,5,4,0,-99,0,4,5,0,1.614,0,
+R1510,50,2,4,14,0,5,4,3,7,0,1.415,0,
+R1511,38,1,5,9,0,1,0,4,5,1,1.607,0,
+R1512,21,1,5,1,0,2,0,3,4,0,1.559,0,
+R1513,49,1,3,6,1,5,0,4,3,1,1.012,0,
+R1514,36,2,4,0,1,4,3,3,7,1,1.31,1,the volume of admin has doubled. forms for everything.
+R1515,51,1,4,0,1,-99,5,1,-99,1,1.283,0,
+R1516,46,1,2,1,0,2,0,4,7,0,0.808,0,
+R1517,40,1,1,2,1,2,2,3,6,0,0.62,1,To be honest pay hasn't kept up with the cost of living at all.
+R1518,40,-98,5,1,0,2,1,2,4,0,1.641,0,
+R1519,36,2,3,6,0,3,0,4,2,1,1.069,1,"Honestly, the new performance review system feels like box ticking. The commute. Traffic is worse than ever and the buses are unreliable."
+R1520,44,1,2,8,0,4,1,3,6,1,0.764,1,
+R1521,-99,2,1,1,0,4,2,2,7,0,0.591,0,
+R1522,44,1,2,8,1,4,0,4,3,1,0.759,1,
+R1523,33,2,2,15,1,3,0,4,6,0,0.808,0,
+R1524,48,2,1,7,0,3,2,2,8,0,0.54,0,
+R1525,52,1,2,7,0,4,0,3,4,0,0.639,0,
+R1526,32,1,3,2,1,4,2,4,4,1,0.941,0,
+R1527,41,1,3,2,0,2,1,4,-99,0,0.974,0,
+R1528,39,1,1,3,1,4,5,3,7,1,0.582,0,
+R1529,37,1,5,5,1,2,0,4,5,1,1.418,1,
+R1530,27,1,2,8,0,4,0,4,3,0,0.834,1,where do i start. too many projects at once and no clear priorities.
+R1531,34,1,1,3,1,4,2,2,5,1,0.623,0,
+R1532,33,1,1,5,0,1,2,3,8,0,0.562,0,
+R1533,21,2,6,3,0,1,1,4,4,0,1.373,0,
+R1534,39,2,1,0,0,2,1,3,4,0,0.573,1,
+R1535,27,2,4,1,1,3,3,4,-98,0,1.077,0,
+R1536,55,2,1,23,0,4,1,3,3,0,0.574,0,
+R1537,60,1,1,9,1,5,3,2,6,0,0.476,0,
+R1538,32,1,1,5,0,1,3,3,5,1,0.52,0,
+R1539,51,1,4,1,0,5,3,2,4,0,1.067,0,
+R1540,38,-98,3,3,1,-99,1,3,5,0,0.95,1,Probably being told to come in more days when the work can be done from home.
+R1541,56,1,2,5,0,-99,1,3,3,0,0.714,0,
+R1542,66,2,3,9,0,5,2,4,3,1,0.914,0,
+R1543,45,2,5,0,0,1,1,3,7,1,1.566,1,prefer not to say
+R1544,45,2,3,6,0,5,0,4,3,1,0.922,0,
+R1545,30,2,2,12,0,3,1,2,7,0,0.747,0,
+R1546,52,1,4,5,0,5,4,1,9,0,1.111,0,
+R1547,24,3,1,2,1,2,1,3,6,0,0.485,1,Fuel prices have made driving to work really expensive.
+R1548,34,2,6,16,1,2,1,3,5,0,1.203,1,"Nothing, it's been a good year actually."
+R1549,46,1,5,8,0,2,0,3,4,0,1.665,0,
+R1550,21,1,5,0,0,1,0,4,5,1,1.32,0,
+R1551,52,1,4,6,0,4,4,2,5,0,1.225,0,
+R1552,26,2,6,5,0,3,0,2,8,0,1.267,1,probably fuel prices have made driving to work really expensive.
+R1553,38,1,4,13,1,4,4,3,5,0,1.341,1,Where do I start. New starters on the team are struggling because nobody is in the office to help them. Emails at all hours. There's no real end to the working day anymore.
+R1554,52,2,4,0,0,2,3,3,6,0,1.09,0,
+R1555,36,1,6,8,0,3,1,3,3,1,1.208,0,
+R1556,34,1,4,11,1,6,4,3,4,0,1.094,0,
+R1557,36,1,3,10,1,2,0,3,3,1,1.038,0,
+R1558,24,2,4,6,1,2,4,3,6,1,1.122,0,
+R1559,45,1,5,13,1,2,2,3,2,1,1.402,0,
+R1560,41,1,2,19,1,3,0,3,8,0,0.821,0,
+R1561,34,2,6,5,0,2,1,2,5,1,1.372,0,
+R1562,47,2,2,4,0,5,0,4,7,0,0.736,0,
+R1563,29,2,6,11,1,2,0,4,2,1,1.414,1,
+R1564,41,1,1,5,1,4,2,3,4,0,0.553,1,"Honestly, we got a 2% increase while prices went up far more. Restructuring every six months and nobody explains why."
+R1565,36,2,3,4,0,4,1,3,6,1,0.95,0,
+R1566,33,1,4,3,0,5,3,3,5,1,1.119,0,
+R1567,40,2,2,3,0,3,3,2,5,1,0.754,0,
+R1568,47,-98,4,8,1,6,3,2,10,0,1.418,0,
+R1569,21,1,2,3,0,2,1,5,-98,1,0.831,0,
+R1570,40,2,1,3,0,6,2,2,7,0,0.512,0,
+R1571,50,2,3,9,0,3,0,3,3,1,0.973,0,
+R1572,40,1,6,1,1,4,1,3,6,1,1.329,0,
+R1573,46,1,2,5,1,1,0,5,5,0,0.861,0,
+R1574,41,2,1,11,1,-99,3,2,5,0,0.478,0,
+R1575,64,2,2,6,0,2,-99,4,2,1,0.667,1,Hard to say but train cancellations nearly every week.
+R1576,60,1,1,1,0,-99,3,2,-98,1,0.503,0,
+R1577,44,1,5,7,1,2,1,3,4,1,1.528,0,
+R1578,39,2,1,3,0,3,1,4,7,0,0.537,0,
+R1579,30,2,5,6,1,2,0,2,5,1,1.658,0,
+R1580,28,1,4,5,0,4,4,2,5,1,1.271,1,The new IT system crashes constantly and nobody was trained on it. commuting costs
+R1581,38,2,6,3,0,1,2,2,8,1,1.202,1,Too many online meetings. Back to back calls from 9 to 5.
+R1582,36,1,1,5,0,5,3,2,6,1,0.564,0,
+R1583,38,2,6,11,0,5,1,3,4,1,1.365,0,
+R1584,25,2,1,2,1,1,1,4,-99,1,0.511,0,
+R1585,63,2,1,2,1,-99,3,3,5,1,0.483,0,
+R1586,21,2,3,3,0,2,1,4,6,0,0.958,0,
+R1587,37,1,4,3,1,6,5,2,8,0,1.25,0,
+R1588,53,2,2,1,0,5,1,3,7,0,0.825,0,
+R1589,46,2,2,2,0,3,1,4,3,1,0.791,1,
+R1590,34,1,6,3,0,4,1,1,-98,0,1.083,0,
+R1591,37,1,6,16,0,5,0,3,7,0,1.234,0,
+R1592,44,2,1,0,0,3,1,2,6,1,0.545,1,To be honest commuting costs bad management
+R1593,54,1,3,10,0,3,2,2,7,0,1.063,1,Staff shortages mean we're always firefighting instead of doing the actual job. We got a 2% increase while prices went up far more.
+R1594,29,2,4,11,1,4,4,2,7,0,1.399,0,
+R1595,63,1,2,13,1,-99,2,2,7,0,0.65,0,
+R1596,50,1,2,6,0,5,0,4,5,0,0.846,1,"Honestly, workload, simply put Poor communication from the top. We hear about changes from the news first."
+R1597,34,1,6,4,0,2,1,4,5,0,1.207,0,
+R1598,43,1,3,1,1,2,1,4,8,0,0.921,0,
+R1599,22,2,2,4,0,2,2,3,7,0,0.736,0,
+R1600,32,2,2,3,0,2,1,3,9,0,0.718,0,
+R1601,53,1,5,1,0,1,0,3,3,0,1.307,0,
+R1602,48,-98,6,5,1,4,1,3,4,0,1.109,1,hot desking means i never know where i'm sitting and can't find my team. restructuring every six months and nobody explains why.
+R1603,43,3,1,3,0,3,1,2,6,1,0.624,0,
+R1604,23,2,4,5,0,-99,4,1,7,1,1.39,0,
+R1605,47,2,1,1,0,3,2,2,8,1,0.619,0,
+R1606,50,2,4,29,1,6,5,3,7,0,1.427,0,
+R1607,29,1,3,3,0,4,0,5,4,1,0.981,0,
+R1608,37,2,5,6,1,1,0,3,4,1,1.253,0,
+R1609,34,1,1,2,0,4,2,3,6,1,0.623,1,Probably the new performance review system feels like box ticking. Caring for my mother on top of a full-time job.
+R1610,47,3,1,0,0,3,1,3,4,0,0.555,1,"Hard to say but an hour and a half each way, it's exhausting. Too many apps and logins. Information is spread across five systems. Being told to come in more days when the work can be done from home."
+R1611,49,1,5,5,0,2,2,3,5,0,1.306,0,
+R1612,27,1,3,8,0,2,1,5,4,0,0.958,1,"Honestly, emails at all hours. There's no real end to the working day anymore."
+R1613,34,1,4,4,0,4,4,2,7,0,1.369,0,
+R1614,27,2,1,2,0,2,4,2,4,0,0.507,0,
+R1615,-99,2,2,2,1,2,0,4,5,1,0.713,0,
+R1616,38,2,4,4,1,-99,5,4,7,1,1.325,0,
+R1617,55,1,3,6,0,3,-99,4,4,1,1.031,0,
+R1618,44,1,1,8,0,4,2,4,4,1,0.465,0,
+R1619,54,1,5,4,0,3,0,3,3,1,1.476,0,
+R1620,54,1,4,3,0,4,3,2,7,0,1.328,0,
+R1621,35,1,5,2,0,2,0,3,6,0,1.329,0,
+R1622,46,2,1,0,1,4,3,3,7,0,0.602,0,
+R1623,59,1,1,29,0,3,2,3,6,0,0.542,1,"Biggest thing: No pay rise in three years. No recognition for extra effort, only criticism when something goes wrong. workload, simply put"
+R1624,49,1,6,2,1,2,1,3,7,1,1.396,0,
+R1625,31,1,1,2,1,4,4,3,5,0,0.613,0,
+R1626,47,2,5,3,0,1,0,3,6,0,1.592,0,
+R1627,43,2,4,24,1,4,4,2,8,0,1.382,0,
+R1628,46,2,3,28,0,2,0,5,5,1,1.096,1,mainly fuel prices have made driving to work really expensive.
+R1629,32,2,3,10,1,3,0,5,1,0,1.1,0,
+R1630,31,2,3,6,0,2,0,3,6,0,1.068,0,
+R1631,48,2,2,7,0,3,2,4,3,1,0.638,0,
+R1632,40,2,3,10,1,5,3,4,2,1,0.909,0,
+R1633,55,1,1,5,0,4,1,3,5,0,0.482,0,
+R1634,34,2,4,16,0,4,3,3,6,0,1.422,0,
+R1635,37,2,6,6,0,-99,0,4,7,0,1.297,1,
+R1636,56,2,2,20,0,5,-99,4,7,0,0.698,1,"Mainly too much work, not enough hours in the day"
+R1637,40,2,3,8,0,4,0,4,-98,0,1.071,1,
+R1638,33,1,3,0,0,1,0,4,4,0,1.105,0,
+R1639,40,1,5,10,1,1,1,5,1,1,1.579,1,Mainly my back is wrecked from standing all day. Staff shortages mean we're always firefighting instead of doing the actual job.
+R1640,54,2,2,1,0,2,0,4,3,1,0.708,0,
+R1641,30,1,6,6,1,2,2,1,5,1,1.206,1,Mainly micromanagement. Every small thing has to be signed off. The new IT system crashes constantly and nobody was trained on it. Constant deadlines. I'm doing the job of two people since the restructure.
+R1642,43,2,5,2,1,1,1,4,5,1,1.415,1,"To be honest no recognition for extra effort, only criticism when something goes wrong."
+R1643,37,2,3,0,1,2,2,3,4,1,0.923,0,
+R1644,21,1,1,3,0,1,2,3,6,0,0.522,0,
+R1645,26,-98,3,6,0,3,0,4,3,0,1.135,1,Biggest thing: Micromanagement. Every small thing has to be signed off.
+R1646,48,2,2,2,0,1,-99,4,5,1,0.769,1,Staff shortages mean we're always firefighting instead of doing the actual job.
+R1647,28,1,6,2,0,3,-99,2,5,0,1.105,0,
+R1648,56,1,5,7,0,-99,0,4,1,1,1.419,0,
+R1649,36,2,3,17,1,4,1,4,3,1,0.886,0,
+R1650,51,2,1,2,1,2,2,1,6,0,0.505,0,
+R1651,21,1,5,1,0,2,0,3,2,1,1.464,0,
+R1652,44,-98,4,19,0,4,2,2,8,0,1.162,0,
+R1653,64,2,5,11,0,4,0,2,6,1,1.434,0,
+R1654,67,2,2,22,0,4,3,3,9,0,0.797,0,
+R1655,47,1,6,6,1,3,1,2,-99,1,1.055,1,Hard to say but pay. cost of living.
+R1656,50,3,5,29,1,2,1,3,3,0,1.476,1,
+R1657,-99,2,4,2,1,-99,4,2,7,0,1.248,0,
+R1658,50,2,6,4,0,5,0,4,4,0,1.062,0,
+R1659,21,2,2,3,0,2,3,4,5,0,0.639,0,
+R1660,44,1,2,12,1,5,1,4,6,0,0.819,0,
+R1661,32,2,5,2,0,2,0,3,6,0,1.326,0,
+R1662,48,1,4,1,1,-99,4,3,4,0,1.147,0,
+R1663,48,2,5,5,1,2,0,4,2,0,1.329,0,
+R1664,44,2,5,11,1,1,0,3,3,1,1.353,1,?
+R1665,41,1,2,2,0,-99,0,3,5,0,0.681,1,mainly micromanagement. every small thing has to be signed off.
+R1666,35,1,1,0,1,3,3,2,7,0,0.594,1,Where do I start. Constant deadlines. I'm doing the job of two people since the restructure.
+R1667,67,1,2,2,0,4,2,4,5,0,0.837,0,
+R1668,23,2,4,5,0,3,3,3,7,0,1.34,1,
+R1669,26,1,3,8,0,-99,2,3,6,0,1.099,0,
+R1670,46,2,3,8,0,2,1,4,3,1,1.148,0,
+R1671,41,1,1,10,0,-99,3,3,5,1,0.504,1,"honestly, rent went up again and my salary didn't. hard to stay motivated."
+R1672,45,1,6,6,1,2,1,2,5,0,1.237,1,
+R1673,31,2,1,2,1,1,1,1,6,1,0.598,0,
+R1674,38,2,6,16,1,4,1,3,5,1,1.274,1,To be honest my line manager changed three times this year so nothing is consistent. Train cancellations nearly every week. Caring for my mother on top of a full-time job.
+R1675,36,2,2,10,1,-99,0,5,4,1,0.777,1,Probably kids were sick a lot this winter and I used up all my leave.
+R1676,28,2,3,10,0,2,1,4,5,1,0.921,1,Dealing with aggressive customers has made me anxious about going in.
+R1677,54,2,4,0,0,-99,4,2,6,0,1.417,1,Biggest thing: Being told to come in more days when the work can be done from home.
+R1678,27,1,1,9,0,3,3,2,-98,0,0.62,0,
+R1679,36,2,1,1,0,5,1,3,4,0,0.509,0,
+R1680,29,3,4,2,1,-99,4,2,6,1,1.427,0,
+R1681,31,1,4,4,1,4,5,2,6,0,1.337,1,Mainly kids were sick a lot this winter and I used up all my leave.
+R1682,34,1,3,2,1,-99,0,4,3,1,0.921,0,
+R1683,49,1,2,0,0,4,3,4,3,1,0.794,1,
+R1684,37,2,4,6,0,5,-99,3,8,0,1.102,0,
+R1685,27,2,1,0,0,4,3,2,6,1,0.529,0,
+R1686,-99,2,2,1,0,2,0,4,5,1,0.739,1,"Hard to say but poor communication from the top. We hear about changes from the news first. Exhausted most of the time, honestly."
+R1687,37,2,4,5,1,-99,4,2,-99,1,1.383,0,
+R1688,37,1,1,4,0,3,2,2,-99,0,0.627,1,"Too many meetings, and Fergal Ashcombe-Nwosu books them back to back on purpose."
+R1689,38,2,6,2,1,-99,0,3,8,1,1.158,0,
+R1690,36,1,2,2,1,4,2,3,4,0,0.73,1,Hard to say but home broadband keeps dropping during calls.
+R1691,57,1,6,17,0,4,1,3,7,0,1.211,0,
+R1692,40,2,6,1,0,-99,1,3,4,0,1.183,0,
+R1693,57,1,3,11,0,3,1,5,7,1,0.931,0,
+R1694,49,1,6,6,0,3,2,3,-99,0,1.073,0,
+R1695,47,2,4,8,0,3,3,3,5,0,1.169,0,
+R1696,39,1,4,2,1,5,2,2,6,0,1.399,0,
+R1697,24,2,4,2,0,-99,3,2,8,0,1.31,0,
+R1698,48,1,2,7,1,5,2,4,6,0,0.736,0,
+R1699,44,2,6,26,0,4,1,2,6,0,1.285,0,
+R1700,37,1,4,1,1,-99,3,2,4,0,1.189,1,
+R1701,42,2,1,17,0,3,-99,2,9,0,0.584,0,
+R1702,46,1,3,24,1,3,1,4,4,1,1.02,1,"Honestly, my back is wrecked from standing all day. The commute. Traffic is worse than ever and the buses are unreliable."
+R1703,22,2,1,4,0,1,2,3,5,1,0.571,0,
+R1704,48,2,4,10,0,5,4,2,6,0,1.265,0,
+R1705,62,1,3,0,0,5,0,4,3,0,0.923,0,
+R1706,37,1,4,6,1,3,5,2,8,0,1.328,1,To be honest commuting costs
+R1707,67,1,1,4,0,4,2,3,8,0,0.576,1,Hot desking means I never know where I'm sitting and can't find my team.
+R1708,49,2,5,11,1,3,2,2,4,1,1.361,0,
+R1709,45,1,1,1,0,3,2,2,4,1,0.485,0,
+R1710,46,1,4,0,1,5,5,2,7,1,1.437,1,Mainly burnout. I've been off sick twice this year with stress. No pay rise in three years.
+R1711,57,1,5,9,0,5,0,3,2,1,1.613,0,
+R1712,36,1,5,5,0,2,0,4,1,1,1.477,1,biggest thing: hot desking means i never know where i'm sitting and can't find my team. dealing with aggressive customers has made me anxious about going in.
+R1713,50,2,1,20,0,6,2,4,4,0,0.624,0,
+R1714,58,1,1,3,0,5,4,2,5,0,0.613,0,
+R1715,66,1,5,10,0,4,1,4,4,1,1.255,1,biggest thing: my line manager changed three times this year so nothing is consistent.
+R1716,26,2,1,8,0,-99,3,3,6,1,0.513,0,
+R1717,35,2,4,4,0,4,5,2,9,0,1.365,0,
+R1718,46,2,4,2,1,6,4,3,5,1,1.287,0,
+R1719,52,1,3,9,0,4,1,4,2,0,1.08,0,
+R1720,37,2,1,6,0,3,2,3,5,1,0.521,0,
+R1721,53,1,3,3,0,3,0,5,8,0,1.032,0,
+R1722,48,2,6,3,0,-99,0,4,3,1,1.351,0,
+R1723,37,1,2,5,0,3,1,3,4,1,0.733,0,
+R1724,41,2,6,10,0,6,1,3,5,1,1.112,0,
+R1725,29,1,1,5,1,3,3,3,6,0,0.59,0,
+R1726,37,2,2,4,0,3,0,4,5,1,0.699,0,
+R1727,47,2,3,14,1,3,1,4,5,1,0.987,1,"Honestly, long shifts with no proper breaks."
+R1728,38,1,4,0,1,4,4,2,5,0,1.154,0,
+R1729,41,1,2,13,0,5,0,4,3,0,0.675,0,
+R1730,38,2,4,9,0,5,3,2,4,1,1.108,0,
+R1731,58,1,6,0,0,3,0,3,6,1,1.321,0,
+R1732,47,2,2,20,1,5,1,4,3,0,0.657,0,
+R1733,33,1,1,2,0,3,1,3,6,0,0.481,0,
+R1734,32,2,2,2,1,2,1,3,6,0,0.719,0,
+R1735,49,1,6,2,1,4,1,3,3,0,1.092,1,
+R1736,43,2,4,2,1,6,5,2,7,0,1.154,1,Parking at work was removed and public transport doesn't reach us.
+R1737,44,1,4,17,1,3,4,2,5,0,1.166,0,
+R1738,45,2,3,3,1,4,1,4,4,1,1.141,0,
+R1739,57,2,5,3,0,-99,3,2,-99,0,1.666,1,Probably childcare costs more than half of what I earn after tax. Management don't listen and decisions come down with no explanation.
+R1740,37,1,6,2,1,3,-99,1,8,0,1.132,0,
+R1741,52,1,4,7,0,3,4,1,9,0,1.328,0,
+R1742,37,1,5,19,1,1,1,5,1,1,1.369,0,
+R1743,33,1,4,13,0,3,5,3,-99,1,1.186,1,
+R1744,24,1,4,3,0,5,4,3,4,0,1.099,0,
+R1745,44,1,3,0,1,3,1,3,4,0,0.889,1,hard to say but bad management
+R1746,45,2,2,13,0,4,1,4,9,0,0.813,0,
+R1747,26,2,5,8,0,1,1,3,3,1,1.445,0,
+R1748,47,3,5,4,0,3,0,4,3,1,1.475,0,
+R1749,47,1,1,4,0,2,-99,3,6,0,0.54,1,Covering for colleagues who left and were never replaced.
+R1750,26,2,2,8,0,2,1,3,4,0,0.828,0,
+R1751,39,1,3,18,1,5,2,4,4,0,1.045,0,
+R1752,39,1,4,2,0,5,4,2,7,0,1.161,0,
+R1753,41,2,3,9,0,1,0,4,3,1,1.035,0,
+R1754,40,2,2,7,0,4,0,3,5,0,0.844,1,Mainly pay. cost of living.
+R1755,29,1,3,4,1,5,0,5,6,0,0.874,1,To be honest commuting costs
+R1756,46,2,4,10,1,6,3,3,7,0,1.293,0,
+R1757,41,1,2,13,1,3,2,3,7,0,0.701,0,
+R1758,38,2,3,20,1,3,2,3,4,0,0.877,0,
+R1759,37,1,1,0,1,2,3,2,5,0,0.539,0,
+R1760,48,2,1,5,0,4,2,3,5,1,0.527,1,To be honest bad management New starters on the team are struggling because nobody is in the office to help them.
+R1761,36,1,5,3,1,4,1,4,4,0,1.483,0,
+R1762,59,1,4,4,0,-99,4,2,7,0,1.25,1,
+R1763,36,1,2,1,0,5,2,4,4,0,0.664,0,
+R1764,39,2,1,1,0,3,1,3,3,1,0.574,0,
+R1765,30,1,3,3,0,-99,1,4,5,1,1.072,0,
+R1766,38,1,2,1,0,3,2,3,6,0,0.739,0,
+R1767,40,1,1,0,0,-99,2,2,6,1,0.517,0,
+R1768,39,2,3,2,1,3,0,4,5,0,1.071,0,
+R1769,37,1,3,1,0,3,1,2,6,0,1.006,0,
+R1770,61,1,6,2,0,5,3,3,6,1,1.368,1,
+R1771,40,2,5,6,0,1,2,4,6,0,1.475,0,
+R1772,45,2,6,10,0,6,0,3,2,1,1.169,0,
+R1773,36,2,3,5,1,3,1,4,4,0,1.097,0,
+R1774,56,3,5,13,0,3,0,3,4,1,1.355,1,To be honest new starters on the team are struggling because nobody is in the office to help them. Can't afford to live near work anymore so I've had to move further out.
+R1775,46,1,2,3,0,2,1,4,5,0,0.658,0,
+R1776,30,2,4,1,0,5,4,2,-99,0,1.12,1,Mainly being told to come in more days when the work can be done from home.
+R1777,17,2,3,13,1,5,2,3,2,1,1.14,0,
+R1778,53,2,4,2,0,2,4,3,9,0,1.087,1,pay. cost of living.
+R1779,36,2,6,12,0,5,2,3,7,0,1.346,1,biggest thing: childcare costs more than half of what i earn after tax.
+R1780,37,1,4,1,1,2,2,3,6,0,1.113,0,
+R1781,49,1,5,2,1,3,1,4,4,1,1.58,0,
+R1782,21,1,6,3,0,3,3,2,7,0,1.06,0,
+R1783,47,-98,3,20,1,3,0,3,8,0,1.063,1,"Biggest thing: An hour and a half each way, it's exhausting."
+R1784,24,-98,3,1,0,2,1,3,5,1,1.089,0,
+R1785,66,1,4,24,0,4,3,2,8,0,1.177,1,Can't afford to live near work anymore so I've had to move further out. Poor communication from the top. We hear about changes from the news first. We were told to use AI tools but nobody explained what we're allowed to put into them.
+R1786,49,2,3,16,1,4,2,3,3,1,1.026,0,
+R1787,32,1,5,14,1,1,1,3,5,0,1.439,0,
+R1788,45,1,5,24,1,2,0,4,5,0,1.668,1,Biggest thing: Energy bills and rent mean I've taken on a second job.
+R1789,33,1,1,15,0,4,4,2,9,0,0.514,0,
+R1790,-99,2,4,4,0,4,3,3,8,0,1.163,0,
+R1791,49,1,1,8,1,3,3,2,-99,1,0.469,0,
+R1792,50,1,1,14,0,6,3,2,6,0,0.492,0,
+R1793,37,1,3,0,1,4,2,4,4,1,0.913,1,"burnout. i've been off sick twice this year with stress. caring for my mother on top of a full-time job. workload, simply put"
+R1794,39,2,3,4,1,4,1,3,7,1,1.063,0,
+R1795,32,2,1,12,1,-99,2,2,8,1,0.485,0,
+R1796,40,1,4,6,1,4,3,3,6,0,1.399,1,"Working from home is lonely, I miss the chats with colleagues."
+R1797,38,2,4,2,0,5,3,2,5,1,1.101,1,
+R1798,47,1,5,19,0,2,0,3,4,1,1.344,0,
+R1799,48,1,4,2,1,3,3,2,4,0,1.071,0,
+R1800,38,1,5,3,0,1,0,3,5,0,1.429,1,Restructuring every six months and nobody explains why.
+R1801,59,2,3,3,0,3,1,3,6,0,1.136,1,Hard to say but energy bills and rent mean I've taken on a second job. The commute. Traffic is worse than ever and the buses are unreliable.
+R1802,60,1,4,9,1,-99,4,3,8,0,1.349,0,
+R1803,65,1,5,2,0,3,1,4,3,1,1.659,0,
+R1804,45,1,3,3,0,2,2,4,4,0,0.878,0,
+R1805,26,-98,1,8,1,1,2,3,6,1,0.608,0,
+R1806,46,1,2,13,1,3,2,3,7,0,0.673,0,
+R1807,21,1,6,3,1,1,3,3,4,0,1.327,0,
+R1808,-99,1,4,5,0,4,-99,1,7,0,1.268,0,
+R1809,44,2,1,5,0,1,2,2,6,1,0.624,0,
+R1810,31,2,6,13,0,2,1,2,5,0,1.314,1,Where do I start. Constant deadlines. I'm doing the job of two people since the restructure.
+R1811,22,1,3,4,1,1,0,4,1,0,1.08,0,
+R1812,38,2,3,2,0,4,0,5,4,0,0.897,0,
+R1813,50,2,1,17,1,2,4,2,6,0,0.498,0,
+R1814,42,2,2,22,1,4,1,4,2,1,0.789,0,
+R1815,50,1,1,0,1,4,4,2,5,1,0.568,0,
+R1816,54,2,3,23,0,5,0,4,3,0,1.005,1,
+R1817,55,2,6,0,0,4,-99,3,5,1,1.111,0,
+R1818,42,2,1,2,0,5,3,2,5,0,0.465,1,"Honestly, workload, simply put Fuel prices have made driving to work really expensive."
+R1819,43,1,6,1,1,4,0,3,4,0,1.321,0,
+R1820,50,3,1,1,0,4,3,3,4,0,0.587,0,
+R1821,67,2,6,5,0,6,1,3,3,1,1.338,0,
+R1822,41,2,1,6,0,1,2,2,5,1,0.545,0,
+R1823,46,2,1,5,0,5,1,3,5,1,0.515,0,
+R1824,54,1,4,4,0,-99,4,2,10,0,1.315,0,
+R1825,49,2,1,1,0,3,3,2,4,0,0.623,0,
+R1826,60,3,3,1,0,3,0,4,4,0,0.979,0,
+R1827,-99,1,4,9,1,5,4,2,7,0,1.143,0,
+R1828,46,2,2,2,1,-99,0,3,4,1,0.671,0,
+R1829,43,2,5,25,0,2,0,5,3,1,1.681,0,
+R1830,38,1,5,6,1,1,2,3,4,1,1.658,0,
+R1831,43,1,5,3,1,1,2,2,6,1,1.56,0,
+R1832,59,2,1,24,0,2,3,2,7,0,0.486,0,
+R1833,49,2,1,1,1,3,-99,3,5,0,0.603,0,
+R1834,39,1,5,3,0,3,1,3,5,0,1.464,1,"workload, simply put"
+R1835,51,2,3,1,0,6,1,4,5,0,0.878,0,
+R1836,37,3,1,3,1,2,2,3,3,1,0.56,0,
+R1837,62,2,3,6,0,-99,2,5,4,1,1.065,0,
+R1838,43,2,6,9,0,3,0,4,6,0,1.385,1,senior leadership seem out of touch with what the job involves on the ground.
+R1839,37,2,1,0,0,2,2,2,-99,0,0.572,0,
+R1840,34,1,2,13,0,2,2,4,5,1,0.797,0,
+R1841,31,3,5,9,1,1,3,2,7,0,1.376,1,"senior leadership seem out of touch with what the job involves on the ground. too much work, not enough hours in the day"
+R1842,32,2,3,14,0,4,1,3,4,0,0.941,0,
+R1843,-99,2,6,9,0,1,0,3,8,1,1.204,1,
+R1844,34,1,1,8,1,2,3,2,5,1,0.57,0,
+R1845,49,1,5,2,0,2,3,3,6,1,1.406,1,Hard to switch off when your office is your kitchen table. Senior leadership seem out of touch with what the job involves on the ground.
+R1846,53,2,2,3,0,5,2,3,8,0,0.75,0,
+R1847,27,2,1,2,0,4,1,3,4,0,0.572,0,
+R1848,44,1,6,19,1,4,-99,4,3,0,1.366,0,
+R1849,42,2,3,17,1,4,0,4,4,0,0.876,0,
+R1850,47,1,5,12,1,2,0,4,3,1,1.618,0,
+R1851,23,2,5,5,0,1,1,4,6,1,1.307,0,
+R1852,45,1,1,1,1,4,3,3,5,0,0.605,0,
+R1853,41,2,6,1,1,2,2,3,4,0,1.322,0,
+R1854,27,-98,3,0,0,3,1,4,6,0,1.005,0,
+R1855,45,1,2,3,0,2,1,3,6,0,0.755,0,
+R1856,48,2,3,3,0,5,1,3,5,1,1.033,0,
+R1857,30,2,6,1,0,4,0,4,3,1,1.189,1,"Honestly, we got a 2% increase while prices went up far more."
+R1858,36,1,5,1,0,-99,1,3,5,1,1.643,0,
+R1859,42,3,3,9,1,4,0,3,4,0,1.129,1,Hard to say but the workload has gone up a lot and we haven't hired anyone to cover it.
+R1860,56,1,6,8,1,3,2,2,-99,0,1.394,1,"New starters on the team are struggling because nobody is in the office to help them. No recognition for extra effort, only criticism when something goes wrong."
+R1861,46,2,4,3,1,4,5,2,9,1,1.192,0,
+R1862,47,1,4,1,0,5,3,2,6,1,1.242,0,
+R1863,49,1,3,1,1,4,1,3,4,1,1.11,0,
+R1864,53,1,1,26,1,4,3,2,9,0,0.477,0,
+R1865,48,2,1,6,1,4,3,1,-99,0,0.623,0,
+R1866,21,1,2,3,0,1,2,2,6,0,0.673,0,
+R1867,36,2,6,9,0,3,0,3,5,0,1.247,1,"Honestly, juggling school runs with fixed start times is a nightmare."
+R1868,37,1,5,4,0,2,1,3,3,1,1.385,0,
+R1869,43,1,6,20,0,3,1,3,4,0,1.267,1,Energy bills and rent mean I've taken on a second job. Constant deadlines. I'm doing the job of two people since the restructure.
+R1870,56,1,3,12,0,3,0,5,6,0,0.977,0,
+R1871,43,2,5,22,1,3,0,2,6,0,1.442,0,
+R1872,52,2,6,14,0,1,2,2,6,0,1.346,0,
+R1873,34,1,1,3,0,3,2,2,4,1,0.628,0,
+R1874,51,1,3,2,0,-99,0,3,4,1,1.013,1,"To be honest workload, simply put My back is wrecked from standing all day. No pay rise in three years."
+R1875,43,1,3,0,1,5,0,4,6,0,1.147,1,To be honest juggling school runs with fixed start times is a nightmare. Too many apps and logins. Information is spread across five systems. Fuel prices have made driving to work really expensive.
+R1876,28,1,5,3,0,2,0,4,7,1,1.287,0,
+R1877,22,1,4,4,0,2,4,2,5,1,1.207,1,No pay rise in three years. Mental health has taken a hit. The pressure doesn't let up. Creche closed early twice a week and work wouldn't change my hours.
+R1878,41,2,3,14,1,4,0,4,5,1,0.931,0,
+R1879,38,2,2,1,0,-99,0,4,3,1,0.768,0,
+R1880,47,1,6,0,0,-99,0,3,5,1,1.111,0,
+R1881,46,3,4,2,0,4,-99,3,5,0,1.306,0,
+R1882,26,1,6,1,0,3,1,2,6,0,1.146,0,
+R1883,27,2,6,9,0,3,1,2,4,1,1.249,1,Probably hot desking means I never know where I'm sitting and can't find my team.
+R1884,30,1,3,4,0,2,0,3,6,0,1.024,0,
+R1885,21,2,4,3,0,-99,2,3,6,0,1.179,0,
+R1886,53,1,2,11,0,6,1,4,3,1,0.846,0,
+R1887,55,2,6,6,0,6,0,4,5,1,1.177,0,
+R1888,43,1,3,7,1,3,0,4,5,0,1.038,1,"Honestly, train cancellations nearly every week. My back is wrecked from standing all day."
+R1889,44,2,1,13,1,3,3,3,4,0,0.579,0,
+R1890,46,1,2,8,1,3,0,5,4,1,0.831,0,
+R1891,61,2,6,3,0,5,1,2,6,1,1.215,0,
+R1892,47,2,4,5,0,4,2,3,6,0,1.203,1,
+R1893,39,1,1,13,0,3,3,2,7,0,0.539,1,"Working from home is lonely, I miss the chats with colleagues."
+R1894,33,1,6,6,0,4,1,4,5,0,1.375,0,
+R1895,23,1,1,5,0,2,2,2,4,1,0.557,1,"Probably no recognition for extra effort, only criticism when something goes wrong. New starters on the team are struggling because nobody is in the office to help them."
+R1896,56,2,1,9,1,3,3,2,3,1,0.618,0,
+R1897,31,2,3,9,1,1,2,4,-98,1,0.977,0,
+R1898,42,1,3,0,0,1,0,4,4,0,1.017,0,
+R1899,39,1,1,21,0,5,1,3,3,0,0.603,0,
+R1900,63,2,1,19,0,-99,2,4,4,1,0.523,0,
+R1901,39,2,5,14,0,1,0,3,0,1,1.409,0,
+R1902,52,1,2,3,0,4,0,3,4,0,0.744,0,
+R1903,49,1,1,8,1,2,2,1,4,0,0.54,0,
+R1904,49,2,3,0,0,3,1,5,4,1,0.913,0,
+R1905,42,2,2,0,1,4,1,3,6,0,0.833,0,
+R1906,48,2,5,8,1,-99,0,4,2,1,1.392,0,
+R1907,51,2,1,33,0,5,0,3,6,0,0.465,0,
+R1908,51,1,2,1,0,6,0,2,8,1,0.757,0,
+R1909,46,2,6,0,0,4,1,2,6,0,1.281,0,
+R1910,56,2,6,1,0,4,1,3,5,0,1.11,0,
+R1911,51,2,4,8,0,-99,5,4,5,0,1.403,0,
+R1912,44,2,4,3,1,-99,5,3,5,1,1.26,1,Hard to say but too many apps and logins. Information is spread across five systems. Creche closed early twice a week and work wouldn't change my hours. We got a 2% increase while prices went up far more.
+R1913,21,-98,4,2,0,2,3,3,5,0,1.429,0,
+R1914,54,1,4,6,0,5,3,3,6,1,1.248,0,
+R1915,38,2,1,1,0,-99,3,2,4,0,0.543,0,
+R1916,59,-98,6,18,0,4,0,4,4,1,1.112,0,
+R1917,44,2,4,18,1,-99,4,3,5,0,1.348,1,To be honest new starters on the team are struggling because nobody is in the office to help them.
+R1918,36,2,1,3,1,2,4,2,4,0,0.626,1,Biggest thing: Dealing with aggressive customers has made me anxious about going in.
+R1919,37,1,5,2,0,1,0,3,3,1,1.494,0,
+R1920,46,1,1,1,0,4,4,1,6,0,0.545,1,-99
+R1921,26,1,6,8,0,3,0,2,6,0,1.268,1,"Caring for my mother on top of a full-time job. workload, simply put"
+R1922,-99,1,5,1,0,1,1,4,4,0,1.309,0,
+R1923,46,1,1,10,0,3,3,2,-98,0,0.61,0,
+R1924,56,2,5,8,1,2,0,3,5,1,1.322,1,Probably no pay rise in three years.
+R1925,67,1,1,12,0,-99,4,4,5,1,0.534,0,
+R1926,46,1,3,3,1,-99,1,3,3,0,1.12,0,
+R1927,26,1,1,3,0,4,2,3,7,1,0.507,0,
+R1928,51,2,6,7,0,4,0,1,5,0,1.237,0,
+R1929,48,1,1,22,0,4,2,3,5,0,0.617,0,
+R1930,21,1,5,3,0,1,1,4,3,1,1.503,0,
+R1931,24,2,2,3,0,4,0,3,7,0,0.682,1,Hard to say but restructuring every six months and nobody explains why.
+R1932,52,2,3,6,0,4,0,3,2,1,0.94,0,
+R1933,29,1,4,7,1,5,3,3,6,0,1.296,0,
+R1934,47,1,2,3,0,-99,1,4,5,1,0.709,1,Probably my back is wrecked from standing all day. Automated scheduling keeps putting me on shifts I can't do.
+R1935,32,1,3,1,0,3,0,4,4,0,1.1,0,
+R1936,51,2,2,1,0,4,0,4,3,1,0.738,0,
+R1937,37,2,5,2,1,1,1,4,5,0,1.396,0,
+R1938,43,2,1,6,0,5,3,3,3,1,0.624,0,
+R1939,33,1,3,5,1,4,0,4,3,1,1.081,0,
+R1940,50,1,2,3,0,5,1,3,7,0,0.771,0,
+R1941,47,2,6,9,1,3,0,3,4,1,1.053,1,To be honest staff shortages mean we're always firefighting instead of doing the actual job. We got a 2% increase while prices went up far more.
+R1942,44,1,1,4,0,5,2,3,5,1,0.536,0,
+R1943,29,1,6,7,1,3,1,3,3,1,1.146,0,
+R1944,40,2,6,7,0,2,0,3,5,1,1.242,1,to be honest the commute. traffic is worse than ever and the buses are unreliable.
+R1945,21,1,3,3,0,1,1,4,3,1,0.856,0,
+R1946,31,2,1,1,0,3,2,3,3,1,0.58,1,pay. cost of living.
+R1947,46,1,6,9,1,4,1,3,5,0,1.128,1,"Honestly, rent went up again and my salary didn't. Hard to stay motivated."
+R1948,39,1,3,21,0,2,1,4,4,1,1.021,0,
+R1949,56,2,1,14,0,4,2,3,6,1,0.498,1,management don't listen and decisions come down with no explanation.
+R1950,57,1,6,1,0,4,0,2,-98,0,1.355,0,
+R1951,33,2,1,3,1,1,2,3,4,0,0.544,1,"Pay is the issue. I'm Aoife Lindqvist-Ó Ceallaigh in payroll, ask anyone how bad it is."
+R1952,45,2,2,6,1,4,3,4,6,0,0.783,0,
+R1953,58,2,3,2,0,3,0,4,4,1,0.903,0,
+R1954,48,1,1,26,0,-99,2,3,7,0,0.552,1,Hard to say but micromanagement. Every small thing has to be signed off. Can't afford to live near work anymore so I've had to move further out.
+R1955,36,2,3,15,0,3,1,2,3,0,0.905,0,
+R1956,59,1,5,1,0,3,0,4,0,1,1.249,0,
+R1957,29,1,3,0,0,3,1,4,3,1,1.031,0,
+R1958,54,1,1,10,0,3,3,2,8,0,0.591,0,
+R1959,39,1,6,1,1,-99,1,3,0,1,1.282,0,
+R1960,30,1,3,12,0,2,0,4,4,1,0.959,0,
+R1961,47,2,4,20,1,4,3,3,5,1,1.431,0,
+R1962,50,1,1,14,0,5,1,3,5,0,0.625,0,
+R1963,45,1,5,6,1,2,0,4,3,1,1.523,0,
+R1964,22,1,4,4,0,3,4,2,8,1,1.189,0,
+R1965,45,2,6,4,0,4,0,3,5,1,1.05,1,nothing
+R1966,38,2,5,9,0,4,0,3,5,1,1.562,0,
+R1967,50,2,2,20,0,1,2,4,6,1,0.766,0,
+R1968,39,1,2,7,0,2,0,4,5,0,0.808,0,
+R1969,37,2,3,4,1,4,0,4,2,1,1.065,0,
+R1970,45,2,6,8,1,-99,1,2,5,0,1.169,0,
+R1971,38,1,4,11,0,5,5,3,-99,0,1.175,1,Mainly no pay rise in three years.
+R1972,32,-98,5,2,0,1,0,3,5,0,1.593,0,
+R1973,21,2,3,3,1,3,-99,5,1,1,0.943,0,
+R1974,30,1,4,11,0,3,3,2,9,0,1.117,0,
+R1975,28,1,2,10,0,3,2,1,8,0,0.776,0,
+R1976,28,2,3,10,0,4,0,5,3,1,0.97,0,
+R1977,60,2,4,2,0,6,4,2,6,0,1.431,0,
+R1978,54,2,1,6,0,3,3,3,5,0,0.491,0,
+R1979,36,2,6,7,1,2,0,3,3,1,1.337,0,
+R1980,55,1,3,4,0,3,1,4,6,0,1.019,1,
+R1981,58,1,1,0,0,-99,2,3,6,0,0.519,0,
+R1982,42,2,4,12,0,5,3,2,6,0,1.09,0,
+R1983,34,1,1,0,0,4,2,1,6,0,0.512,0,
+R1984,48,-98,2,4,0,5,1,2,5,0,0.774,0,
+R1985,58,2,3,5,0,4,1,2,5,1,1.007,0,
+R1986,34,2,1,1,0,3,3,2,7,1,0.556,0,
+R1987,32,3,3,2,1,2,1,3,-99,1,0.997,0,
+R1988,46,1,4,4,1,5,4,3,6,0,1.157,0,
+R1989,-99,2,3,1,1,5,2,2,6,1,0.88,0,
+R1990,27,2,2,1,0,5,0,3,-99,0,0.717,0,
+R1991,37,2,6,4,1,3,-99,4,8,0,1.229,0,
+R1992,51,2,3,1,0,4,1,3,4,1,1.119,0,
+R1993,52,2,1,9,0,5,-99,1,7,0,0.589,0,
+R1994,-99,2,5,2,1,3,0,3,5,0,1.467,0,
+R1995,42,2,2,2,0,3,2,3,6,0,0.739,0,
+R1996,45,1,1,0,1,3,2,2,6,0,0.599,0,
+R1997,26,2,1,8,0,3,2,2,10,0,0.493,0,
+R1998,27,2,2,2,0,3,2,4,4,0,0.804,0,
+R1999,23,2,6,5,1,3,1,2,5,0,1.166,0,
+R2000,48,1,3,0,0,6,0,4,3,1,1.02,0,

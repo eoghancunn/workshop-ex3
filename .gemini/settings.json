@@ -1,0 +1,15 @@
+{
+  "context": {
+    "fileName": ["AGENTS.md"]
+  },
+  "hooks": {
+    "BeforeTool": [
+      {
+        "matcher": "run_shell_command",
+        "hooks": [
+          { "name": "audit-log", "type": "command", "command": "$GEMINI_PROJECT_DIR/hooks/audit-log.sh", "timeout": 5000 }
+        ]
+      }
+    ]
+  }
+}

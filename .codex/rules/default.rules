@@ -1,0 +1,4 @@
+# The researcher commits, merges and pushes.
+prefix_rule(pattern = ["git", "commit"], decision = "forbidden", justification = "The researcher commits")
+prefix_rule(pattern = ["git", "merge"], decision = "forbidden", justification = "The researcher merges")
+prefix_rule(pattern = ["git", "push"], decision = "forbidden", justification = "The researcher pushes")

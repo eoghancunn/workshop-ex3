@@ -1,0 +1,201 @@
+resp_id,age,gender,sector,tenure_years,children_under12,income_band,remote_days,workload,job_satisfaction,intend_quit,weight,open_asked,open_text
+MOCK001,26,2,3,2,0,3,0,3,6,1,1.134,0,
+MOCK002,38,2,3,2,1,-99,1,4,4,1,1.134,0,
+MOCK003,42,1,4,5,1,5,3,3,5,1,1.321,1,mainly home broadband keeps dropping during calls. the volume of admin has doubled. forms for everything. the laptop they gave me is too slow for what i need to do.
+MOCK004,39,2,1,4,1,3,2,3,4,1,0.485,1,
+MOCK005,47,1,4,6,1,4,4,2,3,1,1.103,0,
+MOCK006,35,2,6,3,1,1,0,3,6,1,1.431,1,"Poor communication from the top. We hear about changes from the news first. We were told to use AI tools but nobody explained what we're allowed to put into them. No flexibility for parents, you either fit their hours or you leave."
+MOCK007,28,2,3,9,0,3,0,5,5,0,0.982,0,
+MOCK008,37,2,3,1,0,3,0,5,3,0,0.907,1,"Biggest thing: Working from home is lonely, I miss the chats with colleagues. Poor communication from the top. We hear about changes from the news first. Too many projects at once and no clear priorities."
+MOCK009,33,2,3,1,0,2,2,2,5,0,0.94,0,
+MOCK010,36,1,2,3,1,3,0,3,3,1,0.832,1,"Hard to say but too much work, not enough hours in the day"
+MOCK011,49,1,3,2,1,3,0,4,4,0,1.001,0,
+MOCK012,59,1,1,1,0,3,2,3,-99,0,0.586,0,
+MOCK013,36,2,4,4,1,4,5,1,6,1,1.367,0,
+MOCK014,52,3,4,5,0,6,3,2,9,0,1.449,0,
+MOCK015,54,1,2,4,0,5,1,4,5,1,0.785,1,Nothing really
+MOCK016,40,1,1,6,0,4,2,3,7,0,0.503,0,
+MOCK017,52,1,3,1,0,4,0,3,4,1,1.148,1,
+MOCK018,33,2,3,3,0,2,1,3,6,0,0.868,0,
+MOCK019,41,2,4,0,0,-99,3,3,6,1,1.327,0,
+MOCK020,40,2,6,3,1,2,1,1,5,0,1.133,0,
+MOCK021,46,1,3,28,0,3,0,3,4,1,0.894,0,
+MOCK022,21,1,4,2,0,3,2,3,4,1,1.36,0,
+MOCK023,45,2,5,3,1,4,1,3,5,0,1.376,0,
+MOCK024,46,2,5,4,0,4,0,4,6,0,1.63,1,Hard to say but fuel prices have made driving to work really expensive.
+MOCK025,47,1,4,13,0,5,3,3,6,0,1.17,0,
+MOCK026,40,1,4,2,1,4,5,3,-99,0,1.412,1,Juggling school runs with fixed start times is a nightmare. Emails at all hours. There's no real end to the working day anymore.
+MOCK027,32,2,5,3,1,1,0,4,2,1,1.301,0,
+MOCK028,31,2,6,2,0,4,1,2,3,1,1.316,1,To be honest restructuring every six months and nobody explains why. Can't afford to live near work anymore so I've had to move further out.
+MOCK029,25,1,4,3,0,3,3,3,8,0,1.414,1,
+MOCK030,60,1,4,3,0,4,2,1,7,0,1.129,1,To be honest no pay rise in three years.
+MOCK031,40,1,3,5,0,1,2,5,7,0,0.902,0,
+MOCK032,-99,1,1,15,0,-99,2,2,7,0,0.551,0,
+MOCK033,24,2,5,6,0,1,-99,4,4,1,1.422,0,
+MOCK034,42,1,1,1,0,2,2,2,3,1,0.554,0,
+MOCK035,63,1,5,19,0,3,1,3,5,1,1.382,0,
+MOCK036,38,2,1,2,1,3,2,2,6,0,0.485,1,To be honest caring for my mother on top of a full-time job. Too many online meetings. Back to back calls from 9 to 5.
+MOCK037,50,1,4,31,0,3,2,2,7,0,1.118,0,
+MOCK038,49,1,4,7,1,6,5,2,5,0,1.419,0,
+MOCK039,36,1,3,6,1,3,-99,3,8,0,0.894,0,
+MOCK040,27,1,4,9,0,2,4,2,8,1,1.169,1,"Honestly, covering for colleagues who left and were never replaced."
+MOCK041,22,-98,3,4,0,2,-99,3,4,1,0.977,0,
+MOCK042,42,1,1,5,1,3,4,3,2,1,0.595,0,
+MOCK043,49,2,6,1,1,3,1,3,4,0,1.156,1,Parking at work was removed and public transport doesn't reach us. Emails at all hours. There's no real end to the working day anymore. bad management
+MOCK044,58,1,2,0,0,5,0,4,5,0,0.704,0,
+MOCK045,33,1,3,0,1,3,1,4,4,1,0.974,1,Micromanagement. Every small thing has to be signed off.
+MOCK046,37,2,4,11,0,5,4,2,7,0,1.275,0,
+MOCK047,38,1,1,5,0,3,1,3,5,1,0.496,1,no comment
+MOCK048,46,2,6,18,1,-99,2,3,6,0,1.177,0,
+MOCK049,56,1,2,10,0,-99,0,4,6,0,0.683,1,Mainly train cancellations nearly every week.
+MOCK050,43,2,1,2,0,4,2,1,6,0,0.552,0,
+MOCK051,23,1,4,5,0,4,3,3,7,0,1.407,0,
+MOCK052,44,2,1,10,1,4,3,2,5,0,0.498,0,
+MOCK053,43,1,1,6,0,2,3,3,6,1,0.533,0,
+MOCK054,35,1,5,3,0,2,0,4,3,1,1.568,1,Burnout. I've been off sick twice this year with stress.
+MOCK055,60,1,1,4,0,4,2,4,2,1,0.572,1,hard to say but the return-to-office mandate added two hours of commuting to my week for no reason. emails at all hours. there's no real end to the working day anymore.
+MOCK056,43,1,1,5,0,4,2,4,6,1,0.494,0,
+MOCK057,48,2,2,2,1,2,-99,4,5,0,0.873,0,
+MOCK058,48,1,1,3,1,4,2,2,8,0,0.511,0,
+MOCK059,45,2,1,15,0,5,3,4,6,0,0.477,0,
+MOCK060,44,2,3,26,1,3,1,4,5,0,0.964,0,
+MOCK061,45,2,1,4,1,4,3,2,7,0,0.613,0,
+MOCK062,55,2,1,7,0,5,2,3,5,1,0.484,1,no comment
+MOCK063,24,2,1,6,0,3,2,3,4,0,0.476,0,
+MOCK064,37,2,3,0,1,4,0,3,6,0,0.955,0,
+MOCK065,50,2,6,6,0,5,1,2,6,0,1.429,0,
+MOCK066,35,1,1,4,0,3,2,2,7,0,0.613,0,
+MOCK067,49,2,5,8,0,-99,0,3,2,1,1.632,0,
+MOCK068,64,2,4,7,0,6,4,2,6,0,1.419,0,
+MOCK069,53,2,6,12,0,5,0,3,-98,0,1.073,1,
+MOCK070,62,1,2,0,0,3,0,4,3,1,0.704,1,Hard to say but staff shortages mean we're always firefighting instead of doing the actual job.
+MOCK071,54,2,4,4,0,-99,3,2,8,0,1.457,0,
+MOCK072,42,2,6,0,1,3,0,3,3,1,1.129,0,
+MOCK073,38,1,3,5,0,-99,1,3,5,0,0.886,0,
+MOCK074,42,2,1,7,0,3,2,4,6,0,0.573,1,
+MOCK075,32,2,2,2,1,2,1,4,4,1,0.655,0,
+MOCK076,26,2,4,8,0,3,3,2,4,0,1.177,0,
+MOCK077,40,1,1,0,1,4,1,2,-99,0,0.534,0,
+MOCK078,34,2,2,14,1,4,2,2,-99,0,0.753,0,
+MOCK079,53,2,5,13,0,1,2,2,5,0,1.33,0,
+MOCK080,-99,2,3,1,0,4,2,4,5,0,0.885,0,
+MOCK081,38,2,2,2,0,3,1,3,5,0,0.779,0,
+MOCK082,30,2,3,1,0,1,1,3,4,0,0.976,1,mainly rent went up again and my salary didn't. hard to stay motivated. the new it system crashes constantly and nobody was trained on it. fuel prices have made driving to work really expensive.
+MOCK083,41,2,5,7,0,3,1,3,2,1,1.319,1,Biggest thing: Parking at work was removed and public transport doesn't reach us. My back is wrecked from standing all day. Childcare costs more than half of what I earn after tax.
+MOCK084,35,2,1,3,1,3,3,3,7,0,0.528,0,
+MOCK085,54,1,4,8,0,5,4,2,5,1,1.376,0,
+MOCK086,35,2,5,2,0,1,0,4,4,0,1.383,0,
+MOCK087,42,2,1,2,0,2,3,2,6,1,0.617,0,
+MOCK088,41,2,3,12,0,3,1,3,6,0,0.934,0,
+MOCK089,35,2,6,11,0,-99,0,2,6,1,1.414,0,
+MOCK090,41,2,2,4,1,4,2,3,6,0,0.818,0,
+MOCK091,40,2,2,2,0,2,0,3,6,0,0.871,1,"Probably too much work, not enough hours in the day"
+MOCK092,29,2,3,11,0,-99,0,4,2,1,1.086,0,
+MOCK093,42,1,1,11,0,3,2,3,4,0,0.524,1,"Nothing, it's been a good year actually."
+MOCK094,31,3,6,13,0,2,1,2,7,0,1.067,1,Dealing with aggressive customers has made me anxious about going in. Childcare costs more than half of what I earn after tax. Fuel prices have made driving to work really expensive.
+MOCK095,44,2,2,6,1,4,1,5,4,0,0.871,0,
+MOCK096,27,1,2,6,0,2,1,3,-99,0,0.665,0,
+MOCK097,43,-98,6,24,1,3,0,3,5,0,1.304,0,
+MOCK098,56,1,1,20,0,5,-99,1,5,1,0.603,0,
+MOCK099,59,1,5,3,0,4,0,3,6,0,1.312,0,
+MOCK100,51,2,6,11,0,3,1,3,-99,1,1.238,0,
+MOCK101,48,1,6,2,0,4,2,2,5,1,1.423,0,
+MOCK102,60,2,3,0,0,4,0,4,6,0,1.008,0,
+MOCK103,33,2,6,2,1,6,2,2,3,1,1.36,0,
+MOCK104,21,1,6,1,0,3,0,4,4,1,1.244,0,
+MOCK105,43,1,2,7,0,1,-99,2,9,1,0.802,0,
+MOCK106,59,2,2,24,0,-99,1,5,4,1,0.875,1,"Honestly, commuting costs pay. cost of living. Emails at all hours. There's no real end to the working day anymore."
+MOCK107,46,2,1,5,1,5,2,3,5,0,0.601,0,
+MOCK108,51,1,1,7,0,5,3,3,4,1,0.531,0,
+MOCK109,46,1,2,8,1,3,2,2,8,1,0.721,1,"Honestly, staff shortages mean we're always firefighting instead of doing the actual job."
+MOCK110,65,2,3,11,0,4,0,4,4,0,0.904,1,"Biggest thing: The volume of admin has doubled. Forms for everything. An hour and a half each way, it's exhausting."
+MOCK111,21,2,6,3,0,4,0,3,6,0,1.144,0,
+MOCK112,21,2,5,3,0,3,-99,3,6,0,1.575,0,
+MOCK113,49,1,4,4,0,6,3,2,6,0,1.43,0,
+MOCK114,47,1,2,5,0,1,1,4,7,0,0.707,0,
+MOCK115,67,1,4,10,0,-99,4,2,7,0,1.403,0,
+MOCK116,44,1,1,1,1,4,3,2,7,0,0.544,1,"Probably childcare costs more than half of what I earn after tax. Exhausted most of the time, honestly."
+MOCK117,45,2,3,2,0,2,1,4,3,0,1.08,0,
+MOCK118,-99,2,1,5,0,-99,2,3,7,1,0.616,1,"Mainly burnout. I've been off sick twice this year with stress. No recognition for extra effort, only criticism when something goes wrong."
+MOCK119,55,2,2,1,0,4,1,4,6,0,0.668,0,
+MOCK120,58,2,1,7,0,3,3,2,5,0,0.6,0,
+MOCK121,25,2,3,7,0,3,2,5,-98,0,0.981,0,
+MOCK122,35,1,6,3,1,4,0,2,6,0,1.407,0,
+MOCK123,45,1,3,1,0,-99,1,3,5,0,1.019,0,
+MOCK124,50,1,5,1,0,-99,1,3,2,1,1.472,1,
+MOCK125,35,1,5,4,0,-99,1,2,3,1,1.685,0,
+MOCK126,38,2,3,0,1,3,1,5,6,1,1.061,0,
+MOCK127,50,1,1,1,0,3,2,3,5,1,0.613,0,
+MOCK128,52,2,4,10,0,6,4,2,6,1,1.099,0,
+MOCK129,47,-98,5,4,1,3,0,3,6,0,1.564,1,
+MOCK130,30,2,2,0,1,2,2,3,7,0,0.801,1,"Hard to say but no recognition for extra effort, only criticism when something goes wrong. Can't afford to live near work anymore so I've had to move further out. Long shifts with no proper breaks."
+MOCK131,33,1,2,8,1,2,2,3,4,0,0.798,1,"workload, simply put"
+MOCK132,46,1,6,5,1,2,1,2,6,0,1.361,1,To be honest pay hasn't kept up with the cost of living at all.
+MOCK133,43,1,2,3,0,2,-99,3,5,0,0.678,0,
+MOCK134,61,2,3,16,0,4,0,4,3,0,1.06,1,"Mainly emails at all hours. There's no real end to the working day anymore. Exhausted most of the time, honestly."
+MOCK135,52,1,6,9,0,-99,0,3,2,1,1.412,0,
+MOCK136,37,1,1,1,0,3,3,2,5,0,0.574,0,
+MOCK137,43,2,2,1,1,5,0,3,5,0,0.849,0,
+MOCK138,51,3,2,2,0,2,0,4,4,0,0.733,0,
+MOCK139,45,2,1,4,1,3,1,3,6,0,0.561,1,"Hard to say but my line manager changed three times this year so nothing is consistent. No flexibility for parents, you either fit their hours or you leave."
+MOCK140,37,1,2,6,0,2,0,4,3,1,0.741,0,
+MOCK141,45,2,2,2,1,2,2,2,-98,0,0.864,1,"honestly, no flexibility for parents, you either fit their hours or you leave. hard to switch off when your office is your kitchen table."
+MOCK142,42,1,1,3,1,3,2,2,6,0,0.566,0,
+MOCK143,51,1,3,5,0,3,0,4,4,1,1.013,1,"too much work, not enough hours in the day The return-to-office mandate added two hours of commuting to my week for no reason. Juggling school runs with fixed start times is a nightmare."
+MOCK144,48,1,3,11,0,4,0,4,5,1,1.103,1,Hard to say but emails at all hours. There's no real end to the working day anymore. Rent went up again and my salary didn't. Hard to stay motivated.
+MOCK145,49,2,3,29,0,3,0,4,2,0,1.15,1,"Honestly, too much work, not enough hours in the day"
+MOCK146,40,2,4,10,0,4,4,2,9,0,1.443,0,
+MOCK147,55,1,3,7,0,-99,0,4,1,1,0.98,1,
+MOCK148,36,1,2,2,1,3,-99,2,3,1,0.662,0,
+MOCK149,36,1,4,18,1,-99,5,3,4,0,1.42,0,
+MOCK150,34,2,3,1,1,3,0,4,4,1,1.147,0,
+MOCK151,38,2,1,5,0,3,-99,3,6,1,0.556,0,
+MOCK152,39,1,5,20,0,4,0,1,6,0,1.664,1,"Honestly, too much work, not enough hours in the day Rent went up again and my salary didn't. Hard to stay motivated. Burnout. I've been off sick twice this year with stress."
+MOCK153,47,2,4,2,1,-99,4,4,7,1,1.364,1,To be honest micromanagement. Every small thing has to be signed off.
+MOCK154,27,2,4,3,0,5,-99,3,-99,0,1.152,0,
+MOCK155,47,2,2,1,0,3,0,3,-98,1,0.853,0,
+MOCK156,32,2,6,7,1,2,-99,1,4,0,1.17,0,
+MOCK157,63,2,6,1,0,4,2,1,7,0,1.406,1,"Honestly, we were told to use AI tools but nobody explained what we're allowed to put into them. Management don't listen and decisions come down with no explanation."
+MOCK158,43,2,5,9,1,1,1,3,1,1,1.69,0,
+MOCK159,-99,1,6,7,0,5,2,4,-99,1,1.098,1,
+MOCK160,37,1,2,19,0,2,3,2,7,0,0.739,1,Mainly pay hasn't kept up with the cost of living at all. Burnout. I've been off sick twice this year with stress.
+MOCK161,42,2,4,7,1,6,2,2,3,1,1.214,0,
+MOCK162,52,1,1,4,0,4,2,3,4,0,0.486,0,
+MOCK163,-99,2,2,0,0,3,2,3,6,0,0.664,1,Staff shortages mean we're always firefighting instead of doing the actual job. The new performance review system feels like box ticking.
+MOCK164,39,2,6,7,0,2,0,4,4,1,1.174,0,
+MOCK165,23,2,3,5,0,2,2,5,4,1,1.033,0,
+MOCK166,39,2,2,5,0,3,0,3,8,0,0.839,0,
+MOCK167,53,2,5,5,0,6,0,4,5,0,1.64,1,Nothing really
+MOCK168,28,1,4,10,0,5,3,3,9,0,1.421,1,Probably we were told to use AI tools but nobody explained what we're allowed to put into them. New starters on the team are struggling because nobody is in the office to help them.
+MOCK169,62,2,3,2,0,4,2,4,4,1,1.016,0,
+MOCK170,39,1,3,0,0,4,0,3,5,1,0.948,0,
+MOCK171,47,1,2,13,1,-99,2,3,6,1,0.784,0,
+MOCK172,47,2,1,10,0,-99,2,2,7,0,0.635,0,
+MOCK173,51,2,4,0,0,4,5,2,5,1,1.215,0,
+MOCK174,38,2,2,5,0,3,1,2,7,1,0.747,0,
+MOCK175,41,1,3,1,1,-99,1,3,2,0,0.891,0,
+MOCK176,38,2,5,20,1,1,0,3,3,0,1.58,1,
+MOCK177,60,1,3,26,0,6,0,4,3,0,0.956,0,
+MOCK178,47,2,5,0,1,3,1,3,6,1,1.556,1,
+MOCK179,52,2,5,4,0,1,0,3,4,0,1.562,0,
+MOCK180,28,1,4,1,0,4,5,2,7,1,1.143,0,
+MOCK181,48,2,3,1,1,3,0,3,4,0,0.888,0,
+MOCK182,39,2,2,1,0,3,1,4,4,0,0.72,0,
+MOCK183,35,1,6,10,0,3,2,3,-98,0,1.364,0,
+MOCK184,27,1,4,9,0,-99,3,1,7,0,1.125,0,
+MOCK185,59,2,2,1,0,5,1,4,5,0,0.715,0,
+MOCK186,48,2,3,0,0,5,-99,4,3,0,0.91,0,
+MOCK187,21,2,6,3,0,3,0,4,3,1,1.089,1,"Where do I start. Childcare costs more than half of what I earn after tax. workload, simply put Burnout. I've been off sick twice this year with stress."
+MOCK188,28,2,6,4,0,1,0,3,5,1,1.102,0,
+MOCK189,46,2,6,21,0,1,1,4,2,1,1.395,0,
+MOCK190,43,1,1,8,1,4,3,2,5,1,0.578,0,
+MOCK191,50,2,1,4,0,-99,1,3,3,1,0.531,0,
+MOCK192,51,1,6,14,0,5,1,2,4,0,1.38,1,"Mainly parking at work was removed and public transport doesn't reach us. workload, simply put Being told to come in more days when the work can be done from home."
+MOCK193,46,2,4,0,1,5,-99,2,5,1,1.145,1,Hard to say but too many apps and logins. Information is spread across five systems.
+MOCK194,55,1,1,10,0,5,1,3,4,0,0.564,0,
+MOCK195,37,2,4,0,0,3,5,1,6,0,1.146,1,Hybrid is fine but the office days are just video calls from a different desk. pay. cost of living.
+MOCK196,36,1,3,15,0,4,0,3,5,1,1.166,0,
+MOCK197,31,1,1,1,0,1,4,1,7,0,0.539,1,Restructuring every six months and nobody explains why.
+MOCK198,48,2,1,3,1,-99,2,3,8,0,0.471,0,
+MOCK199,55,2,1,25,0,4,3,3,5,0,0.499,0,
+MOCK200,45,2,3,2,1,1,3,3,4,1,1.145,0,

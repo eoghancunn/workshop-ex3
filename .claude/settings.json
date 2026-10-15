@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "defaultMode": "default",
+    "deny": [
+      "Read(./data/raw/**)",
+      "Edit(./data/raw/**)",
+      "Edit(./PLAN.md)",
+      "Edit(./.agent-audit.log)",
+      "Bash(git commit *)",
+      "Bash(git merge *)",
+      "Bash(git push *)"
+    ],
+    "ask": [
+      "Bash(pip install *)",
+      "Bash(uv add *)",
+      "WebFetch",
+      "WebSearch"
+    ]
+  },
+  "sandbox": {
+    "enabled": true,
+    "autoAllowBashIfSandboxed": false,
+    "allowUnsandboxedCommands": false
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          { "type": "command", "command": "\"$CLAUDE_PROJECT_DIR\"/hooks/audit-log.sh" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+data/derived/
+.agent-audit.log
+.DS_Store
+__pycache__/
+.venv/
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
